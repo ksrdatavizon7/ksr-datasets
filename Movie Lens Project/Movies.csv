@@ -1,0 +1,4001 @@
+movie_id,movie_name,year,genres
+887,Shree Mission Ki Baatein,1939,Drama
+1659,Baazigar Sapna Se Mulakaat,1974,Drama
+1682,Dil Dosti Ki Kahani,1953,Drama
+1699,Chalte Mission Ki Kahani,1968,Drama
+1727,Raj Andaz Ki Kahani,1943,Drama
+1758,Prem Raja Ka Raaz,2007,Drama
+1776,Tum Sapna Ka Intezaar,2018,Drama
+1807,Hamari Jung Ki Duniya,1947,Drama
+1810,Hamari Manzil Ki Kahani,2004,Drama
+1814,Ek Raat Se Mulakaat,1986,Drama
+1820,Raj Raat Ki Duniya,1992,Drama
+1836,Baazigar Manzil Ki Kahani,1949,Drama
+1840,Jab Manzil Ki Kahani,1946,Drama
+1873,Khiladi Kahani Ka Intezaar,1970,Drama
+1877,Aashiq Raat Ka Safar,1963,Drama
+1922,Ek Manzil Ka Safar,1998,Drama
+2165,Khiladi Pyaar Ka Intezaar,1973,Drama
+2188,Baazigar Manzil Ka Intezaar,2023,Drama
+2190,Dil Zindagi Ke Rang,1938,Drama
+2233,Tum Kahani Hai,2022,Drama
+2234,Tera Raat Hai,2020,Drama
+2236,Aashiq Manzil Ki Duniya,2007,Drama
+2237,Jab Pyaar Ki Kahani,1930,Drama
+2271,Dil Rishta Ka Safar,2008,Drama
+2272,Tum Dosti Ki Baatein,1986,Drama
+2276,Baazigar Raja Ke Rang,2012,Drama
+2293,Chalte Zindagi Ki Baatein,1985,Drama
+2304,Prem Raat Ka Intezaar,2023,Drama
+2305,Khiladi Zindagi Ka Raaz,1935,Drama
+2309,Prem Sapna Hai,2008,Drama
+2310,Khiladi Zindagi Hai,1962,Drama
+2314,Khiladi Pyaar Ka Intezaar,2008,Drama
+2329,Jab Manzil Se Mulakaat,1981,Drama
+2333,Ek Dosti Ki Duniya,1936,Drama
+2336,Shree Kahani Ki Duniya,2016,Drama
+2337,Dil Zindagi Ka Raaz,1998,Drama
+2341,Ek Raja Ka Safar,1989,Drama
+2343,Tera Raja Ka Safar,1996,Drama
+2357,Baazigar Dosti Se Mulakaat,1957,Drama
+2358,Raj Mission Se Mulakaat,1975,Drama
+2360,Chalte Raat Ki Kahani,1931,Drama
+2386,Baazigar Pyaar Ki Kahani,1961,Drama
+2432,Aashiq Kahani Ka Intezaar,1974,Drama
+2433,Tera Sapna Ka Intezaar,2001,Drama
+2434,Khiladi Mission Ka Safar,1990,Drama
+2435,Shree Pyaar Ki Duniya,1931,Drama
+2440,Raj Pyaar Ki Kahani,1970,Drama
+2442,Tum Manzil Ke Rang,1990,Drama
+2486,Jab Zindagi Ke Rang,1988,Drama
+2489,Tera Pyaar Ki Duniya,1993,Drama
+2503,Chalte Rishta Ki Kahani,1933,Drama
+2544,Chalte Zindagi Se Mulakaat,2020,Drama
+2547,Ek Rishta Ka Safar,1975,Drama
+2557,Prem Pyaar Ki Baatein,2015,Drama
+2563,Tera Zindagi Ki Baatein,1991,Drama
+2573,Dil Kahani Se Mulakaat,2013,Drama
+2575,Shree Pyaar Ka Intezaar,1993,Drama
+2579,Shree Pyaar Ka Raaz,1933,Drama
+2588,Aashiq Manzil Ka Intezaar,2025,Drama
+2590,Jab Zindagi Se Mulakaat,1996,Drama
+2603,Tera Andaz Ki Duniya,1954,Drama
+2607,Tum Mission Ka Intezaar,1972,Drama
+2611,Ek Zindagi Ki Kahani,1938,Drama
+2624,Raj Raat Ka Safar,2025,Drama
+2630,Dil Raat Ki Kahani,1946,Drama
+2673,Shree Raat Ki Duniya,1936,Drama
+2691,Chalte Jung Hai,1955,Drama
+2703,Baazigar Andaz Ka Safar,1987,Drama
+2705,Tera Sapna Ka Raaz,1980,Drama
+2773,Shree Rishta Ki Baatein,1975,Drama
+2775,Hamari Rishta Ki Baatein,2001,Drama
+2825,Khiladi Kahani Ki Kahani,1965,Drama
+2830,Raj Andaz Ki Duniya,1981,Drama
+2839,Hamari Kahani Se Mulakaat,1931,Drama
+2911,Shree Jung Hai,1956,Drama
+2958,Baazigar Manzil Hai,1957,Drama
+2994,Khiladi Rishta Ki Duniya,1942,Drama
+3187,Tera Jung Ka Raaz,1965,Drama
+3191,Tera Manzil Ka Safar,1996,Drama
+3192,Tum Jung Ka Intezaar,1997,Drama
+3352,Chalte Andaz Ke Rang,1948,Drama
+3411,Prem Dosti Ke Rang,1944,Drama
+3636,Ek Jung Ke Rang,2005,Drama
+3853,Tera Rishta Hai,1999,Drama
+3876,Raj Raja Ki Baatein,1966,Drama
+3887,Ek Kahani Ki Duniya,1960,Drama
+14,Baazigar Zindagi Ki Kahani,1935,Drama
+26,Aashiq Manzil Ki Baatein,1993,Drama
+27,Jab Andaz Ka Intezaar,2025,Drama
+30,Chalte Sapna Hai,1937,Drama
+31,Ek Jung Ki Baatein,2021,Drama
+36,Shree Zindagi Ka Raaz,2004,Drama
+40,Jab Raja Ki Duniya,1969,Drama
+43,Prem Dosti Ki Duniya,1934,Drama
+55,Shree Manzil Ka Safar,1937,Drama
+57,Hamari Jung Ka Safar,1968,Drama
+62,Shree Rishta Se Mulakaat,1985,Drama
+67,Baazigar Sapna Ka Intezaar,1971,Drama
+78,Tum Jung Se Mulakaat,1965,Drama
+80,Ek Manzil Ki Kahani,1948,Drama
+82,Raj Mission Ke Rang,1937,Drama
+83,Prem Jung Ki Baatein,1932,Drama
+90,Hamari Raja Ka Safar,1970,Drama
+97,Chalte Sapna Ka Raaz,2020,Drama
+114,Tera Jung Ka Intezaar,1959,Drama
+124,Prem Rishta Hai,1994,Drama
+130,Baazigar Zindagi Ka Intezaar,1955,Drama
+138,Dil Andaz Ka Raaz,1952,Drama
+143,Tum Kahani Ki Duniya,1930,Drama
+147,Prem Pyaar Ki Duniya,1948,Drama
+148,Aashiq Rishta Ki Kahani,1972,Drama
+150,Shree Dosti Se Mulakaat,2020,Drama
+159,Dil Dosti Se Mulakaat,2005,Drama
+167,Tera Sapna Ki Duniya,2016,Drama
+175,Raj Sapna Se Mulakaat,2024,Drama
+191,Tum Raat Ki Baatein,2020,Drama
+193,Aashiq Manzil Ki Duniya,2011,Drama
+194,Hamari Kahani Ka Intezaar,1947,Drama
+197,Tum Raat Ki Baatein,1998,Drama
+201,Hamari Mission Se Mulakaat,2012,Drama
+209,Khiladi Raat Ka Raaz,1988,Drama
+219,Aashiq Rishta Ka Raaz,1973,Drama
+254,Khiladi Raat Hai,2010,Drama
+271,Tera Jung Ka Safar,1932,Drama
+279,Dil Rishta Ka Safar,1934,Drama
+297,Raj Zindagi Ki Duniya,1981,Drama
+358,Jab Manzil Ke Rang,1973,Drama
+388,Shree Pyaar Ka Intezaar,2016,Drama
+395,Hamari Andaz Ka Intezaar,1993,Drama
+396,Tera Andaz Ki Kahani,1933,Drama
+399,Ek Pyaar Hai,1988,Drama
+400,Tum Raat Ka Intezaar,2021,Drama
+617,Raj Raja Ke Rang,1961,Drama
+629,Prem Mission Ka Intezaar,2015,Drama
+636,Chalte Andaz Hai,2015,Drama
+642,Hamari Manzil Ki Baatein,1942,Drama
+645,Tum Raja Ki Duniya,1958,Drama
+658,Khiladi Zindagi Se Mulakaat,2006,Drama
+672,Prem Raja Se Mulakaat,1949,Drama
+679,Khiladi Pyaar Ki Baatein,1942,Drama
+685,Aashiq Sapna Ka Raaz,1935,Drama
+715,Jab Jung Ki Kahani,1986,Drama
+721,Khiladi Jung Hai,1976,Drama
+729,Dil Kahani Ki Kahani,1933,Drama
+738,Prem Dosti Ki Baatein,2021,Drama
+744,Tum Rishta Se Mulakaat,1931,Drama
+767,Shree Zindagi Ki Duniya,1972,Drama
+768,Shree Zindagi Ka Raaz,1960,Drama
+814,Tera Raat Ki Duniya,1936,Drama
+816,Raj Sapna Ka Intezaar,1976,Drama
+826,Tum Zindagi Ke Rang,1931,Drama
+827,Tum Kahani Hai,1976,Drama
+831,Prem Mission Se Mulakaat,1977,Drama
+843,Aashiq Raja Se Mulakaat,2010,Drama
+846,Prem Pyaar Ki Kahani,1975,Drama
+865,Shree Manzil Ka Safar,1969,Drama
+878,Khiladi Pyaar Ki Baatein,1966,Drama
+884,Raj Sapna Ka Intezaar,2020,Drama
+989,Tera Zindagi Ka Raaz,1982,Drama
+1116,Khiladi Jung Hai,1983,Drama
+1141,Tum Dosti Ka Safar,2002,Drama
+1406,Prem Manzil Ki Baatein,1990,Drama
+1428,Raj Sapna Ka Intezaar,1964,Drama
+1555,Tera Kahani Ka Safar,1953,Drama
+1559,Chalte Mission Ke Rang,1942,Drama
+1741,Baazigar Rishta Ki Kahani,1949,Drama
+1757,Shree Dosti Ki Baatein,1981,Drama
+1789,Dil Pyaar Ke Rang,1977,Drama
+1795,Dil Jung Ki Duniya,1984,Drama
+1872,Chalte Andaz Ki Kahani,1956,Drama
+2274,Raj Pyaar Ka Intezaar,2004,Drama
+94,Hamari Raat Ki Baatein,1979,Drama
+120,Prem Mission Ka Safar,2010,Drama
+650,Baazigar Pyaar Ki Baatein,2007,Drama
+660,Chalte Sapna Ke Rang,2006,Drama
+666,Khiladi Mission Ka Raaz,1934,Drama
+676,Ek Dosti Ka Intezaar,2006,Drama
+703,Aashiq Rishta Ka Raaz,1994,Drama
+706,Chalte Rishta Ki Baatein,1993,Drama
+726,Raj Raja Ki Baatein,1967,Drama
+763,Shree Manzil Ka Safar,1975,Drama
+766,Chalte Raat Ki Duniya,2010,Drama
+778,Jab Mission Ki Kahani,1948,Drama
+781,Tum Rishta Ke Rang,1995,Drama
+805,Shree Mission Ka Safar,1945,Drama
+806,Khiladi Sapna Ke Rang,2002,Drama
+835,Hamari Zindagi Ki Baatein,1987,Drama
+848,Chalte Raja Ke Rang,1947,Drama
+851,Jab Mission Ki Baatein,2004,Drama
+862,Tera Zindagi Ki Duniya,1981,Drama
+877,Tera Manzil Ke Rang,1971,Drama
+893,Tera Jung Hai,1932,Drama
+993,Shree Manzil Se Mulakaat,1938,Drama
+994,Dil Kahani Ka Intezaar,2007,Drama
+1006,Tera Kahani Ki Kahani,1940,Drama
+1038,Jab Sapna Ka Intezaar,1948,Drama
+1040,Jab Pyaar Ki Kahani,1978,Drama
+1041,Ek Raat Ka Raaz,1983,Drama
+1044,Baazigar Mission Ke Rang,2003,Drama
+1051,Jab Sapna Ka Safar,1935,Drama
+1052,Dil Sapna Ke Rang,1942,Drama
+1054,Aashiq Rishta Ki Baatein,1932,Drama
+1056,Raj Raja Ki Duniya,2007,Drama
+1058,Khiladi Sapna Ki Kahani,1985,Drama
+1062,Ek Andaz Hai,1961,Drama
+1063,Aashiq Kahani Ka Intezaar,1988,Drama
+1109,Khiladi Sapna Ki Duniya,2017,Drama
+1114,Jab Raat Ki Kahani,2023,Drama
+1117,Chalte Jung Ka Safar,2021,Drama
+1120,Hamari Dosti Ki Kahani,1955,Drama
+1121,Khiladi Sapna Hai,1977,Drama
+1139,Dil Raat Ke Rang,1968,Drama
+1140,Aashiq Dosti Ki Duniya,1944,Drama
+1142,Jab Raja Ka Intezaar,1991,Drama
+1312,Aashiq Raja Ka Intezaar,1939,Drama
+1316,Tum Dosti Ki Kahani,2025,Drama
+1354,Shree Manzil Hai,1985,Drama
+1363,Aashiq Zindagi Se Mulakaat,2011,Drama
+1365,Prem Raja Ki Baatein,1989,Drama
+1366,Baazigar Dosti Ka Raaz,1962,Drama
+1384,Baazigar Raat Ka Safar,2018,Drama
+1397,Ek Zindagi Ki Kahani,2012,Drama
+1399,Dil Manzil Ka Raaz,2012,Drama
+1400,Aashiq Pyaar Se Mulakaat,1987,Drama
+1401,Shree Dosti Se Mulakaat,2008,Drama
+1411,Tum Jung Ke Rang,1971,Drama
+1412,Tera Mission Ka Safar,2000,Drama
+1413,Raj Rishta Ke Rang,1940,Drama
+1417,Chalte Andaz Ki Duniya,1996,Drama
+1423,Ek Manzil Se Mulakaat,2015,Drama
+1486,Chalte Zindagi Ka Intezaar,1944,Drama
+1504,Dil Zindagi Ki Duniya,1969,Drama
+1519,Shree Raat Se Mulakaat,1995,Drama
+1522,Aashiq Andaz Hai,2001,Drama
+1531,Shree Raat Hai,2010,Drama
+1533,Hamari Mission Se Mulakaat,1934,Drama
+1545,Chalte Jung Ki Duniya,2015,Drama
+1548,Aashiq Jung Hai,1938,Drama
+1557,Jab Jung Ke Rang,2022,Drama
+1575,Hamari Mission Ki Baatein,2001,Drama
+1577,Hamari Zindagi Se Mulakaat,1943,Drama
+1579,Hamari Raja Hai,2019,Drama
+1664,Aashiq Mission Ki Baatein,1961,Drama
+1705,Prem Andaz Ki Kahani,2023,Drama
+1706,Tum Rishta Ki Kahani,2014,Drama
+1710,Dil Raat Hai,1945,Drama
+1724,Tera Raat Ki Duniya,1977,Drama
+1781,Prem Kahani Ki Baatein,1939,Drama
+1893,Dil Dosti Ke Rang,2018,Drama
+2576,Dil Raat Hai,1961,Drama
+2609,Baazigar Dosti Ke Rang,1968,Drama
+3009,Tera Kahani Ka Raaz,1975,Drama
+3378,Shree Raat Ki Kahani,1983,Drama
+2445,Tum Sapna Ki Duniya,1964,Drama
+2501,Jab Raja Hai,1956,Drama
+2508,Raj Andaz Ke Rang,1960,Drama
+2541,Chalte Kahani Ki Baatein,2025,Drama
+2546,Baazigar Raja Se Mulakaat,1938,Drama
+2564,Ek Kahani Hai,1970,Drama
+2592,Jab Mission Ka Safar,2012,Drama
+2610,Dil Raja Se Mulakaat,2021,Drama
+2619,Prem Raja Ki Duniya,1987,Drama
+2674,Khiladi Andaz Ka Raaz,2024,Drama
+2678,Dil Manzil Ka Intezaar,1961,Drama
+2682,Dil Raja Ke Rang,1982,Drama
+2702,Tum Sapna Ke Rang,1967,Drama
+2711,Ek Kahani Ki Baatein,1967,Drama
+2712,Tum Rishta Se Mulakaat,1997,Drama
+2714,Ek Mission Ka Safar,1970,Drama
+2725,Shree Jung Ki Baatein,2000,Drama
+2771,Khiladi Manzil Se Mulakaat,1987,Drama
+2831,Tera Zindagi Ka Intezaar,1949,Drama
+2832,Raj Jung Ka Intezaar,1972,Drama
+2845,Tera Rishta Ke Rang,1983,Drama
+2882,Aashiq Raat Ke Rang,1981,Drama
+2887,Shree Raat Ke Rang,1939,Drama
+2908,Aashiq Sapna Hai,2020,Drama
+2959,Ek Sapna Se Mulakaat,1942,Drama
+2960,Prem Jung Ki Duniya,1976,Drama
+2964,Tera Zindagi Hai,1978,Drama
+2966,Dil Manzil Ka Intezaar,2018,Drama
+2975,Tera Andaz Ka Safar,1935,Drama
+2979,Jab Kahani Ka Raaz,1964,Drama
+2996,Chalte Manzil Ki Kahani,2019,Drama
+3001,Khiladi Kahani Ki Kahani,1992,Drama
+3006,Raj Rishta Ki Baatein,1966,Drama
+3010,Khiladi Pyaar Ke Rang,1943,Drama
+3050,Shree Dosti Ki Kahani,1964,Drama
+3051,Raj Dosti Ka Raaz,1980,Drama
+3078,Tera Zindagi Ki Kahani,2013,Drama
+3079,Baazigar Rishta Se Mulakaat,1973,Drama
+3115,Jab Raat Ka Intezaar,1978,Drama
+3116,Raj Rishta Ka Safar,1952,Drama
+3118,Raj Raja Hai,1980,Drama
+3125,Chalte Pyaar Ke Rang,1974,Drama
+3127,Tera Raat Ka Raaz,1995,Drama
+3128,Jab Rishta Ki Kahani,1949,Drama
+3145,Ek Raat Ki Kahani,1992,Drama
+3148,Jab Jung Ka Raaz,1965,Drama
+3150,Jab Pyaar Ka Intezaar,1998,Drama
+3158,Tum Mission Hai,1976,Drama
+3160,Prem Jung Ki Kahani,1945,Drama
+3161,Raj Manzil Se Mulakaat,1975,Drama
+3163,Khiladi Mission Se Mulakaat,1943,Drama
+3173,Raj Pyaar Ka Safar,1958,Drama
+3178,Khiladi Pyaar Ki Baatein,2025,Drama
+3179,Jab Rishta Ki Baatein,1939,Drama
+3181,Khiladi Zindagi Ka Raaz,1986,Drama
+3183,Tum Andaz Se Mulakaat,1973,Drama
+3185,Dil Sapna Ka Raaz,1951,Drama
+3186,Hamari Mission Ki Duniya,1930,Drama
+3277,Aashiq Dosti Ke Rang,1990,Drama
+3288,Shree Jung Ke Rang,2021,Drama
+3289,Khiladi Mission Se Mulakaat,1966,Drama
+3319,Chalte Raja Hai,2018,Drama
+3456,Tera Rishta Se Mulakaat,1957,Drama
+3457,Chalte Rishta Hai,2002,Drama
+3509,Tera Rishta Ka Safar,1940,Drama
+3568,Hamari Rishta Ki Baatein,1965,Drama
+3570,Dil Sapna Ki Duniya,2009,Drama
+3581,Dil Sapna Ka Raaz,2004,Drama
+3720,Prem Mission Ka Safar,1984,Drama
+3747,Chalte Mission Ki Kahani,1935,Drama
+3749,Aashiq Mission Ki Kahani,2018,Drama
+3795,Aashiq Kahani Ka Safar,1961,Drama
+3823,Dil Kahani Ke Rang,2012,Drama
+3856,Hamari Raat Ki Duniya,1988,Drama
+3867,Dil Raja Ka Raaz,1954,Drama
+3894,Khiladi Sapna Ka Raaz,1980,Drama
+3902,Ek Kahani Ka Raaz,1989,Drama
+3907,Prem Kahani Ki Baatein,1934,Drama
+981,Jab Kahani Hai,1961,Drama
+1119,Jab Pyaar Ki Kahani,1967,Drama
+1351,Shree Raat Hai,1956,Drama
+1442,Hamari Mission Ki Kahani,1933,Drama
+1465,Raj Pyaar Ke Rang,1939,Drama
+1471,Tera Manzil Ki Duniya,1961,Drama
+1508,Raj Raja Ka Intezaar,1968,Drama
+1509,Khiladi Rishta Se Mulakaat,2016,Drama
+1510,Tum Pyaar Ki Duniya,1935,Drama
+1529,Tera Rishta Se Mulakaat,2019,Drama
+1543,Chalte Jung Ki Baatein,1995,Drama
+1563,Dil Pyaar Ka Intezaar,1944,Drama
+1567,Ek Jung Ka Intezaar,1976,Drama
+1594,Aashiq Manzil Ke Rang,1966,Drama
+1596,Dil Andaz Ki Kahani,1933,Drama
+1609,Hamari Zindagi Ka Raaz,2020,Drama
+1613,Khiladi Raja Ki Duniya,2005,Drama
+1621,Jab Raja Ka Intezaar,2024,Drama
+1624,Shree Raat Ka Safar,1932,Drama
+1628,Tera Dosti Ke Rang,1970,Drama
+1633,Hamari Raat Ke Rang,1951,Drama
+1635,Ek Raat Hai,1986,Drama
+1650,Tera Zindagi Ke Rang,1981,Drama
+1651,Tum Pyaar Ka Safar,1997,Drama
+1660,Baazigar Sapna Hai,1993,Drama
+1668,Shree Mission Ka Safar,2008,Drama
+1672,Baazigar Mission Ki Duniya,2014,Drama
+1673,Jab Jung Hai,1964,Drama
+1693,Baazigar Mission Ki Kahani,1962,Drama
+1694,Tera Manzil Hai,2014,Drama
+1695,Shree Raja Ke Rang,1971,Drama
+1704,Raj Zindagi Ka Safar,1982,Drama
+1708,Tum Zindagi Ka Raaz,1969,Drama
+1716,Raj Andaz Ki Duniya,2023,Drama
+1719,Shree Manzil Ka Safar,1979,Drama
+1725,Ek Pyaar Ke Rang,1971,Drama
+1726,Raj Jung Ki Kahani,1986,Drama
+1728,Chalte Dosti Ke Rang,2022,Drama
+1730,Khiladi Zindagi Ki Baatein,1965,Drama
+1759,Ek Mission Ki Kahani,1986,Drama
+1768,Tera Rishta Ke Rang,1967,Drama
+1811,Dil Raja Se Mulakaat,2013,Drama
+1815,Jab Jung Ka Raaz,1958,Drama
+1819,Tum Zindagi Ke Rang,1991,Drama
+1844,Shree Pyaar Ke Rang,2012,Drama
+1846,Prem Dosti Se Mulakaat,1974,Drama
+1859,Aashiq Zindagi Ki Kahani,1944,Drama
+1860,Raj Raja Ki Kahani,1958,Drama
+1879,Aashiq Raja Ka Raaz,1994,Drama
+1880,Aashiq Dosti Ki Kahani,1986,Drama
+1890,Raj Zindagi Hai,1982,Drama
+1900,Chalte Pyaar Ki Baatein,1966,Drama
+1905,Tera Rishta Se Mulakaat,1978,Drama
+1915,Shree Andaz Se Mulakaat,1962,Drama
+2030,Ek Zindagi Ka Raaz,2007,Drama
+2192,Tera Andaz Ka Intezaar,2015,Drama
+2197,Jab Raat Ka Intezaar,1976,Drama
+2277,Shree Raat Ka Safar,1974,Drama
+2437,Shree Rishta Ka Raaz,1989,Drama
+2439,Tum Rishta Ki Duniya,1998,Drama
+2480,Baazigar Raat Se Mulakaat,1993,Drama
+2493,Raj Dosti Ki Duniya,2006,Drama
+2562,Khiladi Dosti Ka Intezaar,1977,Drama
+2680,Hamari Zindagi Ki Kahani,1966,Drama
+2695,Tum Mission Hai,1966,Drama
+2760,Shree Pyaar Se Mulakaat,1950,Drama
+2980,Chalte Andaz Ki Kahani,1966,Drama
+3065,Shree Raja Ki Duniya,2001,Drama
+3575,Khiladi Jung Se Mulakaat,1996,Drama
+53,Khiladi Andaz Se Mulakaat,1930,Drama
+121,Hamari Raja Ki Duniya,1988,Drama
+127,Baazigar Sapna Ki Kahani,1934,Drama
+142,Khiladi Andaz Ki Baatein,1967,Drama
+154,Chalte Mission Se Mulakaat,2001,Drama
+184,Jab Manzil Ki Duniya,2006,Drama
+211,Aashiq Kahani Ka Intezaar,1937,Drama
+213,Jab Rishta Ke Rang,2024,Drama
+214,Aashiq Andaz Ka Safar,1937,Drama
+233,Khiladi Pyaar Se Mulakaat,1968,Drama
+261,Aashiq Dosti Ki Kahani,1962,Drama
+263,Dil Raat Hai,1995,Drama
+264,Dil Sapna Ki Duniya,1979,Drama
+268,Prem Mission Ka Intezaar,1951,Drama
+269,Hamari Manzil Se Mulakaat,1978,Drama
+272,Khiladi Andaz Se Mulakaat,2023,Drama
+277,Baazigar Pyaar Hai,1999,Drama
+281,Aashiq Raat Ki Kahani,1932,Drama
+282,Tera Rishta Ki Baatein,1941,Drama
+299,Shree Zindagi Hai,1975,Drama
+300,Tum Rishta Ka Raaz,1955,Drama
+306,Jab Kahani Se Mulakaat,1980,Drama
+307,Shree Zindagi Ki Kahani,1935,Drama
+308,Raj Manzil Ke Rang,2019,Drama
+309,Tera Pyaar Se Mulakaat,1989,Drama
+314,Tum Sapna Ke Rang,1986,Drama
+318,Tera Andaz Ke Rang,1979,Drama
+321,Prem Raja Ka Raaz,1933,Drama
+326,Khiladi Andaz Ka Safar,2025,Drama
+331,Ek Pyaar Ki Duniya,1938,Drama
+334,Jab Manzil Ke Rang,1996,Drama
+337,Tera Dosti Ki Kahani,2009,Drama
+341,Aashiq Pyaar Ki Duniya,2010,Drama
+347,Raj Pyaar Ki Duniya,2016,Drama
+354,Tera Dosti Ki Baatein,2023,Drama
+365,Ek Mission Ki Baatein,2018,Drama
+369,Dil Kahani Ke Rang,1936,Drama
+375,Aashiq Mission Ke Rang,1966,Drama
+381,Tera Jung Ka Raaz,2018,Drama
+385,Ek Pyaar Ke Rang,1977,Drama
+386,Jab Manzil Ka Safar,1972,Drama
+406,Ek Raat Ka Safar,1989,Drama
+408,Tera Sapna Hai,1970,Drama
+409,Tera Pyaar Ki Baatein,1940,Drama
+412,Ek Raat Se Mulakaat,1974,Drama
+418,Chalte Pyaar Ki Baatein,1981,Drama
+424,Raj Raat Se Mulakaat,2018,Drama
+428,Raj Kahani Ka Safar,1961,Drama
+430,Chalte Dosti Ka Intezaar,1958,Drama
+439,Ek Raja Ki Baatein,1987,Drama
+448,Tum Andaz Ka Safar,1932,Drama
+452,Baazigar Mission Ki Baatein,1962,Drama
+456,Tera Sapna Se Mulakaat,2019,Drama
+475,Baazigar Raja Hai,1937,Drama
+477,Shree Raat Ka Raaz,2023,Drama
+483,Hamari Raat Ki Baatein,2002,Drama
+488,Prem Mission Hai,2021,Drama
+491,Ek Pyaar Se Mulakaat,2005,Drama
+495,Hamari Andaz Hai,1932,Drama
+501,Hamari Zindagi Ki Kahani,1932,Drama
+503,Khiladi Jung Ki Kahani,1959,Drama
+506,Baazigar Pyaar Ki Duniya,1932,Drama
+508,Dil Dosti Hai,1945,Drama
+510,Tum Pyaar Ka Raaz,2007,Drama
+515,Raj Sapna Ki Kahani,1994,Drama
+523,Tum Dosti Se Mulakaat,1974,Drama
+524,Ek Andaz Se Mulakaat,1971,Drama
+525,Dil Andaz Ki Kahani,1976,Drama
+526,Khiladi Kahani Ka Raaz,1945,Drama
+528,Shree Andaz Ki Baatein,1991,Drama
+529,Jab Raat Ke Rang,1969,Drama
+530,Khiladi Kahani Se Mulakaat,1996,Drama
+535,Dil Zindagi Se Mulakaat,1999,Drama
+536,Chalte Raat Ka Raaz,2022,Drama
+538,Ek Kahani Ka Intezaar,2022,Drama
+545,Hamari Mission Ki Duniya,2015,Drama
+557,Tera Andaz Ke Rang,2012,Drama
+560,Raj Mission Ka Raaz,1956,Drama
+563,Tum Zindagi Se Mulakaat,2004,Drama
+567,Jab Kahani Ki Duniya,1994,Drama
+571,Dil Andaz Ki Duniya,1960,Drama
+572,Hamari Jung Ki Kahani,1988,Drama
+573,Raj Pyaar Se Mulakaat,1935,Drama
+580,Ek Rishta Ki Baatein,1934,Drama
+584,Tum Pyaar Ka Safar,2000,Drama
+601,Khiladi Sapna Ke Rang,1984,Drama
+607,Hamari Raat Hai,1973,Drama
+615,Tera Andaz Ka Raaz,2021,Drama
+620,Aashiq Sapna Ka Intezaar,1992,Drama
+621,Dil Raat Ki Baatein,1965,Drama
+625,Tum Raja Ka Safar,1974,Drama
+668,Ek Pyaar Ka Intezaar,1993,Drama
+669,Dil Pyaar Ke Rang,1973,Drama
+670,Chalte Andaz Hai,2019,Drama
+684,Chalte Pyaar Ki Duniya,2003,Drama
+693,Tera Zindagi Ke Rang,2003,Drama
+698,Jab Rishta Ka Intezaar,1942,Drama
+699,Baazigar Manzil Hai,2010,Drama
+701,Jab Sapna Ka Intezaar,1941,Drama
+702,Tera Sapna Ka Intezaar,1962,Drama
+712,Hamari Jung Ki Kahani,1952,Drama
+713,Baazigar Jung Se Mulakaat,1972,Drama
+723,Tum Pyaar Ka Intezaar,1991,Drama
+730,Dil Andaz Ka Intezaar,2004,Drama
+749,Raj Sapna Ke Rang,1973,Drama
+757,Aashiq Raat Ki Baatein,1976,Drama
+758,Baazigar Manzil Ki Kahani,1995,Drama
+770,Prem Kahani Ka Raaz,1971,Drama
+773,Tum Kahani Ke Rang,1951,Drama
+774,Prem Mission Ke Rang,2016,Drama
+789,Dil Zindagi Ki Duniya,2005,Drama
+790,Jab Andaz Ki Kahani,1932,Drama
+793,Baazigar Manzil Ka Safar,1939,Drama
+795,Raj Dosti Ki Baatein,1994,Drama
+796,Ek Manzil Ke Rang,2010,Drama
+812,Khiladi Rishta Ka Intezaar,1934,Drama
+820,Baazigar Dosti Se Mulakaat,1961,Drama
+822,Baazigar Pyaar Ki Duniya,1932,Drama
+823,Tum Jung Ke Rang,1973,Drama
+824,Aashiq Rishta Ke Rang,2020,Drama
+844,Jab Manzil Se Mulakaat,2006,Drama
+845,Jab Rishta Ki Baatein,1944,Drama
+853,Dil Manzil Ka Safar,1952,Drama
+854,Aashiq Zindagi Ke Rang,1950,Drama
+855,Ek Raat Se Mulakaat,1957,Drama
+857,Raj Mission Ki Baatein,1977,Drama
+872,Prem Mission Ka Raaz,2021,Drama
+873,Raj Mission Ki Kahani,2016,Drama
+875,Raj Raja Ki Baatein,1977,Drama
+895,Shree Kahani Ka Intezaar,2017,Drama
+896,Raj Raja Ki Kahani,1986,Drama
+923,Tum Zindagi Ki Duniya,1968,Drama
+926,Dil Raja Ka Raaz,1985,Drama
+944,Khiladi Sapna Ki Baatein,1942,Drama
+948,Baazigar Sapna Ka Safar,1960,Drama
+949,Dil Rishta Ka Safar,1943,Drama
+953,Jab Pyaar Hai,2008,Drama
+954,Shree Raja Ka Safar,1998,Drama
+957,Raj Zindagi Ki Duniya,2006,Drama
+959,Hamari Rishta Se Mulakaat,1953,Drama
+961,Prem Raat Ki Duniya,2021,Drama
+966,Aashiq Jung Ka Safar,1931,Drama
+971,Dil Kahani Ka Safar,2017,Drama
+972,Khiladi Raja Hai,1998,Drama
+973,Raj Rishta Ka Intezaar,1952,Drama
+978,Tera Andaz Ki Baatein,1976,Drama
+982,Shree Kahani Se Mulakaat,2002,Drama
+1027,Ek Pyaar Ki Baatein,1978,Drama
+1082,Shree Mission Hai,2011,Drama
+1095,Dil Pyaar Ki Duniya,1934,Drama
+1096,Aashiq Raja Ka Intezaar,1961,Drama
+1099,Tum Rishta Ki Baatein,1981,Drama
+1103,Raj Manzil Se Mulakaat,1986,Drama
+1104,Tum Zindagi Ki Kahani,2018,Drama
+1124,Hamari Manzil Se Mulakaat,1969,Drama
+1131,Tera Kahani Ke Rang,1979,Drama
+1132,Shree Raja Ka Safar,1966,Drama
+1150,Jab Zindagi Ka Raaz,2014,Drama
+1155,Dil Sapna Ka Intezaar,1954,Drama
+1156,Jab Jung Se Mulakaat,1981,Drama
+1157,Aashiq Rishta Ki Kahani,2023,Drama
+1161,Tera Jung Ka Raaz,1979,Drama
+1163,Hamari Rishta Ki Kahani,1965,Drama
+1164,Aashiq Pyaar Ka Intezaar,2025,Drama
+1173,Chalte Dosti Hai,1955,Drama
+1176,Ek Dosti Ki Baatein,2000,Drama
+1177,Hamari Raja Ki Kahani,1970,Drama
+1185,Tera Pyaar Ki Kahani,1947,Drama
+1186,Jab Raat Ka Raaz,1951,Drama
+1187,Raj Sapna Hai,1995,Drama
+1190,Jab Mission Ka Safar,1971,Drama
+1193,Jab Raat Hai,1953,Drama
+1203,Jab Raja Ke Rang,1966,Drama
+1207,Prem Raat Ka Intezaar,2024,Drama
+1225,Baazigar Sapna Ki Duniya,2012,Drama
+1228,Baazigar Mission Se Mulakaat,1937,Drama
+1231,Jab Zindagi Ki Duniya,1980,Drama
+1237,Prem Sapna Ki Kahani,1974,Drama
+1245,Aashiq Jung Ke Rang,2013,Drama
+1246,Khiladi Dosti Ka Safar,1940,Drama
+1251,Chalte Zindagi Ka Raaz,1992,Drama
+1268,Aashiq Raat Ki Duniya,2010,Drama
+1271,Ek Mission Se Mulakaat,1990,Drama
+1280,Tera Pyaar Ka Safar,1940,Drama
+1293,Hamari Zindagi Ki Baatein,1956,Drama
+1295,Prem Manzil Ki Baatein,2012,Drama
+1300,Ek Kahani Ki Duniya,1990,Drama
+1302,Baazigar Rishta Ki Baatein,1985,Drama
+1305,Dil Sapna Se Mulakaat,1979,Drama
+1360,Jab Mission Ke Rang,1980,Drama
+1362,Ek Rishta Ki Kahani,1974,Drama
+1368,Shree Sapna Ke Rang,1951,Drama
+1419,Khiladi Dosti Ki Duniya,2003,Drama
+1437,Prem Sapna Ka Intezaar,2022,Drama
+1524,Hamari Zindagi Hai,1971,Drama
+1534,Jab Raja Ka Safar,1993,Drama
+1572,Shree Andaz Ka Intezaar,2011,Drama
+1611,Tera Raja Ka Safar,1976,Drama
+1678,Tera Rishta Ki Duniya,1948,Drama
+1929,Jab Dosti Ka Intezaar,1930,Drama
+1930,Hamari Manzil Hai,2019,Drama
+1933,Shree Kahani Ki Duniya,1970,Drama
+1935,Hamari Pyaar Hai,1941,Drama
+1938,Jab Raat Se Mulakaat,1966,Drama
+1940,Aashiq Manzil Se Mulakaat,2025,Drama
+1941,Ek Andaz Ki Kahani,1947,Drama
+1942,Raj Raja Ka Raaz,1993,Drama
+1943,Chalte Mission Ka Safar,2022,Drama
+1949,Khiladi Raat Se Mulakaat,2007,Drama
+1952,Shree Zindagi Ke Rang,1972,Drama
+1955,Prem Dosti Ka Raaz,1944,Drama
+1956,Aashiq Pyaar Ki Baatein,1932,Drama
+1957,Prem Raat Ka Safar,2014,Drama
+1961,Tum Raat Ka Intezaar,1994,Drama
+1962,Khiladi Dosti Ki Duniya,2006,Drama
+2022,Prem Pyaar Ki Baatein,2000,Drama
+2068,Chalte Kahani Ki Kahani,1968,Drama
+2069,Tum Sapna Ka Raaz,1971,Drama
+2070,Prem Mission Ki Kahani,1997,Drama
+2071,Khiladi Jung Ki Baatein,1977,Drama
+2074,Tera Dosti Se Mulakaat,2006,Drama
+2104,Khiladi Sapna Se Mulakaat,1955,Drama
+2114,Baazigar Sapna Ka Safar,1988,Drama
+2131,Baazigar Raja Ke Rang,1957,Drama
+2132,Jab Raja Ka Raaz,1944,Drama
+2147,Raj Pyaar Ka Raaz,1950,Drama
+2164,Shree Andaz Ki Baatein,1933,Drama
+2200,Dil Sapna Ka Intezaar,1947,Drama
+2201,Tera Pyaar Ki Baatein,1957,Drama
+2207,Shree Sapna Ki Baatein,1937,Drama
+2216,Hamari Mission Ka Safar,1967,Drama
+2218,Chalte Kahani Ke Rang,1970,Drama
+2220,Jab Kahani Ki Kahani,1959,Drama
+2224,Baazigar Zindagi Ki Kahani,2020,Drama
+2225,Baazigar Raat Ka Raaz,1960,Drama
+2226,Hamari Raat Ki Baatein,2007,Drama
+2228,Ek Manzil Ka Intezaar,1957,Drama
+2229,Hamari Zindagi Ka Safar,2009,Drama
+2240,Ek Sapna Hai,1944,Drama
+2242,Jab Jung Ki Kahani,1938,Drama
+2250,Chalte Zindagi Ki Kahani,1966,Drama
+2254,Baazigar Sapna Ka Safar,1985,Drama
+2264,Aashiq Jung Ka Raaz,2005,Drama
+2269,Tum Raat Ke Rang,1973,Drama
+2283,Aashiq Zindagi Ki Kahani,1976,Drama
+2284,Dil Sapna Hai,2016,Drama
+2285,Tera Zindagi Ka Intezaar,2011,Drama
+2312,Prem Rishta Ke Rang,2025,Drama
+2313,Hamari Zindagi Ki Baatein,2014,Drama
+2345,Prem Mission Ke Rang,1989,Drama
+2348,Hamari Jung Se Mulakaat,1988,Drama
+2351,Ek Jung Se Mulakaat,1981,Drama
+2362,Hamari Mission Ka Safar,2023,Drama
+2397,Chalte Raja Se Mulakaat,1947,Drama
+2398,Raj Zindagi Ki Duniya,2007,Drama
+2420,Tum Andaz Ke Rang,1979,Drama
+2466,Chalte Zindagi Hai,1973,Drama
+2474,Shree Kahani Ka Safar,1995,Drama
+2512,Dil Pyaar Ka Raaz,1947,Drama
+2520,Hamari Zindagi Ka Intezaar,1990,Drama
+2521,Tera Sapna Ke Rang,1999,Drama
+2522,Prem Mission Ka Raaz,1966,Drama
+2536,Chalte Dosti Ke Rang,1971,Drama
+2612,Shree Dosti Se Mulakaat,1977,Drama
+2632,Chalte Raja Ka Safar,1942,Drama
+2639,Tera Andaz Ka Raaz,1934,Drama
+2728,Jab Pyaar Ka Raaz,1997,Drama
+2729,Ek Rishta Ke Rang,1953,Drama
+2730,Ek Pyaar Ki Kahani,1948,Drama
+2731,Shree Jung Ke Rang,1977,Drama
+2732,Raj Jung Ke Rang,1934,Drama
+2734,Aashiq Mission Ka Intezaar,1934,Drama
+2739,Jab Dosti Se Mulakaat,1965,Drama
+2743,Raj Pyaar Ki Baatein,1980,Drama
+2744,Prem Zindagi Ka Intezaar,1951,Drama
+2745,Aashiq Manzil Se Mulakaat,2024,Drama
+2755,Tera Dosti Ka Safar,1980,Drama
+2757,Khiladi Rishta Ki Kahani,1972,Drama
+2758,Hamari Jung Ka Raaz,1960,Drama
+2777,Chalte Raat Se Mulakaat,2024,Drama
+2820,Khiladi Raat Ki Baatein,1945,Drama
+2847,Jab Sapna Ke Rang,2000,Drama
+2848,Tera Manzil Hai,2021,Drama
+2852,Prem Pyaar Ka Intezaar,1988,Drama
+2862,Dil Jung Se Mulakaat,1974,Drama
+2866,Dil Rishta Ka Safar,1938,Drama
+2869,Aashiq Kahani Ka Safar,1935,Drama
+2904,Baazigar Raja Ki Duniya,2019,Drama
+2925,Hamari Kahani Ki Baatein,2022,Drama
+2928,Tera Mission Ka Raaz,2023,Drama
+2929,Baazigar Pyaar Hai,2012,Drama
+2931,Prem Jung Ki Duniya,2007,Drama
+2932,Hamari Zindagi Ka Safar,1953,Drama
+2933,Jab Raat Ke Rang,1971,Drama
+2938,Dil Mission Ke Rang,1936,Drama
+2954,Baazigar Jung Se Mulakaat,1930,Drama
+2955,Raj Jung Ka Intezaar,1979,Drama
+2957,Raj Sapna Ki Baatein,1987,Drama
+2988,Prem Pyaar Se Mulakaat,1997,Drama
+3011,Raj Dosti Ki Kahani,1995,Drama
+3038,Hamari Jung Ki Duniya,2000,Drama
+3047,Jab Sapna Ke Rang,1952,Drama
+3059,Baazigar Sapna Ki Duniya,1940,Drama
+3068,Khiladi Pyaar Se Mulakaat,1994,Drama
+3069,Aashiq Rishta Ka Raaz,2018,Drama
+3071,Jab Sapna Ki Baatein,1934,Drama
+3089,Shree Manzil Ki Kahani,1961,Drama
+3090,Jab Raja Ke Rang,1999,Drama
+3092,Tum Dosti Ki Kahani,2006,Drama
+3095,Aashiq Jung Se Mulakaat,1940,Drama
+3098,Raj Rishta Ka Raaz,2023,Drama
+3100,Raj Pyaar Ki Duniya,1949,Drama
+3105,Aashiq Sapna Ki Duniya,1990,Drama
+3109,Khiladi Zindagi Ka Intezaar,1979,Drama
+3110,Ek Dosti Ke Rang,1963,Drama
+3111,Tum Jung Ki Kahani,1989,Drama
+3112,Raj Andaz Ka Intezaar,1999,Drama
+3126,Tera Manzil Ka Intezaar,1977,Drama
+3135,Ek Mission Ka Raaz,1934,Drama
+3138,Dil Raja Ka Raaz,1995,Drama
+3141,Baazigar Jung Ka Safar,1975,Drama
+3152,Shree Sapna Se Mulakaat,2018,Drama
+3164,Shree Manzil Ki Duniya,1952,Drama
+3167,Dil Raat Hai,1958,Drama
+3169,Tum Rishta Ki Kahani,1970,Drama
+3171,Tum Zindagi Ka Safar,1948,Drama
+3194,Aashiq Mission Ki Kahani,2000,Drama
+3195,Tera Sapna Ki Baatein,2022,Drama
+3198,Aashiq Andaz Ka Safar,2022,Drama
+3201,Chalte Andaz Ka Safar,1998,Drama
+3202,Aashiq Kahani Ka Raaz,1945,Drama
+3209,Khiladi Zindagi Ka Intezaar,1943,Drama
+3211,Jab Raja Ke Rang,1999,Drama
+3212,Raj Manzil Ki Baatein,1954,Drama
+3214,Chalte Raat Ke Rang,1932,Drama
+3215,Tera Raja Ki Kahani,2011,Drama
+3217,Raj Kahani Ki Kahani,2019,Drama
+3218,Khiladi Sapna Hai,1940,Drama
+3220,Ek Jung Ka Raaz,1940,Drama
+3221,Baazigar Sapna Ka Intezaar,1987,Drama
+3222,Ek Kahani Ka Intezaar,2007,Drama
+3223,Dil Zindagi Ka Safar,1992,Drama
+3224,Aashiq Pyaar Ka Raaz,1981,Drama
+3245,Tum Kahani Ka Safar,1957,Drama
+3246,Shree Raja Hai,2022,Drama
+3250,Tera Andaz Hai,1952,Drama
+3252,Tum Jung Ki Kahani,1938,Drama
+3260,Jab Rishta Hai,2021,Drama
+3270,Tera Manzil Ka Intezaar,1939,Drama
+3271,Aashiq Dosti Ki Baatein,1933,Drama
+3295,Chalte Rishta Ka Raaz,1951,Drama
+3296,Ek Andaz Ka Raaz,1969,Drama
+3298,Hamari Mission Se Mulakaat,1931,Drama
+3312,Tera Rishta Ki Baatein,1930,Drama
+3329,Raj Raat Ki Kahani,2015,Drama
+3330,Aashiq Rishta Ki Duniya,2024,Drama
+3331,Aashiq Pyaar Ke Rang,1998,Drama
+3333,Ek Kahani Ka Intezaar,2015,Drama
+3336,Baazigar Dosti Ka Intezaar,1956,Drama
+3347,Dil Andaz Ke Rang,1968,Drama
+3350,Aashiq Rishta Se Mulakaat,1946,Drama
+3359,Baazigar Zindagi Ka Intezaar,1986,Drama
+3360,Aashiq Rishta Ki Kahani,2017,Drama
+3371,Aashiq Dosti Ka Intezaar,1962,Drama
+3374,Tera Pyaar Hai,1966,Drama
+3379,Khiladi Andaz Se Mulakaat,2020,Drama
+3382,Tera Kahani Ka Intezaar,1978,Drama
+3402,Prem Raat Ki Baatein,1982,Drama
+3408,Chalte Pyaar Hai,1992,Drama
+3415,Tum Rishta Ki Kahani,1950,Drama
+3416,Dil Sapna Ki Duniya,1994,Drama
+3423,Hamari Rishta Se Mulakaat,1980,Drama
+3425,Hamari Kahani Ki Duniya,1936,Drama
+3428,Jab Pyaar Hai,1991,Drama
+3437,Chalte Raja Ka Intezaar,2024,Drama
+3447,Chalte Rishta Ka Raaz,1971,Drama
+3449,Khiladi Sapna Ki Kahani,2016,Drama
+3465,Ek Dosti Ki Duniya,1955,Drama
+3468,Tum Raat Ka Safar,1971,Drama
+3469,Chalte Raja Se Mulakaat,1963,Drama
+3478,Aashiq Pyaar Ka Raaz,1982,Drama
+3480,Baazigar Raat Ka Intezaar,2002,Drama
+3482,Tera Raja Ka Raaz,1963,Drama
+3496,Tum Sapna Ki Kahani,1984,Drama
+3498,Hamari Kahani Ka Safar,1940,Drama
+3502,Hamari Dosti Ka Intezaar,1971,Drama
+3514,Dil Kahani Ke Rang,1943,Drama
+3522,Prem Pyaar Ki Duniya,2002,Drama
+3533,Khiladi Manzil Ke Rang,1974,Drama
+3542,Tum Pyaar Ki Duniya,1996,Drama
+3547,Tum Dosti Ki Kahani,1943,Drama
+3558,Chalte Mission Ka Raaz,1980,Drama
+3559,Hamari Mission Ka Intezaar,2018,Drama
+3560,Baazigar Raat Hai,1961,Drama
+3561,Jab Manzil Ke Rang,1936,Drama
+3571,Khiladi Pyaar Ke Rang,1935,Drama
+3577,Khiladi Andaz Ke Rang,1967,Drama
+3579,Hamari Kahani Ka Raaz,1975,Drama
+3580,Aashiq Andaz Ka Raaz,1981,Drama
+3582,Shree Dosti Ki Duniya,2007,Drama
+3583,Tum Zindagi Ki Duniya,1948,Drama
+3586,Tum Jung Ke Rang,1996,Drama
+3594,Baazigar Jung Ka Intezaar,1937,Drama
+3598,Hamari Dosti Ki Baatein,1954,Drama
+3637,Chalte Raja Ki Duniya,1958,Drama
+3641,Jab Dosti Ki Kahani,2024,Drama
+3645,Chalte Andaz Se Mulakaat,1970,Drama
+3647,Shree Raat Ki Kahani,2000,Drama
+3649,Tera Raat Ka Raaz,2006,Drama
+3655,Dil Raja Ka Safar,1974,Drama
+3657,Chalte Pyaar Ka Raaz,1969,Drama
+3678,Jab Andaz Se Mulakaat,1965,Drama
+3707,Shree Andaz Ki Duniya,2005,Drama
+3711,Chalte Dosti Ka Intezaar,1934,Drama
+3713,Ek Jung Hai,2014,Drama
+3714,Tum Manzil Se Mulakaat,2021,Drama
+3723,Tum Sapna Ka Raaz,1947,Drama
+3733,Baazigar Jung Ki Kahani,2004,Drama
+3734,Tum Dosti Ki Kahani,2013,Drama
+3736,Hamari Rishta Ka Raaz,1945,Drama
+3738,Chalte Rishta Ki Duniya,1930,Drama
+3750,Jab Andaz Hai,2025,Drama
+3756,Tera Rishta Ka Safar,1964,Drama
+3789,Prem Zindagi Ki Baatein,1966,Drama
+3790,Aashiq Kahani Ke Rang,1959,Drama
+3791,Hamari Raja Ka Safar,1980,Drama
+3803,Ek Kahani Se Mulakaat,2016,Drama
+3813,Baazigar Andaz Hai,1949,Drama
+3816,Aashiq Jung Ka Safar,1977,Drama
+3825,Dil Rishta Hai,1937,Drama
+3844,Hamari Kahani Ka Raaz,1989,Drama
+3845,Hamari Jung Hai,1987,Drama
+3870,Chalte Raat Hai,1965,Drama
+3872,Hamari Raat Ki Kahani,1958,Drama
+3886,Aashiq Rishta Ki Kahani,2022,Drama
+3903,Prem Sapna Ki Duniya,1953,Drama
+3904,Ek Andaz Se Mulakaat,1935,Drama
+3914,Chalte Raat Ki Baatein,1988,Drama
+3915,Ek Raat Ki Duniya,1933,Drama
+3916,Tera Jung Ki Kahani,1936,Drama
+3949,Tera Rishta Ka Safar,1956,Drama
+3950,Aashiq Raja Ke Rang,1985,Drama
+3951,Khiladi Raja Ka Intezaar,2023,Drama
+5,Tum Rishta Ki Kahani,2002,Comedy
+19,Aashiq Mission Ka Intezaar,1978,Comedy
+38,Khiladi Mission Se Mulakaat,2002,Comedy
+52,Shree Sapna Ki Baatein,1974,Comedy
+63,Ek Mission Ka Intezaar,1958,Comedy
+65,Aashiq Rishta Ka Raaz,1980,Comedy
+69,Raj Raat Ka Raaz,1949,Comedy
+88,Raj Manzil Ki Kahani,1967,Comedy
+96,Raj Sapna Ki Baatein,1960,Comedy
+101,Shree Jung Ka Safar,2002,Comedy
+102,Khiladi Mission Hai,1982,Comedy
+104,Shree Dosti Ka Safar,1977,Comedy
+109,Raj Zindagi Ki Duniya,1995,Comedy
+115,Dil Jung Hai,2008,Comedy
+119,Khiladi Zindagi Se Mulakaat,1940,Comedy
+125,Khiladi Dosti Ki Kahani,1953,Comedy
+135,Baazigar Rishta Se Mulakaat,1975,Comedy
+141,Prem Rishta Ki Kahani,1998,Comedy
+144,Jab Pyaar Hai,1953,Comedy
+156,Tum Zindagi Ki Kahani,1970,Comedy
+171,Prem Pyaar Hai,1948,Comedy
+174,Jab Mission Ka Safar,1942,Comedy
+176,Tum Andaz Ka Raaz,1934,Comedy
+178,Aashiq Jung Ki Baatein,1979,Comedy
+180,Hamari Zindagi Ki Kahani,1975,Comedy
+186,Aashiq Raja Hai,1954,Comedy
+187,Khiladi Andaz Ka Safar,1972,Comedy
+189,Raj Zindagi Ka Safar,1952,Comedy
+203,Jab Zindagi Se Mulakaat,1947,Comedy
+212,Tum Raat Se Mulakaat,1979,Comedy
+216,Chalte Zindagi Hai,2004,Comedy
+223,Khiladi Rishta Ka Intezaar,1930,Comedy
+228,Chalte Pyaar Ki Kahani,1995,Comedy
+231,Chalte Jung Ka Raaz,1981,Comedy
+234,Hamari Dosti Ka Intezaar,2008,Comedy
+243,Jab Sapna Ki Baatein,1931,Comedy
+248,Chalte Jung Ki Kahani,2014,Comedy
+255,Khiladi Raja Ka Intezaar,1951,Comedy
+267,Tera Dosti Ka Safar,1972,Comedy
+274,Tum Jung Ke Rang,1939,Comedy
+275,Khiladi Jung Ki Kahani,1997,Comedy
+278,Aashiq Sapna Se Mulakaat,1969,Comedy
+298,Shree Raja Ke Rang,1970,Comedy
+305,Prem Zindagi Ka Raaz,1938,Comedy
+310,Khiladi Dosti Ki Duniya,2023,Comedy
+312,Baazigar Zindagi Ka Intezaar,1972,Comedy
+324,Tum Dosti Ka Intezaar,1997,Comedy
+325,Baazigar Raja Ka Intezaar,1942,Comedy
+333,Tera Jung Ka Safar,1972,Comedy
+344,Chalte Pyaar Ka Raaz,1969,Comedy
+348,Hamari Dosti Ke Rang,1937,Comedy
+352,Chalte Jung Se Mulakaat,1955,Comedy
+370,Aashiq Jung Ke Rang,1960,Comedy
+402,Jab Kahani Ka Raaz,2018,Comedy
+410,Jab Manzil Se Mulakaat,1983,Comedy
+411,Khiladi Rishta Hai,1975,Comedy
+413,Hamari Sapna Se Mulakaat,1986,Comedy
+414,Jab Andaz Ki Baatein,1985,Comedy
+419,Tera Raat Ka Raaz,1945,Comedy
+429,Khiladi Jung Se Mulakaat,1939,Comedy
+433,Raj Zindagi Ka Intezaar,1953,Comedy
+437,Tum Raja Ki Duniya,1932,Comedy
+441,Ek Jung Ki Duniya,1960,Comedy
+445,Khiladi Raja Hai,1962,Comedy
+449,Tum Rishta Ki Baatein,1952,Comedy
+453,Chalte Raja Ki Kahani,1934,Comedy
+460,Khiladi Andaz Ki Kahani,1955,Comedy
+467,Aashiq Zindagi Se Mulakaat,1980,Comedy
+470,Chalte Zindagi Se Mulakaat,1985,Comedy
+478,Tum Jung Ka Safar,2006,Comedy
+486,Aashiq Jung Ke Rang,1936,Comedy
+489,Ek Manzil Ka Raaz,1961,Comedy
+500,Dil Sapna Ke Rang,1989,Comedy
+505,Raj Rishta Ke Rang,1947,Comedy
+514,Khiladi Raja Hai,1951,Comedy
+518,Ek Kahani Ki Duniya,1988,Comedy
+520,Baazigar Pyaar Ki Kahani,2000,Comedy
+542,Raj Kahani Ka Intezaar,2008,Comedy
+559,Raj Mission Ka Intezaar,1998,Comedy
+564,Tum Mission Ke Rang,1937,Comedy
+576,Prem Jung Ke Rang,1974,Comedy
+582,Dil Jung Se Mulakaat,1971,Comedy
+585,Hamari Zindagi Ki Baatein,2014,Comedy
+598,Prem Raat Ki Kahani,1973,Comedy
+603,Hamari Pyaar Ki Kahani,1965,Comedy
+612,Raj Andaz Ki Baatein,1945,Comedy
+619,Dil Jung Ki Kahani,2021,Comedy
+626,Tum Pyaar Hai,1957,Comedy
+633,Baazigar Raat Ki Baatein,2024,Comedy
+634,Tera Pyaar Ki Duniya,1955,Comedy
+637,Raj Kahani Se Mulakaat,1958,Comedy
+639,Dil Sapna Se Mulakaat,1999,Comedy
+641,Tera Kahani Ki Baatein,1982,Comedy
+643,Jab Dosti Se Mulakaat,2012,Comedy
+644,Tera Dosti Ki Kahani,1953,Comedy
+651,Raj Manzil Ka Safar,1976,Comedy
+655,Raj Mission Ka Safar,1933,Comedy
+656,Aashiq Raja Ka Safar,1971,Comedy
+663,Ek Dosti Ki Baatein,1992,Comedy
+664,Chalte Manzil Se Mulakaat,1946,Comedy
+700,Tera Jung Se Mulakaat,2017,Comedy
+705,Tera Raja Se Mulakaat,2003,Comedy
+710,Prem Rishta Ki Baatein,2019,Comedy
+717,Tum Andaz Ka Raaz,1987,Comedy
+719,Baazigar Zindagi Ki Kahani,1946,Comedy
+725,Khiladi Manzil Se Mulakaat,2010,Comedy
+728,Jab Jung Ki Duniya,1988,Comedy
+734,Jab Zindagi Ka Intezaar,1950,Comedy
+739,Raj Pyaar Ki Baatein,1979,Comedy
+743,Raj Pyaar Hai,1935,Comedy
+747,Tum Dosti Ki Duniya,1945,Comedy
+751,Shree Jung Ke Rang,1956,Comedy
+772,Jab Manzil Ki Duniya,1968,Comedy
+784,Tera Sapna Ka Safar,1933,Comedy
+785,Dil Rishta Ka Intezaar,2019,Comedy
+797,Aashiq Kahani Ki Baatein,1962,Comedy
+811,Dil Mission Ki Duniya,1978,Comedy
+813,Shree Mission Ki Duniya,1948,Comedy
+818,Prem Andaz Ke Rang,1982,Comedy
+830,Raj Pyaar Ki Kahani,2011,Comedy
+833,Ek Dosti Ka Raaz,1977,Comedy
+834,Prem Kahani Ka Intezaar,2002,Comedy
+840,Khiladi Pyaar Ki Baatein,2016,Comedy
+856,Jab Sapna Ka Raaz,1947,Comedy
+860,Jab Mission Ka Safar,1992,Comedy
+863,Hamari Manzil Ka Intezaar,2007,Comedy
+868,Shree Zindagi Ka Safar,1984,Comedy
+870,Jab Raja Ki Baatein,1957,Comedy
+871,Aashiq Raja Ki Kahani,2024,Comedy
+905,Dil Andaz Ka Safar,2018,Comedy
+921,Tum Sapna Ki Duniya,1992,Comedy
+927,Khiladi Raja Se Mulakaat,2022,Comedy
+934,Khiladi Raja Ka Intezaar,1975,Comedy
+947,Dil Andaz Ki Duniya,2022,Comedy
+951,Baazigar Kahani Ke Rang,1957,Comedy
+955,Dil Raat Ka Raaz,2006,Comedy
+1001,Shree Mission Ki Baatein,1947,Comedy
+1002,Baazigar Zindagi Ka Raaz,2000,Comedy
+1020,Baazigar Dosti Ki Duniya,1994,Comedy
+1042,Raj Rishta Ka Safar,1960,Comedy
+1075,Hamari Pyaar Ka Safar,1938,Comedy
+1079,Raj Sapna Ka Safar,2020,Comedy
+1080,Raj Manzil Se Mulakaat,2025,Comedy
+1091,Tum Zindagi Ka Safar,1962,Comedy
+1098,Aashiq Pyaar Ka Intezaar,1952,Comedy
+1107,Chalte Rishta Ki Duniya,2022,Comedy
+1113,Tera Raja Ka Raaz,1931,Comedy
+1125,Tum Raja Ka Safar,2014,Comedy
+1135,Raj Rishta Ki Baatein,1944,Comedy
+1136,Jab Raja Hai,2021,Comedy
+1143,Tum Andaz Hai,1965,Comedy
+1158,Tum Dosti Ka Raaz,1978,Comedy
+1160,Prem Jung Ka Safar,2007,Comedy
+1162,Chalte Raja Ka Intezaar,1990,Comedy
+1166,Aashiq Rishta Ke Rang,1945,Comedy
+1167,Raj Jung Ki Kahani,2008,Comedy
+1171,Aashiq Manzil Ki Duniya,1983,Comedy
+1174,Hamari Mission Se Mulakaat,1978,Comedy
+1180,Baazigar Dosti Ki Duniya,2013,Comedy
+1194,Prem Pyaar Ki Kahani,1979,Comedy
+1202,Raj Jung Ke Rang,2015,Comedy
+1235,Chalte Kahani Ki Kahani,1965,Comedy
+1238,Dil Andaz Ki Kahani,1967,Comedy
+1257,Khiladi Zindagi Ka Intezaar,2011,Comedy
+1281,Jab Jung Ka Safar,1986,Comedy
+1285,Chalte Andaz Ki Kahani,2009,Comedy
+1292,Aashiq Raja Ke Rang,2010,Comedy
+1297,Baazigar Pyaar Ke Rang,2019,Comedy
+1308,Dil Manzil Ke Rang,2005,Comedy
+1311,Khiladi Kahani Se Mulakaat,1963,Comedy
+1317,Hamari Sapna Ke Rang,2002,Comedy
+1390,Dil Andaz Ka Safar,2007,Comedy
+1394,Raj Andaz Ka Intezaar,1964,Comedy
+1414,Shree Andaz Ke Rang,1930,Comedy
+1425,Jab Zindagi Ke Rang,1957,Comedy
+1436,Dil Raat Ka Raaz,1987,Comedy
+1439,Tera Zindagi Ki Duniya,1999,Comedy
+1440,Aashiq Dosti Ka Intezaar,2003,Comedy
+1444,Aashiq Manzil Ka Safar,1962,Comedy
+1446,Ek Dosti Ki Kahani,1968,Comedy
+1449,Hamari Zindagi Ki Duniya,2009,Comedy
+1454,Hamari Raat Ki Baatein,1953,Comedy
+1456,Baazigar Dosti Ka Raaz,1952,Comedy
+1461,Chalte Dosti Ki Baatein,1988,Comedy
+1485,Khiladi Manzil Ki Baatein,1950,Comedy
+1490,Tera Dosti Ki Duniya,1968,Comedy
+1494,Dil Jung Ka Safar,1984,Comedy
+1503,Chalte Zindagi Ki Kahani,2008,Comedy
+1511,Prem Sapna Ka Safar,1969,Comedy
+1513,Jab Zindagi Se Mulakaat,1936,Comedy
+1516,Baazigar Manzil Ki Kahani,1970,Comedy
+1517,Prem Andaz Ki Kahani,1945,Comedy
+1526,Shree Manzil Ka Raaz,1976,Comedy
+1528,Tera Kahani Ki Baatein,1987,Comedy
+1532,Tum Raat Ka Intezaar,1937,Comedy
+1537,Tum Sapna Ki Baatein,1975,Comedy
+1546,Dil Jung Ka Intezaar,1970,Comedy
+1553,Raj Manzil Ki Baatein,1993,Comedy
+1558,Tum Mission Ki Baatein,1939,Comedy
+1561,Baazigar Kahani Se Mulakaat,1936,Comedy
+1581,Dil Jung Ke Rang,1943,Comedy
+1585,Hamari Pyaar Ki Kahani,2011,Comedy
+1602,Prem Jung Ki Kahani,2015,Comedy
+1612,Ek Raja Hai,1932,Comedy
+1614,Tum Andaz Hai,2006,Comedy
+1640,Hamari Mission Ka Safar,1963,Comedy
+1641,Prem Manzil Ke Rang,1952,Comedy
+1646,Ek Andaz Se Mulakaat,2007,Comedy
+1663,Raj Kahani Ka Safar,1976,Comedy
+1665,Tum Andaz Ki Duniya,2018,Comedy
+1677,Aashiq Jung Ka Intezaar,2005,Comedy
+1679,Baazigar Raja Ki Baatein,1958,Comedy
+1698,Tera Raat Ka Raaz,1972,Comedy
+1703,Khiladi Manzil Ki Baatein,1954,Comedy
+1731,Tum Jung Ka Raaz,2016,Comedy
+1738,Shree Zindagi Ki Duniya,2007,Comedy
+1746,Hamari Dosti Ki Duniya,2013,Comedy
+1753,Baazigar Pyaar Ka Safar,1958,Comedy
+1793,Tum Sapna Ki Kahani,1992,Comedy
+1830,Khiladi Raja Ke Rang,1947,Comedy
+1837,Prem Zindagi Hai,1994,Comedy
+1839,Tera Mission Ka Safar,2009,Comedy
+1853,Tum Raja Ka Raaz,1981,Comedy
+1855,Tera Dosti Ka Safar,1997,Comedy
+1857,Khiladi Rishta Hai,1932,Comedy
+1863,Jab Rishta Ka Intezaar,1974,Comedy
+1864,Prem Raja Ka Raaz,1983,Comedy
+1875,Dil Pyaar Ki Kahani,1952,Comedy
+1883,Chalte Raja Ki Duniya,1953,Comedy
+1886,Tum Raja Ka Intezaar,1988,Comedy
+1896,Hamari Raat Ka Safar,1973,Comedy
+1903,Dil Dosti Ka Intezaar,1943,Comedy
+1911,Ek Manzil Hai,1966,Comedy
+1923,Jab Manzil Hai,1985,Comedy
+1934,Tum Mission Ka Safar,1950,Comedy
+1937,Tera Sapna Se Mulakaat,1984,Comedy
+1948,Jab Pyaar Se Mulakaat,1979,Comedy
+1963,Hamari Dosti Hai,1986,Comedy
+1966,Ek Mission Ke Rang,1942,Comedy
+2007,Shree Raat Ki Duniya,1933,Comedy
+2044,Shree Jung Ki Baatein,1994,Comedy
+2060,Shree Rishta Ki Kahani,2021,Comedy
+2072,Shree Mission Ka Safar,1980,Comedy
+2073,Tera Pyaar Ke Rang,1937,Comedy
+2109,Dil Zindagi Ka Intezaar,1996,Comedy
+2111,Chalte Sapna Hai,2001,Comedy
+2124,Jab Mission Ka Raaz,1978,Comedy
+2128,Khiladi Rishta Ka Intezaar,1980,Comedy
+2134,Baazigar Raja Ka Intezaar,1963,Comedy
+2136,Baazigar Jung Ka Raaz,1948,Comedy
+2144,Shree Raat Ka Intezaar,1949,Comedy
+2150,Tum Sapna Ki Kahani,1999,Comedy
+2151,Tera Jung Ki Baatein,1950,Comedy
+2155,Baazigar Raat Ke Rang,1967,Comedy
+2169,Shree Jung Ki Duniya,2010,Comedy
+2172,Jab Mission Se Mulakaat,2016,Comedy
+2191,Chalte Kahani Ki Duniya,1952,Comedy
+2195,Raj Raat Ka Intezaar,1980,Comedy
+2205,Hamari Pyaar Ka Safar,1967,Comedy
+2222,Raj Raja Ka Safar,1976,Comedy
+2223,Khiladi Andaz Ki Kahani,1956,Comedy
+2230,Prem Kahani Se Mulakaat,1970,Comedy
+2241,Tera Zindagi Ka Raaz,1944,Comedy
+2246,Jab Mission Se Mulakaat,1961,Comedy
+2247,Jab Dosti Hai,1984,Comedy
+2249,Ek Pyaar Ka Raaz,1955,Comedy
+2251,Raj Kahani Ki Kahani,1998,Comedy
+2255,Dil Raat Se Mulakaat,1976,Comedy
+2261,Hamari Raat Ki Kahani,2008,Comedy
+2286,Tum Kahani Se Mulakaat,1933,Comedy
+2295,Hamari Raat Ka Safar,1936,Comedy
+2296,Tum Raat Ki Duniya,1991,Comedy
+2299,Raj Raat Ka Intezaar,1976,Comedy
+2301,Tera Mission Ki Duniya,1991,Comedy
+2302,Dil Rishta Ka Safar,1975,Comedy
+2306,Tum Rishta Se Mulakaat,2021,Comedy
+2317,Khiladi Rishta Hai,1960,Comedy
+2318,Tum Mission Hai,1980,Comedy
+2319,Shree Kahani Hai,2000,Comedy
+2321,Khiladi Andaz Ka Intezaar,1983,Comedy
+2325,Baazigar Kahani Hai,1973,Comedy
+2335,Aashiq Sapna Ka Raaz,1958,Comedy
+2342,Dil Mission Ka Intezaar,2021,Comedy
+2350,Dil Mission Ki Kahani,1997,Comedy
+2356,Hamari Zindagi Ki Baatein,1935,Comedy
+2359,Tum Jung Ka Safar,1970,Comedy
+2361,Aashiq Zindagi Ki Baatein,1991,Comedy
+2371,Raj Raat Ki Baatein,1994,Comedy
+2372,Ek Kahani Ka Intezaar,1969,Comedy
+2375,Shree Zindagi Hai,2020,Comedy
+2378,Raj Raat Se Mulakaat,2008,Comedy
+2379,Shree Andaz Ki Kahani,1998,Comedy
+2380,Tera Rishta Ka Safar,1979,Comedy
+2381,Khiladi Pyaar Se Mulakaat,2007,Comedy
+2382,Dil Raja Ka Intezaar,2019,Comedy
+2383,Hamari Raat Ka Safar,1988,Comedy
+2390,Jab Andaz Ki Kahani,1943,Comedy
+2395,Raj Manzil Ka Safar,1979,Comedy
+2416,Shree Rishta Hai,1930,Comedy
+2418,Ek Rishta Ka Safar,1985,Comedy
+2423,Ek Kahani Hai,1956,Comedy
+2436,Aashiq Zindagi Ki Duniya,1937,Comedy
+2463,Khiladi Dosti Ki Baatein,1952,Comedy
+2472,Hamari Jung Ki Kahani,2000,Comedy
+2473,Hamari Jung Ki Baatein,2016,Comedy
+2484,Khiladi Kahani Hai,2008,Comedy
+2492,Tera Rishta Se Mulakaat,1989,Comedy
+2499,Ek Dosti Ke Rang,1966,Comedy
+2500,Dil Kahani Ka Intezaar,2008,Comedy
+2507,Tum Sapna Ki Duniya,2005,Comedy
+2509,Aashiq Zindagi Ke Rang,1952,Comedy
+2518,Shree Pyaar Se Mulakaat,2012,Comedy
+2539,Aashiq Manzil Ka Raaz,1960,Comedy
+2543,Aashiq Rishta Se Mulakaat,1972,Comedy
+2545,Tera Zindagi Se Mulakaat,2002,Comedy
+2552,Hamari Dosti Se Mulakaat,1998,Comedy
+2555,Hamari Manzil Ki Kahani,2024,Comedy
+2567,Tum Kahani Hai,1973,Comedy
+2574,Ek Raat Ki Duniya,1981,Comedy
+2584,Ek Sapna Se Mulakaat,1945,Comedy
+2587,Khiladi Andaz Ka Intezaar,1966,Comedy
+2593,Shree Rishta Ka Safar,1983,Comedy
+2598,Shree Raat Ki Baatein,1998,Comedy
+2599,Khiladi Dosti Ka Raaz,1950,Comedy
+2601,Tum Mission Ka Safar,1975,Comedy
+2618,Tum Mission Ka Intezaar,2015,Comedy
+2623,Raj Raja Ki Kahani,1954,Comedy
+2683,Tum Zindagi Ka Safar,1985,Comedy
+2690,Jab Mission Hai,1956,Comedy
+2694,Khiladi Raat Ki Duniya,1936,Comedy
+2696,Ek Kahani Ki Duniya,2004,Comedy
+2706,Jab Jung Se Mulakaat,1989,Comedy
+2718,Chalte Sapna Hai,1992,Comedy
+2736,Khiladi Raat Se Mulakaat,1987,Comedy
+2751,Dil Kahani Ki Kahani,1963,Comedy
+2759,Aashiq Andaz Ki Baatein,1935,Comedy
+2767,Hamari Raja Ka Safar,1966,Comedy
+2768,Tum Raja Ki Baatein,1985,Comedy
+2770,Tum Mission Ka Intezaar,2010,Comedy
+2772,Aashiq Pyaar Ka Intezaar,1991,Comedy
+2779,Khiladi Sapna Ka Safar,2020,Comedy
+2786,Tera Kahani Ki Baatein,1943,Comedy
+2788,Shree Kahani Ki Baatein,1964,Comedy
+2791,Aashiq Raat Ki Baatein,1958,Comedy
+2792,Chalte Rishta Ke Rang,1981,Comedy
+2794,Hamari Raja Ki Kahani,1943,Comedy
+2795,Jab Manzil Se Mulakaat,1999,Comedy
+2796,Baazigar Dosti Ki Baatein,1959,Comedy
+2798,Tum Jung Hai,1935,Comedy
+2799,Jab Zindagi Hai,1936,Comedy
+2809,Baazigar Mission Ke Rang,1982,Comedy
+2811,Aashiq Dosti Ki Duniya,1964,Comedy
+2836,Hamari Zindagi Ka Raaz,2025,Comedy
+2838,Prem Mission Hai,1959,Comedy
+2860,Raj Raja Ki Duniya,1939,Comedy
+2864,Ek Sapna Ki Baatein,1937,Comedy
+2865,Baazigar Sapna Ke Rang,1984,Comedy
+2870,Baazigar Jung Hai,1965,Comedy
+2874,Aashiq Zindagi Se Mulakaat,1931,Comedy
+2883,Prem Rishta Ka Raaz,1987,Comedy
+2889,Tera Kahani Ki Duniya,2014,Comedy
+2891,Aashiq Kahani Ki Duniya,2018,Comedy
+2907,Prem Rishta Ka Safar,1972,Comedy
+2913,Chalte Sapna Ki Baatein,2005,Comedy
+2915,Chalte Rishta Ke Rang,1931,Comedy
+2918,Raj Raja Ka Intezaar,1944,Comedy
+2923,Tum Pyaar Ka Safar,2001,Comedy
+2936,Tum Zindagi Ki Kahani,1964,Comedy
+2937,Tera Andaz Ki Kahani,1951,Comedy
+2973,Baazigar Sapna Ke Rang,1974,Comedy
+2997,Hamari Manzil Ki Kahani,2005,Comedy
+2999,Dil Kahani Ka Intezaar,1941,Comedy
+3012,Prem Jung Hai,1937,Comedy
+3014,Prem Dosti Ka Intezaar,2008,Comedy
+3022,Ek Andaz Ke Rang,1979,Comedy
+3028,Ek Raat Hai,2004,Comedy
+3031,Khiladi Rishta Ki Duniya,2019,Comedy
+3039,Khiladi Raja Ka Intezaar,1964,Comedy
+3040,Ek Zindagi Ki Baatein,1931,Comedy
+3041,Ek Manzil Ki Kahani,2020,Comedy
+3042,Hamari Mission Ke Rang,2016,Comedy
+3043,Prem Raja Hai,2000,Comedy
+3048,Ek Zindagi Ka Raaz,1931,Comedy
+3052,Hamari Raat Hai,2009,Comedy
+3057,Dil Sapna Ki Baatein,1964,Comedy
+3072,Jab Zindagi Ka Raaz,1937,Comedy
+3076,Jab Mission Ki Kahani,1991,Comedy
+3086,Raj Pyaar Ki Kahani,1998,Comedy
+3087,Prem Raja Ki Baatein,2014,Comedy
+3088,Shree Dosti Ki Baatein,2002,Comedy
+3096,Tum Pyaar Ka Safar,1935,Comedy
+3120,Prem Kahani Ki Kahani,1986,Comedy
+3123,Hamari Mission Ka Safar,1991,Comedy
+3130,Aashiq Raja Ki Duniya,2016,Comedy
+3131,Ek Jung Ka Intezaar,1962,Comedy
+3132,Tum Mission Ka Safar,1947,Comedy
+3133,Dil Manzil Ka Raaz,1984,Comedy
+3140,Raj Pyaar Ki Duniya,1970,Comedy
+3146,Tum Sapna Ka Safar,1941,Comedy
+3177,Shree Sapna Ka Intezaar,2003,Comedy
+3189,Hamari Raja Ki Kahani,1956,Comedy
+3210,Tera Rishta Ki Duniya,2013,Comedy
+3228,Prem Dosti Ka Intezaar,2005,Comedy
+3231,Tum Dosti Ki Duniya,1981,Comedy
+3232,Chalte Raja Se Mulakaat,1992,Comedy
+3233,Dil Kahani Ki Duniya,1970,Comedy
+3234,Baazigar Sapna Ka Intezaar,1930,Comedy
+3235,Prem Raja Hai,1989,Comedy
+3239,Tum Sapna Ki Kahani,1938,Comedy
+3240,Khiladi Sapna Ka Raaz,1942,Comedy
+3241,Prem Rishta Ka Safar,1951,Comedy
+3242,Aashiq Raat Ki Baatein,1981,Comedy
+3243,Hamari Raat Ka Intezaar,2003,Comedy
+3248,Jab Zindagi Ki Duniya,2025,Comedy
+3253,Chalte Raat Ki Baatein,1966,Comedy
+3254,Tera Jung Ki Baatein,1949,Comedy
+3258,Jab Zindagi Se Mulakaat,1982,Comedy
+3263,Jab Raja Hai,1979,Comedy
+3276,Raj Kahani Ka Intezaar,1952,Comedy
+3282,Shree Andaz Ka Intezaar,2019,Comedy
+3286,Hamari Zindagi Ka Raaz,1931,Comedy
+3290,Dil Raja Ka Safar,1944,Comedy
+3302,Chalte Mission Se Mulakaat,1970,Comedy
+3306,Raj Jung Ki Kahani,2024,Comedy
+3309,Jab Mission Se Mulakaat,2014,Comedy
+3313,Jab Kahani Ki Baatein,1996,Comedy
+3321,Shree Sapna Ka Safar,1967,Comedy
+3322,Khiladi Zindagi Ka Intezaar,1983,Comedy
+3324,Chalte Rishta Ka Safar,2002,Comedy
+3341,Hamari Zindagi Ki Kahani,1990,Comedy
+3349,Chalte Raat Se Mulakaat,2019,Comedy
+3361,Prem Dosti Ke Rang,1969,Comedy
+3385,Aashiq Kahani Ka Intezaar,2011,Comedy
+3387,Chalte Zindagi Hai,1993,Comedy
+3388,Ek Jung Ki Kahani,2016,Comedy
+3391,Jab Mission Ki Kahani,2004,Comedy
+3392,Hamari Raja Ka Safar,2005,Comedy
+3395,Dil Manzil Ki Kahani,2003,Comedy
+3421,Prem Andaz Ke Rang,1944,Comedy
+3446,Tera Zindagi Hai,1955,Comedy
+3450,Baazigar Andaz Ki Duniya,1943,Comedy
+3460,Jab Mission Ki Duniya,1937,Comedy
+3462,Raj Pyaar Se Mulakaat,2003,Comedy
+3463,Hamari Zindagi Ke Rang,1944,Comedy
+3473,Ek Raat Se Mulakaat,1966,Comedy
+3481,Ek Manzil Ka Intezaar,1958,Comedy
+3491,Prem Zindagi Ka Safar,1950,Comedy
+3497,Dil Raja Ki Kahani,1995,Comedy
+3507,Shree Rishta Ka Intezaar,1953,Comedy
+3511,Baazigar Jung Ke Rang,1987,Comedy
+3515,Ek Sapna Ka Raaz,1992,Comedy
+3520,Chalte Jung Ka Intezaar,1932,Comedy
+3525,Dil Mission Hai,1964,Comedy
+3530,Jab Pyaar Hai,1991,Comedy
+3532,Tum Jung Ka Intezaar,1943,Comedy
+3534,Khiladi Rishta Ke Rang,1935,Comedy
+3538,Dil Raja Ka Raaz,2019,Comedy
+3544,Khiladi Rishta Ka Raaz,1938,Comedy
+3552,Tera Raja Ka Safar,1941,Comedy
+3567,Tera Jung Ki Baatein,1950,Comedy
+3590,Khiladi Jung Ki Kahani,1967,Comedy
+3595,Chalte Kahani Ka Intezaar,1974,Comedy
+3596,Shree Sapna Se Mulakaat,1993,Comedy
+3597,Hamari Mission Ki Baatein,2006,Comedy
+3603,Baazigar Kahani Ki Kahani,2013,Comedy
+3608,Ek Mission Ka Safar,1964,Comedy
+3613,Tera Kahani Ka Intezaar,1958,Comedy
+3617,Khiladi Zindagi Ka Safar,1945,Comedy
+3618,Shree Zindagi Ke Rang,1996,Comedy
+3619,Prem Sapna Ke Rang,1933,Comedy
+3622,Dil Rishta Ka Safar,2003,Comedy
+3626,Shree Dosti Se Mulakaat,2009,Comedy
+3629,Baazigar Raat Ke Rang,1944,Comedy
+3631,Jab Pyaar Se Mulakaat,1973,Comedy
+3632,Raj Dosti Ki Kahani,1972,Comedy
+3646,Chalte Kahani Hai,1951,Comedy
+3669,Jab Kahani Se Mulakaat,2017,Comedy
+3688,Tera Kahani Ki Baatein,1953,Comedy
+3689,Khiladi Jung Hai,1947,Comedy
+3690,Hamari Zindagi Ka Raaz,1935,Comedy
+3691,Jab Dosti Ka Safar,2013,Comedy
+3712,Tum Sapna Ka Intezaar,1959,Comedy
+3715,Tera Kahani Ki Kahani,1980,Comedy
+3721,Dil Kahani Se Mulakaat,1967,Comedy
+3722,Aashiq Rishta Ki Baatein,2022,Comedy
+3752,Jab Zindagi Ka Intezaar,1963,Comedy
+3760,Aashiq Jung Ke Rang,1997,Comedy
+3773,Chalte Pyaar Ki Baatein,1956,Comedy
+3774,Ek Raat Ka Intezaar,1962,Comedy
+3784,Raj Rishta Ki Duniya,2020,Comedy
+3786,Tera Sapna Ka Intezaar,2005,Comedy
+3787,Raj Kahani Ka Intezaar,1961,Comedy
+3804,Aashiq Raja Ki Duniya,1954,Comedy
+3809,Raj Raat Ka Safar,2013,Comedy
+3812,Ek Mission Se Mulakaat,1980,Comedy
+3814,Dil Raat Ka Safar,2001,Comedy
+3819,Khiladi Andaz Ka Safar,1957,Comedy
+3821,Dil Kahani Se Mulakaat,1965,Comedy
+3828,Shree Mission Ka Safar,1979,Comedy
+3831,Baazigar Kahani Ki Kahani,1938,Comedy
+3846,Jab Manzil Ka Raaz,1932,Comedy
+3851,Jab Sapna Ki Kahani,2012,Comedy
+3852,Tum Rishta Ka Intezaar,1968,Comedy
+3858,Hamari Raat Ki Kahani,1961,Comedy
+3861,Dil Raat Ki Duniya,1967,Comedy
+3862,Hamari Mission Ka Safar,1948,Comedy
+3866,Baazigar Andaz Ki Kahani,2006,Comedy
+3868,Hamari Kahani Ke Rang,1959,Comedy
+3869,Jab Raat Hai,1977,Comedy
+3882,Dil Raat Se Mulakaat,1973,Comedy
+3884,Jab Jung Se Mulakaat,1981,Comedy
+3899,Dil Jung Ka Safar,1987,Comedy
+3905,Tum Jung Ki Duniya,1938,Comedy
+3911,Aashiq Pyaar Ka Intezaar,1985,Comedy
+3921,Khiladi Pyaar Ki Kahani,1975,Comedy
+3922,Prem Manzil Se Mulakaat,1998,Comedy
+3924,Jab Dosti Hai,1945,Comedy
+3925,Dil Sapna Ki Kahani,1958,Comedy
+3929,Aashiq Zindagi Ka Raaz,2012,Comedy
+3943,Tera Mission Ki Baatein,1940,Comedy
+3948,Prem Mission Ki Duniya,1936,Comedy
+152,Dil Raat Ke Rang,1991,Horror
+177,Dil Manzil Ki Baatein,1936,Horror
+188,Tera Kahani Ki Kahani,1952,Horror
+220,Baazigar Zindagi Ka Raaz,1953,Horror
+328,Baazigar Raat Se Mulakaat,1977,Horror
+366,Shree Pyaar Ki Duniya,2004,Horror
+397,Hamari Raat Ka Intezaar,1938,Horror
+565,Prem Pyaar Hai,2000,Horror
+606,Ek Kahani Ke Rang,2016,Horror
+775,Hamari Jung Ki Baatein,1966,Horror
+841,Khiladi Manzil Hai,1982,Horror
+842,Prem Mission Hai,2025,Horror
+879,Khiladi Andaz Ki Duniya,1932,Horror
+1105,Chalte Zindagi Ka Safar,2007,Horror
+1128,Chalte Raat Ka Intezaar,2023,Horror
+1130,Raj Pyaar Se Mulakaat,1930,Horror
+1168,Baazigar Rishta Ki Baatein,1952,Horror
+1258,Tum Manzil Ka Safar,1932,Horror
+1321,Raj Pyaar Ka Intezaar,1938,Horror
+1322,Jab Sapna Hai,1954,Horror
+1323,Jab Dosti Ka Raaz,2020,Horror
+1324,Raj Dosti Se Mulakaat,2020,Horror
+1325,Prem Manzil Hai,1935,Horror
+1326,Jab Sapna Ka Raaz,1981,Horror
+1327,Baazigar Zindagi Ki Baatein,2013,Horror
+1328,Chalte Pyaar Hai,1992,Horror
+1329,Jab Rishta Ke Rang,1977,Horror
+1331,Hamari Rishta Ka Safar,2000,Horror
+1333,Tera Kahani Ki Kahani,1936,Horror
+1336,Chalte Mission Ka Intezaar,1998,Horror
+1337,Prem Mission Ka Raaz,1930,Horror
+1340,Shree Andaz Ke Rang,1988,Horror
+1341,Tera Pyaar Ki Duniya,1973,Horror
+1342,Prem Mission Hai,2013,Horror
+1345,Jab Raat Ka Raaz,1955,Horror
+1346,Khiladi Raja Ka Safar,1944,Horror
+1347,Tum Pyaar Se Mulakaat,1934,Horror
+1348,Jab Pyaar Hai,1948,Horror
+1349,Raj Zindagi Ki Kahani,1992,Horror
+1350,Baazigar Andaz Ka Intezaar,1999,Horror
+1623,Tum Manzil Ki Duniya,2023,Horror
+1655,Chalte Zindagi Ki Duniya,1985,Horror
+1756,Shree Mission Ki Baatein,2016,Horror
+1771,Jab Raat Hai,1935,Horror
+1969,Hamari Jung Ke Rang,2006,Horror
+1970,Dil Sapna Ki Duniya,1935,Horror
+1971,Hamari Andaz Ki Kahani,2021,Horror
+1972,Aashiq Pyaar Se Mulakaat,2001,Horror
+1973,Aashiq Sapna Ka Safar,1989,Horror
+1974,Aashiq Mission Se Mulakaat,1966,Horror
+1975,Chalte Zindagi Ki Kahani,1987,Horror
+1976,Hamari Manzil Ka Raaz,1931,Horror
+1977,Hamari Mission Se Mulakaat,1939,Horror
+1978,Shree Mission Ki Kahani,2004,Horror
+1979,Aashiq Zindagi Ki Baatein,1991,Horror
+1980,Tum Jung Hai,2024,Horror
+1981,Aashiq Manzil Ka Intezaar,1984,Horror
+1982,Prem Pyaar Ka Intezaar,1954,Horror
+1983,Ek Sapna Se Mulakaat,1942,Horror
+1984,Khiladi Sapna Ki Kahani,1991,Horror
+1985,Hamari Sapna Ka Raaz,1936,Horror
+1986,Tum Jung Ka Safar,1984,Horror
+1987,Ek Jung Ki Kahani,2009,Horror
+1988,Chalte Kahani Ka Safar,1945,Horror
+1989,Chalte Raat Ke Rang,2011,Horror
+1990,Dil Jung Ki Baatein,2013,Horror
+1991,Ek Rishta Ke Rang,1955,Horror
+1992,Ek Mission Ka Raaz,1983,Horror
+1993,Baazigar Kahani Ka Raaz,1966,Horror
+1997,Dil Sapna Ki Baatein,1978,Horror
+1998,Ek Dosti Ka Safar,2014,Horror
+1999,Tum Kahani Ka Intezaar,1940,Horror
+2119,Tera Jung Ka Raaz,1961,Horror
+2327,Raj Zindagi Ka Safar,1999,Horror
+2328,Baazigar Sapna Ka Intezaar,2000,Horror
+2451,Dil Jung Se Mulakaat,1960,Horror
+2452,Tum Rishta Se Mulakaat,1992,Horror
+2459,Tum Pyaar Ki Duniya,2002,Horror
+2460,Chalte Kahani Ka Safar,1941,Horror
+2461,Aashiq Raja Ke Rang,1935,Horror
+2462,Aashiq Raja Ki Baatein,1984,Horror
+2464,Hamari Andaz Ka Raaz,1998,Horror
+2465,Ek Rishta Ki Duniya,1955,Horror
+2513,Baazigar Sapna Ki Duniya,1967,Horror
+2514,Tera Dosti Ka Safar,1992,Horror
+2515,Tera Andaz Ki Kahani,1996,Horror
+2516,Prem Raat Ki Baatein,1994,Horror
+2517,Shree Jung Ki Duniya,2003,Horror
+2519,Hamari Pyaar Ka Raaz,1996,Horror
+2548,Aashiq Andaz Ki Duniya,1976,Horror
+2634,Khiladi Kahani Ki Duniya,2014,Horror
+2635,Prem Rishta Ka Safar,1955,Horror
+2636,Jab Mission Se Mulakaat,1940,Horror
+2637,Prem Jung Ki Kahani,1950,Horror
+2638,Dil Mission Ki Duniya,1959,Horror
+2644,Khiladi Sapna Ka Raaz,1940,Horror
+2645,Shree Sapna Ka Raaz,1991,Horror
+2646,Baazigar Andaz Ka Intezaar,2025,Horror
+2647,Khiladi Rishta Ke Rang,1988,Horror
+2648,Aashiq Dosti Ki Kahani,1933,Horror
+2649,Hamari Raja Ki Kahani,2018,Horror
+2650,Hamari Rishta Ke Rang,2012,Horror
+2651,Aashiq Manzil Ke Rang,2010,Horror
+2652,Shree Raja Ke Rang,1936,Horror
+2653,Tera Sapna Ki Baatein,1975,Horror
+2654,Shree Raja Ka Intezaar,1993,Horror
+2655,Baazigar Dosti Hai,1942,Horror
+2710,Raj Manzil Hai,1986,Horror
+2740,Tera Zindagi Se Mulakaat,1996,Horror
+2754,Tera Mission Ki Baatein,1970,Horror
+2781,Aashiq Sapna Hai,1945,Horror
+2782,Dil Manzil Ka Raaz,1982,Horror
+2783,Aashiq Mission Ki Duniya,1960,Horror
+2784,Baazigar Rishta Ki Kahani,1971,Horror
+2785,Jab Pyaar Ki Duniya,1958,Horror
+2787,Aashiq Mission Ka Intezaar,2013,Horror
+2789,Tum Rishta Ka Intezaar,1985,Horror
+2790,Aashiq Rishta Ka Safar,1966,Horror
+2814,Chalte Kahani Ki Duniya,1966,Horror
+2853,Aashiq Sapna Se Mulakaat,1967,Horror
+2854,Baazigar Andaz Ki Duniya,1931,Horror
+2855,Raj Pyaar Se Mulakaat,1933,Horror
+2868,Khiladi Manzil Ka Raaz,1962,Horror
+2878,Dil Rishta Se Mulakaat,2003,Horror
+2995,Khiladi Zindagi Ka Intezaar,1970,Horror
+3016,Tum Andaz Hai,1998,Horror
+3017,Aashiq Mission Ka Intezaar,2008,Horror
+3018,Baazigar Jung Se Mulakaat,2001,Horror
+3021,Hamari Sapna Ki Baatein,1985,Horror
+3026,Prem Jung Ki Duniya,1945,Horror
+3027,Prem Zindagi Ki Kahani,1945,Horror
+3085,Prem Zindagi Hai,2008,Horror
+3119,Baazigar Rishta Ki Baatein,2000,Horror
+3205,Baazigar Rishta Ke Rang,2020,Horror
+3216,Jab Pyaar Ki Baatein,1955,Horror
+3280,Ek Jung Ke Rang,1964,Horror
+3294,Raj Pyaar Ki Kahani,1966,Horror
+3344,Ek Manzil Ka Intezaar,2023,Horror
+3346,Prem Pyaar Ki Baatein,2009,Horror
+3351,Ek Andaz Ka Raaz,1974,Horror
+3472,Dil Andaz Ki Duniya,2004,Horror
+3485,Aashiq Jung Ka Safar,1959,Horror
+3490,Shree Rishta Ki Duniya,1965,Horror
+3493,Tera Raat Ka Raaz,1990,Horror
+3499,Tum Raat Hai,2004,Horror
+3550,Shree Manzil Ka Safar,2004,Horror
+3587,Prem Dosti Ka Raaz,1961,Horror
+3589,Jab Jung Hai,1966,Horror
+3630,Jab Andaz Ka Safar,1970,Horror
+3650,Chalte Kahani Ka Intezaar,1949,Horror
+3651,Khiladi Jung Ka Safar,1960,Horror
+3652,Chalte Raat Ka Intezaar,2018,Horror
+3709,Chalte Manzil Ka Raaz,1984,Horror
+3732,Dil Jung Ka Safar,1930,Horror
+3757,Raj Jung Ka Intezaar,2016,Horror
+3762,Aashiq Rishta Ki Kahani,1988,Horror
+3772,Aashiq Jung Ki Kahani,2023,Horror
+3832,Raj Zindagi Ka Safar,1976,Horror
+3837,Hamari Mission Hai,2004,Horror
+3838,Raj Rishta Ka Safar,1993,Horror
+3839,Tum Mission Hai,1932,Horror
+3840,Ek Raja Ki Kahani,2014,Horror
+3842,Hamari Sapna Ka Raaz,2017,Horror
+3843,Chalte Pyaar Se Mulakaat,1976,Horror
+3847,Khiladi Raja Se Mulakaat,2016,Horror
+3875,Aashiq Mission Ki Duniya,2016,Horror
+3892,Jab Andaz Ki Baatein,2007,Horror
+3908,Chalte Raat Hai,1971,Horror
+3917,Aashiq Kahani Ka Safar,1981,Horror
+3918,Aashiq Zindagi Se Mulakaat,1978,Horror
+3919,Aashiq Zindagi Ki Kahani,1976,Horror
+3930,Dil Andaz Ka Raaz,1984,Horror
+3935,Prem Zindagi Ka Raaz,2009,Horror
+3938,Raj Raat Ki Duniya,1972,Horror
+3939,Jab Kahani Hai,1972,Horror
+3940,Hamari Andaz Ka Intezaar,2015,Horror
+3941,Baazigar Raat Ke Rang,1982,Horror
+3942,Jab Manzil Ka Safar,2016,Horror
+111,Baazigar Rishta Ke Rang,1987,Drama|Thriller
+199,Raj Mission Ki Kahani,1959,Drama|Musical
+260,Khiladi Mission Hai,2021,Action|Adventure|Fantasy|Sci-Fi
+390,Shree Mission Ka Safar,1989,Action|Comedy|Drama
+541,Jab Kahani Ki Kahani,1970,Film-Noir|Sci-Fi
+586,Raj Raja Ki Duniya,1965,Children's|Comedy
+587,Aashiq Raat Ka Safar,1930,Comedy|Romance|Thriller
+589,Ek Andaz Ki Kahani,1975,Action|Sci-Fi|Thriller
+590,Jab Raat Hai,1975,Adventure|Drama|Western
+592,Tera Raat Ka Intezaar,1970,Action|Adventure|Crime|Drama
+593,Ek Sapna Ka Raaz,1965,Drama|Thriller
+594,Aashiq Jung Se Mulakaat,1991,Animation|Children's|Musical
+595,Jab Andaz Ki Duniya,1940,Animation|Children's|Musical
+596,Tera Andaz Ki Baatein,2000,Animation|Children's
+597,Dil Manzil Hai,1940,Comedy|Romance
+599,Chalte Sapna Ka Safar,1942,Western
+610,Khiladi Sapna Ke Rang,1932,Action|Adventure|Animation|Horror|Sci-Fi
+616,Jab Sapna Ki Kahani,1963,Animation|Children's
+659,Tum Zindagi Ke Rang,1974,Crime|Thriller
+674,Aashiq Mission Ka Raaz,2012,Adventure|Sci-Fi
+680,Tera Raat Hai,1975,Sci-Fi
+681,Jab Raja Ka Safar,1946,Crime
+709,Jab Pyaar Ki Baatein,1947,Animation|Children's
+716,Ek Dosti Ki Baatein,2001,Crime
+746,Aashiq Dosti Ka Raaz,1953,Film-Noir
+750,Shree Zindagi Hai,1944,Sci-Fi|War
+755,Dil Andaz Ka Intezaar,1996,Children's|Drama
+771,Khiladi Pyaar Ki Duniya,2000,Comedy|Drama
+792,Tum Raat Ka Raaz,1954,Fantasy
+858,Tum Manzil Ka Safar,1973,Action|Crime|Drama
+890,Shree Raja Ki Kahani,1937,Thriller
+894,Shree Kahani Ka Raaz,2001,Romance
+897,Chalte Andaz Ki Baatein,1950,Adventure|War
+898,Chalte Dosti Ki Baatein,1952,Comedy|Romance
+899,Tera Manzil Ki Baatein,2017,Musical|Romance
+900,Tera Manzil Ki Kahani,2025,Musical|Romance
+901,Hamari Andaz Ka Raaz,1995,Comedy|Musical
+902,Tum Raja Hai,2025,Drama|Romance
+903,Prem Zindagi Hai,2010,Mystery|Thriller
+904,Tum Kahani Ka Safar,1949,Mystery|Thriller
+906,Tum Andaz Hai,1973,Mystery|Thriller
+907,Prem Pyaar Ki Duniya,2025,Comedy|Musical|Romance
+908,Chalte Zindagi Ki Duniya,1961,Drama|Thriller
+909,Tum Raat Se Mulakaat,1950,Comedy|Drama
+910,Khiladi Raat Se Mulakaat,2015,Comedy|Crime
+911,Shree Zindagi Se Mulakaat,2019,Comedy|Mystery|Romance|Thriller
+912,Tum Pyaar Hai,2013,Drama|Romance|War
+913,Jab Zindagi Ka Intezaar,1936,Film-Noir|Mystery
+914,Khiladi Zindagi Ki Baatein,2024,Musical|Romance
+915,Hamari Manzil Hai,1964,Comedy|Romance
+916,Aashiq Jung Se Mulakaat,1946,Comedy|Romance
+917,Chalte Zindagi Ka Safar,2017,Children's|Drama
+918,Khiladi Manzil Ki Duniya,1967,Musical
+919,Raj Andaz Ka Intezaar,1962,Adventure|Children's|Drama|Musical
+920,Chalte Jung Ki Baatein,2015,Drama|Romance|War
+922,Raj Pyaar Ki Kahani,1976,Film-Noir
+924,Hamari Andaz Ki Baatein,1930,Drama|Mystery|Sci-Fi|Thriller
+925,Prem Zindagi Ke Rang,2005,Adventure|Romance
+928,Raj Rishta Se Mulakaat,1954,Romance|Thriller
+929,Hamari Zindagi Ki Baatein,1971,Thriller
+930,Hamari Sapna Ki Baatein,1955,Film-Noir|Romance|Thriller
+931,Tera Raja Ka Safar,1971,Mystery|Romance|Thriller
+932,Aashiq Mission Hai,2018,Romance
+933,Ek Rishta Ka Raaz,1997,Comedy|Romance|Thriller
+935,Tum Zindagi Ke Rang,1946,Comedy|Musical
+936,Khiladi Jung Ki Duniya,1960,Comedy|Romance
+937,Tum Raat Ka Intezaar,2024,Comedy|Romance
+938,Raj Zindagi Ka Intezaar,1961,Musical
+939,Hamari Raat Ka Safar,1944,Comedy|Drama
+940,Tum Sapna Ki Baatein,1990,Action|Adventure
+941,Prem Andaz Ka Safar,1983,Adventure
+942,Chalte Zindagi Se Mulakaat,2003,Crime|Film-Noir|Mystery
+943,Baazigar Raja Ka Raaz,1944,Drama|Romance
+945,Dil Raat Ki Baatein,2019,Comedy|Musical|Romance
+946,Ek Sapna Ka Raaz,1957,Comedy|Drama|War
+950,Raj Raat Ka Intezaar,1987,Mystery
+952,Hamari Manzil Ke Rang,1941,Adventure|Comedy
+956,Dil Andaz Ki Duniya,1998,Drama|Romance
+958,Jab Andaz Se Mulakaat,1937,Comedy|Mystery
+960,Aashiq Andaz Ke Rang,1935,Crime|Drama
+962,Jab Pyaar Ki Duniya,2004,Crime|Drama
+963,Jab Dosti Ke Rang,1973,Musical
+964,Baazigar Rishta Ki Kahani,1944,Western
+965,Hamari Mission Ki Kahani,2022,Thriller
+967,Ek Raat Ki Kahani,1953,Western
+968,Shree Kahani Ki Kahani,2025,Horror|Sci-Fi
+969,Raj Manzil Hai,2016,Action|Adventure|Romance|War
+970,Dil Rishta Ki Duniya,2004,Comedy|Drama
+974,Chalte Raja Ki Kahani,1998,Drama|Romance
+975,Chalte Manzil Ki Duniya,1994,Comedy|Musical
+976,Ek Mission Ki Baatein,1933,Romance|War
+977,Raj Pyaar Ki Duniya,2024,Mystery
+980,Chalte Jung Ke Rang,2024,Action
+1007,Baazigar Zindagi Ka Raaz,1937,Children's|Comedy|Western
+1008,Aashiq Kahani Hai,2020,Western
+1009,Tera Sapna Se Mulakaat,1953,Adventure|Children's|Fantasy
+1010,Chalte Dosti Ka Raaz,1973,Children's|Comedy
+1011,Baazigar Jung Ka Raaz,1995,Adventure|Children's|Comedy
+1012,Tum Zindagi Se Mulakaat,2001,Children's|Drama
+1013,Prem Raat Ke Rang,2004,Children's|Drama
+1014,Ek Pyaar Se Mulakaat,1937,Children's|Comedy|Drama
+1016,Hamari Jung Ka Safar,2017,Children's|Comedy
+1017,Khiladi Raat Ka Safar,1953,Adventure|Children's
+1018,Tera Mission Se Mulakaat,2016,Children's|Comedy|Mystery
+1019,Khiladi Pyaar Ka Raaz,2017,Adventure|Children's|Fantasy|Sci-Fi
+1022,Raj Sapna Ke Rang,1936,Animation|Children's|Musical
+1023,Khiladi Rishta Ki Baatein,2008,Animation|Children's
+1024,Tera Sapna Hai,1967,Animation|Children's|Musical
+1025,Aashiq Jung Ki Baatein,1962,Animation|Children's
+1026,Tera Kahani Ka Intezaar,1957,Children's|Drama
+1028,Tum Dosti Ke Rang,1985,Children's|Comedy|Musical
+1029,Tera Zindagi Ke Rang,1995,Animation|Children's|Musical
+1030,Dil Pyaar Ka Raaz,1983,Adventure|Animation|Children's|Musical
+1031,Chalte Sapna Ki Kahani,1967,Adventure|Children's|Musical
+1032,Hamari Raja Ki Kahani,1963,Animation|Children's|Musical
+1033,Chalte Raja Ki Baatein,2000,Animation|Children's
+1035,Ek Sapna Ka Intezaar,1932,Musical
+1036,Jab Kahani Ke Rang,1981,Action|Thriller
+1065,Khiladi Dosti Ka Safar,1995,Mystery
+1066,Raj Andaz Ki Baatein,2015,Comedy|Musical|Romance
+1067,Prem Raat Hai,1971,Comedy|Musical|Romance
+1068,Aashiq Raat Ki Kahani,2009,Crime|Film-Noir
+1069,Shree Rishta Ka Raaz,1978,Film-Noir|Thriller
+1070,Shree Rishta Ki Duniya,2022,Adventure
+1073,Hamari Manzil Hai,2018,Adventure|Children's|Comedy|Fantasy
+1076,Prem Rishta Ka Safar,1948,Thriller
+1077,Tera Raja Ka Intezaar,2007,Comedy|Sci-Fi
+1078,Tum Andaz Ki Duniya,1974,Comedy|War
+1081,Khiladi Raat Ki Kahani,2018,Comedy|Musical
+1083,Tum Sapna Se Mulakaat,2014,Comedy|Musical
+1084,Dil Zindagi Ki Kahani,1953,Crime|Drama
+1085,Hamari Dosti Ki Kahani,1971,Adventure|Drama
+1086,Hamari Kahani Se Mulakaat,1981,Mystery|Thriller
+1088,Ek Raat Ki Duniya,1985,Musical|Romance
+1090,Khiladi Zindagi Ke Rang,1946,Drama|War
+1093,Tum Manzil Ki Baatein,1941,Drama|Musical
+1097,Shree Jung Ka Safar,1973,Children's|Drama|Fantasy|Sci-Fi
+1100,Khiladi Jung Ka Intezaar,2023,Action|Romance
+1101,Shree Raat Ka Intezaar,1961,Action|Romance
+1126,Tum Sapna Hai,1983,Comedy|Fantasy
+1127,Baazigar Jung Hai,1945,Action|Adventure|Sci-Fi|Thriller
+1129,Tera Jung Hai,2023,Action|Adventure|Sci-Fi|Thriller
+1152,Tum Mission Ki Baatein,2024,Crime|Film-Noir|Thriller
+1153,Shree Raat Ki Duniya,1946,Film-Noir
+1154,Dil Kahani Ke Rang,1986,Film-Noir
+1159,Hamari Rishta Ki Duniya,1943,Romance
+1169,Prem Kahani Ka Raaz,1949,Documentary
+1172,Chalte Mission Ki Kahani,1938,Comedy|Drama|Romance
+1175,Tum Mission Ka Safar,2024,Comedy|Sci-Fi
+1178,Hamari Manzil Ka Intezaar,1939,Drama|War
+1179,Shree Jung Hai,1980,Crime|Drama|Film-Noir
+1184,Prem Zindagi Ki Duniya,1951,Comedy|War
+1189,Shree Kahani Ka Raaz,1999,Documentary
+1191,Prem Dosti Ka Safar,1975,Documentary
+1192,Hamari Raat Ka Safar,1961,Documentary
+1196,Raj Zindagi Ki Kahani,2012,Action|Adventure|Drama|Sci-Fi|War
+1197,Jab Raja Ki Baatein,1968,Action|Adventure|Comedy|Romance
+1198,Ek Raat Ka Intezaar,2002,Action|Adventure
+1199,Raj Rishta Ke Rang,1996,Sci-Fi
+1200,Chalte Sapna Ki Duniya,1951,Action|Sci-Fi|Thriller|War
+1201,Baazigar Pyaar Se Mulakaat,1972,Action|Western
+1204,Aashiq Jung Ka Intezaar,1932,Adventure|War
+1205,Khiladi Zindagi Ka Safar,1973,Action|Animation|Children's|Sci-Fi|Thriller|War
+1206,Hamari Pyaar Hai,1985,Sci-Fi
+1208,Dil Jung Ke Rang,1964,Drama|War
+1209,Raj Manzil Se Mulakaat,1971,Western
+1210,Aashiq Manzil Ki Baatein,1973,Action|Adventure|Romance|Sci-Fi|War
+1211,Aashiq Raat Ki Kahani,1969,Comedy|Drama|Romance
+1212,Aashiq Sapna Ka Safar,1941,Mystery|Thriller
+1213,Tum Manzil Ka Raaz,1935,Crime|Drama
+1214,Shree Sapna Ki Duniya,1946,Action|Horror|Sci-Fi|Thriller
+1216,Chalte Rishta Ka Raaz,1944,Adventure|Romance
+1217,Ek Raja Hai,1953,Drama|War
+1218,Ek Mission Ki Kahani,2006,Action|Thriller
+1219,Dil Pyaar Ki Kahani,1979,Horror|Thriller
+1220,Tum Kahani Ka Raaz,1985,Action|Comedy|Musical
+1221,Dil Jung Ka Raaz,2013,Action|Crime|Drama
+1222,Prem Zindagi Ka Raaz,1946,Action|Drama|War
+1224,Tera Dosti Ki Duniya,1987,Drama|War
+1226,Dil Zindagi Ki Baatein,1941,Comedy|Romance
+1227,Shree Raat Se Mulakaat,2008,Crime|Drama|Thriller
+1230,Chalte Dosti Ke Rang,2020,Comedy|Romance
+1232,Khiladi Rishta Hai,1949,Mystery|Sci-Fi
+1233,Khiladi Sapna Ki Duniya,1963,Action|Drama|War
+1234,Raj Andaz Ki Kahani,2001,Comedy|Crime
+1236,Baazigar Kahani Ka Raaz,1970,Comedy|Drama
+1240,Khiladi Zindagi Ka Safar,1991,Action|Sci-Fi|Thriller
+1242,Raj Jung Ka Intezaar,1940,Action|Drama|War
+1243,Raj Pyaar Ki Duniya,2016,Comedy|Drama
+1244,Raj Rishta Ki Baatein,1994,Comedy|Drama|Romance
+1247,Tera Zindagi Ki Kahani,1962,Drama|Romance
+1248,Shree Raat Se Mulakaat,1985,Crime|Film-Noir|Thriller
+1249,Khiladi Raja Hai,1960,Thriller
+1250,Raj Andaz Ki Baatein,2010,Drama|War
+1252,Tum Andaz Ke Rang,2018,Film-Noir|Mystery|Thriller
+1253,Aashiq Zindagi Ki Kahani,1957,Drama|Sci-Fi
+1254,Shree Manzil Ke Rang,1945,Adventure
+1255,Shree Zindagi Ke Rang,1985,Comedy|Horror
+1256,Aashiq Dosti Ki Baatein,1987,Comedy|War
+1259,Ek Raat Ki Kahani,1974,Adventure|Comedy|Drama
+1260,Tum Raat Ka Raaz,1956,Crime|Film-Noir|Thriller
+1261,Ek Pyaar Hai,2023,Action|Adventure|Comedy|Horror
+1262,Tera Kahani Ki Kahani,1994,Adventure|War
+1263,Aashiq Kahani Ka Intezaar,2015,Drama|War
+1264,Prem Raja Ka Safar,1949,Action|Drama|Mystery|Romance|Thriller
+1267,Khiladi Rishta Hai,1935,Film-Noir|Thriller
+1269,Ek Mission Ki Baatein,2021,Comedy|Mystery|Thriller
+1270,Khiladi Sapna Ki Kahani,1984,Comedy|Sci-Fi
+1272,Tera Rishta Ki Kahani,2020,Drama|War
+1273,Ek Raat Ka Safar,1979,Comedy|Drama
+1274,Shree Zindagi Ki Baatein,2004,Adventure|Animation|Sci-Fi|Thriller
+1275,Jab Andaz Ka Safar,1954,Action|Adventure
+1276,Raj Zindagi Ka Safar,1973,Comedy|Drama
+1277,Khiladi Jung Ka Raaz,1999,Action|Drama|Romance
+1278,Ek Raja Ka Intezaar,1945,Comedy|Horror
+1279,Jab Andaz Ki Duniya,1933,Comedy|Drama
+1282,Aashiq Mission Hai,2005,Animation|Children's|Musical
+1283,Prem Pyaar Ki Baatein,1932,Western
+1284,Prem Zindagi Ka Intezaar,1989,Film-Noir|Mystery
+1286,Tum Jung Ka Intezaar,1999,Drama|Romance
+1287,Aashiq Jung Ki Baatein,2016,Action|Adventure|Drama
+1288,Raj Zindagi Hai,1977,Comedy|Drama|Musical
+1289,Baazigar Kahani Hai,2002,Documentary|War
+1290,Chalte Dosti Ke Rang,2004,Drama|Romance
+1291,Ek Dosti Ka Safar,1959,Action|Adventure
+1294,Khiladi Kahani Ka Safar,1965,Comedy|War
+1296,Tum Raat Ka Safar,2002,Drama|Romance
+1298,Tera Manzil Hai,1982,Drama|Musical|War
+1299,Tum Sapna Ka Safar,1991,Drama|War
+1301,Raj Pyaar Ka Safar,2014,Sci-Fi
+1303,Chalte Jung Ki Kahani,2013,Adventure
+1304,Ek Raat Hai,2022,Action|Comedy|Western
+1306,Tera Rishta Ka Raaz,1972,Drama|Sci-Fi
+1307,Hamari Pyaar Ka Raaz,1981,Comedy|Romance
+1330,Khiladi Jung Ka Intezaar,2017,Comedy|Horror
+1332,Chalte Raat Ka Intezaar,1933,Horror|Thriller
+1334,Chalte Manzil Ki Duniya,1941,Horror|Sci-Fi
+1335,Dil Raja Ka Safar,1986,Action|Horror
+1343,Raj Kahani Ke Rang,1943,Thriller
+1344,Aashiq Andaz Ke Rang,1970,Film-Noir|Thriller
+1370,Khiladi Zindagi Se Mulakaat,1967,Action|Thriller
+1371,Ek Andaz Ki Kahani,1963,Action|Adventure|Sci-Fi
+1372,Dil Sapna Ka Raaz,1939,Action|Adventure|Sci-Fi
+1373,Shree Rishta Ki Duniya,1933,Action|Adventure|Sci-Fi
+1374,Aashiq Pyaar Ki Kahani,2007,Action|Adventure|Sci-Fi
+1375,Tera Mission Ka Intezaar,1959,Action|Adventure|Sci-Fi
+1376,Tum Raja Hai,2015,Action|Adventure|Sci-Fi
+1378,Raj Raja Ka Intezaar,1995,Action|Comedy|Western
+1379,Shree Mission Ke Rang,2008,Action|Comedy|Western
+1380,Baazigar Rishta Ke Rang,1979,Comedy|Musical|Romance
+1381,Hamari Mission Ki Duniya,2007,Comedy|Musical|Romance
+1382,Raj Kahani Ke Rang,1954,Action|Drama
+1386,Tum Dosti Ki Duniya,1966,Western
+1387,Aashiq Mission Hai,1952,Action|Horror
+1388,Khiladi Rishta Ki Kahani,1950,Action|Horror
+1389,Chalte Mission Se Mulakaat,2013,Action|Horror
+1395,Hamari Zindagi Ka Safar,2011,Comedy|Drama
+1587,Aashiq Raja Ke Rang,1934,Action|Adventure
+1610,Jab Kahani Ki Kahani,1953,Action|Thriller
+1674,Baazigar Zindagi Ka Intezaar,2008,Drama|Romance|Thriller
+1785,Jab Andaz Ka Safar,1950,Action|Crime
+1913,Hamari Kahani Ki Kahani,1995,Drama|Mystery
+1924,Baazigar Jung Hai,2024,Horror|Sci-Fi
+1925,Baazigar Kahani Hai,2011,Drama|Romance|War
+1926,Tum Zindagi Ka Safar,1984,Musical
+1927,Tera Manzil Ki Baatein,1947,War
+1928,Hamari Jung Hai,1969,Western
+1931,Baazigar Jung Ki Duniya,2003,Adventure
+1932,Khiladi Zindagi Ka Raaz,1991,Musical
+1936,Aashiq Pyaar Hai,2010,Drama|War
+1939,Baazigar Mission Hai,1988,Drama|War
+1944,Prem Jung Ki Kahani,1973,Drama|Romance|War
+1945,Ek Pyaar Ke Rang,1949,Crime|Drama
+1946,Aashiq Andaz Ki Duniya,1991,Drama|Romance
+1947,Prem Sapna Ka Safar,2010,Musical|Romance
+1950,Aashiq Manzil Se Mulakaat,2010,Drama|Mystery
+1951,Khiladi Andaz Hai,1981,Musical
+1953,Khiladi Andaz Ka Intezaar,1987,Action|Crime|Drama|Thriller
+1954,Shree Raat Hai,1979,Action|Drama
+1958,Raj Dosti Hai,2005,Comedy|Drama
+1959,Baazigar Rishta Ke Rang,2023,Drama|Romance
+1960,Dil Manzil Ka Raaz,1974,Drama|War
+1964,Prem Raat Ka Raaz,1985,Drama|Mystery
+1965,Jab Dosti Hai,1998,Comedy|Sci-Fi
+1967,Ek Zindagi Ka Raaz,2003,Adventure|Children's|Fantasy
+1968,Dil Pyaar Se Mulakaat,1938,Comedy|Drama
+1994,Raj Zindagi Ki Baatein,2015,Horror|Thriller
+1995,Hamari Andaz Ki Kahani,1955,Horror|Thriller
+1996,Baazigar Pyaar Ki Baatein,1934,Horror|Thriller
+2000,Chalte Jung Se Mulakaat,1931,Action|Comedy|Crime|Drama
+2001,Jab Dosti Ka Safar,2021,Action|Comedy|Crime|Drama
+2003,Chalte Pyaar Ki Duniya,1998,Comedy|Horror
+2004,Prem Sapna Hai,1996,Comedy|Horror
+2005,Jab Zindagi Ka Safar,2005,Adventure|Children's|Fantasy
+2009,Hamari Pyaar Ka Intezaar,1992,Sci-Fi|Thriller
+2010,Chalte Sapna Ka Intezaar,1947,Sci-Fi
+2011,Prem Raja Ki Baatein,1989,Comedy|Sci-Fi
+2012,Jab Mission Ki Baatein,1955,Comedy|Sci-Fi|Western
+2013,Tum Manzil Ki Baatein,1946,Action|Adventure
+2014,Tera Kahani Ki Baatein,1982,Children's|Comedy
+2015,Jab Andaz Se Mulakaat,1949,Children's|Comedy|Fantasy
+2016,Chalte Pyaar Se Mulakaat,1985,Children's|Comedy|Western
+2017,Hamari Raat Ka Intezaar,1983,Children's|Fantasy|Musical
+2018,Chalte Mission Ki Baatein,1939,Animation|Children's
+2019,Raj Kahani Ka Intezaar,1950,Action|Drama
+2020,Hamari Dosti Ki Kahani,2008,Drama|Romance
+2021,Dil Raja Hai,1962,Fantasy|Sci-Fi
+2023,Jab Pyaar Ka Raaz,2019,Action|Crime|Drama
+2024,Chalte Raja Ki Kahani,1966,Drama|Mystery
+2031,Prem Rishta Ka Raaz,1992,Children's|Comedy
+2032,Shree Andaz Se Mulakaat,1993,Children's|Comedy
+2033,Raj Sapna Ka Intezaar,2011,Animation|Children's
+2034,Tum Mission Ka Intezaar,1947,Sci-Fi
+2035,Shree Pyaar Ke Rang,1976,Children's|Comedy
+2037,Aashiq Manzil Ki Duniya,1974,Adventure|Children's|Comedy
+2038,Khiladi Raat Ke Rang,1971,Children's|Comedy|Sci-Fi
+2039,Aashiq Zindagi Ki Duniya,2019,Adventure|Children's
+2040,Chalte Raat Ki Baatein,1990,Children's|Comedy
+2041,Khiladi Raja Se Mulakaat,1984,Action|Adventure|Children's|Comedy
+2043,Raj Zindagi Se Mulakaat,1992,Adventure|Children's|Fantasy
+2046,Prem Jung Ka Safar,2016,Adventure|Children's|Sci-Fi
+2047,Jab Manzil Hai,2005,Children's
+2048,Khiladi Rishta Ki Kahani,1968,Animation|Children's
+2049,Chalte Zindagi Ki Kahani,1934,Comedy|Musical
+2050,Tum Dosti Ka Raaz,1976,Adventure|Children's|Comedy
+2051,Tum Andaz Ki Baatein,2009,Adventure|Children's|Comedy
+2054,Hamari Raat Ka Intezaar,1934,Adventure|Children's|Comedy|Fantasy|Sci-Fi
+2055,Aashiq Sapna Ke Rang,1949,Comedy|Western
+2056,Hamari Mission Ki Duniya,1940,Adventure|Children's
+2057,Jab Manzil Ki Baatein,1978,Adventure|Children's
+2064,Raj Zindagi Ke Rang,1982,Comedy|Documentary
+2065,Dil Andaz Ke Rang,1952,Comedy|Drama|Romance
+2066,Hamari Andaz Ka Safar,2007,Film-Noir
+2067,Baazigar Raat Ke Rang,1942,Drama|Romance|War
+2075,Ek Rishta Ka Raaz,1968,Drama|War
+2076,Baazigar Manzil Se Mulakaat,1993,Drama|Mystery
+2077,Aashiq Raat Ka Intezaar,1978,Adventure|Children's
+2078,Hamari Raat Ka Raaz,1993,Animation|Children's|Comedy|Musical
+2079,Chalte Sapna Ka Safar,2004,Children's|Drama
+2080,Khiladi Zindagi Hai,1969,Animation|Children's|Comedy|Musical|Romance
+2081,Tum Raja Ka Raaz,1936,Animation|Children's|Comedy|Musical|Romance
+2085,Khiladi Sapna Ki Duniya,2009,Animation|Children's
+2086,Tum Sapna Ki Baatein,2023,Drama|Fantasy
+2087,Dil Manzil Ka Intezaar,1944,Animation|Children's|Fantasy|Musical
+2088,Aashiq Kahani Ka Safar,2020,Adventure|Comedy|Musical
+2089,Raj Raja Ke Rang,2014,Animation|Children's
+2090,Aashiq Andaz Ke Rang,1941,Animation|Children's
+2091,Khiladi Raat Ka Intezaar,2023,Children's|Sci-Fi
+2093,Prem Raat Ke Rang,1971,Adventure|Children's|Fantasy|Sci-Fi
+2094,Raj Kahani Ki Baatein,2007,Action|Adventure|Sci-Fi
+2095,Aashiq Kahani Ki Baatein,1939,Children's|Comedy
+2096,Shree Raat Ki Kahani,2014,Animation|Children's|Musical
+2097,Aashiq Andaz Ki Kahani,1983,Children's|Horror
+2098,Tum Manzil Se Mulakaat,2001,Children's|Comedy
+2099,Tum Kahani Ki Kahani,1965,Adventure|Animation|Children's|Musical
+2100,Hamari Mission Ki Duniya,1944,Comedy|Fantasy|Romance
+2102,Hamari Rishta Ki Kahani,1978,Animation|Children's|Comedy|Musical
+2105,Prem Sapna Se Mulakaat,1999,Action|Adventure|Fantasy|Sci-Fi
+2108,Jab Rishta Ki Duniya,1971,Comedy|Romance
+2110,Hamari Kahani Ka Safar,2016,Comedy|Crime|Thriller
+2112,Khiladi Zindagi Ki Duniya,1966,Crime|Drama
+2113,Khiladi Mission Ke Rang,1991,Horror|Thriller
+2115,Prem Raat Hai,1932,Action|Adventure
+2116,Dil Raat Hai,1996,Adventure|Animation|Children's|Sci-Fi
+2117,Khiladi Dosti Se Mulakaat,2006,Drama|Sci-Fi
+2118,Hamari Andaz Ke Rang,2014,Horror|Thriller
+2121,Chalte Pyaar Ka Intezaar,1969,Horror|Thriller
+2122,Tera Raja Ki Kahani,2010,Horror|Thriller
+2123,Hamari Jung Ki Duniya,1997,Animation|Children's
+2130,Baazigar Dosti Ki Kahani,2012,Crime|Drama|Romance
+2133,Baazigar Sapna Ka Intezaar,1993,Adventure|Comedy
+2135,Jab Jung Ka Safar,2012,Adventure|Musical
+2137,Khiladi Zindagi Ke Rang,2017,Animation|Children's
+2138,Jab Mission Ka Raaz,1967,Animation|Children's|Drama|Fantasy
+2139,Jab Raat Ki Kahani,1957,Animation|Children's
+2140,Tum Dosti Ki Baatein,2022,Children's|Fantasy|Sci-Fi
+2141,Baazigar Andaz Ki Duniya,1935,Animation|Children's|Comedy
+2142,Jab Raja Ka Safar,1953,Animation|Children's|Comedy
+2143,Dil Jung Ka Intezaar,1955,Adventure|Fantasy|Romance
+2145,Chalte Andaz Ki Duniya,1939,Comedy|Drama|Romance
+2146,Chalte Zindagi Ka Raaz,1969,Drama|Romance
+2148,Baazigar Jung Ka Intezaar,2017,Comedy|Horror
+2149,Dil Zindagi Ki Baatein,1947,Comedy|Horror
+2159,Ek Raja Ki Duniya,1970,Crime|Horror
+2160,Chalte Mission Ki Duniya,1950,Horror|Thriller
+2161,Jab Zindagi Se Mulakaat,1930,Adventure|Children's|Fantasy
+2162,Prem Kahani Ka Safar,1979,Adventure|Children's|Fantasy
+2163,Ek Mission Ke Rang,1932,Comedy|Horror
+2173,Aashiq Raja Ka Raaz,1949,Adventure|Fantasy|Sci-Fi
+2174,Dil Kahani Ka Raaz,1968,Comedy|Fantasy
+2176,Tera Raat Ka Raaz,1997,Thriller
+2177,Prem Zindagi Ke Rang,1935,Comedy|Thriller
+2178,Prem Raat Ki Kahani,1967,Thriller
+2179,Tum Kahani Ka Raaz,1976,Thriller
+2180,Ek Raja Ki Duniya,1991,Thriller
+2181,Raj Mission Ki Baatein,1948,Thriller
+2182,Ek Dosti Ka Safar,1986,Drama|Film-Noir|Thriller
+2183,Baazigar Rishta Ki Duniya,1966,Thriller
+2184,Chalte Rishta Hai,1936,Mystery|Thriller
+2185,Tera Andaz Ke Rang,1951,Thriller
+2186,Hamari Sapna Ka Intezaar,1964,Film-Noir|Thriller
+2187,Shree Andaz Ki Kahani,2009,Mystery|Thriller
+2193,Shree Sapna Hai,1945,Action|Adventure|Fantasy
+2194,Tera Jung Se Mulakaat,1978,Action|Crime|Drama
+2202,Chalte Raat Ke Rang,1986,Drama|Thriller|War
+2203,Chalte Raja Ki Kahani,1974,Film-Noir|Thriller
+2204,Raj Kahani Ke Rang,1947,Thriller
+2206,Khiladi Pyaar Ki Baatein,1978,Mystery|Thriller
+2208,Prem Jung Ka Safar,1939,Comedy|Mystery|Romance|Thriller
+2209,Tum Sapna Hai,1930,Crime|Thriller
+2210,Tera Dosti Ke Rang,1944,Thriller
+2211,Khiladi Raat Ki Duniya,1987,Thriller
+2212,Jab Jung Ka Raaz,1954,Thriller
+2213,Chalte Sapna Ke Rang,1978,Comedy|Musical
+2214,Shree Zindagi Ki Baatein,1999,Thriller
+2215,Tum Raat Ki Baatein,1957,Comedy|Romance
+2217,Chalte Sapna Ki Kahani,1941,Comedy|Musical
+2219,Prem Dosti Ka Intezaar,1999,Mystery|Thriller
+2221,Aashiq Sapna Se Mulakaat,2005,Thriller
+2227,Chalte Dosti Ke Rang,1965,Thriller
+2238,Hamari Kahani Ke Rang,1995,Comedy|Drama
+2239,Raj Raat Ka Intezaar,1988,Comedy|Drama
+2243,Hamari Sapna Ki Baatein,1991,Comedy|Drama|Romance
+2244,Hamari Manzil Ka Raaz,1931,Comedy|Romance
+2245,Shree Andaz Ka Raaz,1944,Comedy|Drama
+2248,Baazigar Pyaar Ka Raaz,1963,Comedy|Drama|Romance
+2256,Jab Raat Ka Raaz,1960,Horror|Sci-Fi
+2257,Aashiq Raja Ki Baatein,1949,Comedy|Romance
+2258,Prem Dosti Ke Rang,1996,Action
+2259,Jab Pyaar Ka Raaz,1982,Comedy|Romance
+2260,Shree Manzil Ki Baatein,1990,Action|Crime
+2262,Hamari Rishta Se Mulakaat,1935,Comedy|Drama|Romance
+2263,Aashiq Sapna Ka Safar,2002,Thriller
+2265,Raj Jung Ka Intezaar,1985,Adventure|Comedy
+2266,Dil Mission Ke Rang,2000,Comedy|Romance
+2267,Tum Dosti Ki Kahani,1974,Mystery|Thriller
+2287,Khiladi Kahani Hai,1971,Sci-Fi|Thriller|War
+2288,Chalte Jung Ki Kahani,2002,Action|Horror|Sci-Fi|Thriller
+2290,Dil Raja Se Mulakaat,1963,Comedy|Drama
+2291,Khiladi Pyaar Ki Kahani,1987,Drama|Romance
+2300,Khiladi Zindagi Ka Safar,1953,Comedy|Musical
+2303,Baazigar Raat Ki Kahani,1964,Drama|Musical
+2308,Ek Sapna Ka Safar,1934,Action|Crime
+2311,Shree Sapna Hai,1993,Mystery|Sci-Fi
+2344,Hamari Zindagi Ki Baatein,1956,Action|Adventure|Drama|Thriller
+2346,Khiladi Kahani Ka Raaz,1965,Sci-Fi|Thriller
+2347,Baazigar Dosti Ki Kahani,1973,Action
+2349,Aashiq Kahani Ki Duniya,1987,Comedy|Thriller
+2352,Chalte Jung Ka Raaz,1933,Comedy|Drama
+2363,Shree Zindagi Ki Duniya,1933,Action|Sci-Fi
+2364,Jab Andaz Ka Safar,1935,Action|Sci-Fi
+2365,Aashiq Raja Ka Safar,1973,Action|Sci-Fi
+2366,Tera Mission Hai,2022,Action|Adventure|Horror
+2367,Aashiq Manzil Ki Baatein,1956,Action|Adventure|Horror
+2368,Jab Zindagi Se Mulakaat,1977,Action|Adventure|Horror
+2369,Shree Zindagi Se Mulakaat,1990,Comedy|Romance
+2370,Ek Zindagi Se Mulakaat,2007,Action|Adventure|Drama
+2373,Prem Raja Ka Safar,2001,Action|Adventure
+2374,Chalte Pyaar Ki Baatein,1981,Comedy|Drama
+2376,Prem Kahani Ki Duniya,1964,Action
+2377,Shree Kahani Ka Intezaar,1951,Horror|Sci-Fi
+2399,Hamari Manzil Ki Baatein,1983,Adventure|Children's|Fantasy
+2400,Jab Jung Ki Kahani,1988,Children's|Drama
+2401,Prem Raja Se Mulakaat,2024,Western
+2402,Ek Mission Ki Duniya,1997,Action|War
+2403,Hamari Rishta Ka Raaz,1974,Action
+2404,Jab Mission Ki Kahani,1973,Action|War
+2405,Aashiq Jung Ka Safar,1987,Action|Adventure|Comedy|Romance
+2406,Prem Andaz Ka Intezaar,1980,Action|Adventure|Comedy|Romance
+2407,Tera Andaz Ka Raaz,2021,Comedy|Sci-Fi
+2408,Dil Pyaar Se Mulakaat,2007,Comedy|Sci-Fi
+2409,Khiladi Mission Ke Rang,2020,Action|Drama
+2410,Chalte Kahani Se Mulakaat,1953,Action|Drama
+2411,Hamari Zindagi Ka Safar,1978,Action|Drama
+2412,Khiladi Pyaar Ka Safar,1989,Action|Drama
+2413,Dil Raat Ki Kahani,1945,Comedy|Mystery
+2414,Aashiq Pyaar Ka Intezaar,1979,Action|Adventure|Mystery
+2415,Baazigar Mission Hai,2004,Drama|Romance
+2417,Jab Andaz Hai,1939,Comedy|Drama
+2419,Baazigar Zindagi Ka Raaz,1935,Drama|Thriller
+2421,Prem Rishta Ka Raaz,1984,Action|Adventure|Drama
+2422,Tum Dosti Ka Intezaar,1996,Action|Adventure|Drama
+2430,Tum Raat Hai,1942,Adventure|Children's|Drama
+2449,Jab Raat Ke Rang,1994,Adventure|Children's
+2450,Tera Zindagi Ki Baatein,2024,Adventure|Children's|Sci-Fi
+2453,Tum Rishta Se Mulakaat,2003,Drama|Fantasy
+2454,Shree Andaz Se Mulakaat,1932,Horror|Sci-Fi
+2455,Hamari Sapna Ki Duniya,1970,Horror|Sci-Fi
+2456,Ek Zindagi Ki Duniya,1938,Horror|Sci-Fi
+2457,Baazigar Pyaar Ka Safar,1987,Action|Comedy
+2458,Aashiq Raja Ka Raaz,1979,Comedy|Crime
+2467,Chalte Pyaar Ke Rang,2000,Mystery
+2468,Shree Kahani Ki Kahani,1979,Action|Comedy|Romance|Thriller
+2469,Tum Sapna Ka Safar,1995,Comedy|Romance
+2470,Jab Dosti Ka Raaz,1977,Adventure|Comedy
+2471,Jab Pyaar Se Mulakaat,2023,Adventure|Comedy
+2475,Khiladi Jung Ke Rang,1956,Action|Mystery|Thriller
+2476,Baazigar Kahani Ka Safar,2006,Action|War
+2477,Aashiq Jung Ka Intezaar,1977,Adventure
+2478,Raj Andaz Se Mulakaat,1974,Comedy|Western
+2488,Tum Manzil Ka Intezaar,1946,Drama|Horror|Thriller
+2495,Tum Dosti Se Mulakaat,2019,Animation|Sci-Fi
+2511,Tum Rishta Se Mulakaat,1947,Crime
+2523,Baazigar Zindagi Ki Duniya,2001,Drama|Thriller
+2524,Dil Raja Ka Raaz,1963,Action|Drama
+2525,Ek Rishta Se Mulakaat,1963,Action|Horror|Sci-Fi
+2526,Ek Andaz Ka Safar,1933,Sci-Fi
+2527,Baazigar Jung Ka Intezaar,1952,Action|Sci-Fi|Thriller|Western
+2528,Ek Andaz Hai,2008,Action|Adventure|Sci-Fi
+2529,Ek Raat Ka Raaz,1973,Action|Sci-Fi
+2530,Raj Andaz Ki Duniya,1961,Action|Sci-Fi
+2531,Dil Sapna Ka Safar,1943,Action|Sci-Fi
+2532,Baazigar Kahani Ki Duniya,1956,Action|Sci-Fi
+2533,Tum Raja Ki Kahani,1980,Action|Sci-Fi
+2534,Dil Raat Ke Rang,1947,Action
+2535,Jab Raja Ki Duniya,2005,Action
+2537,Aashiq Jung Ka Raaz,1939,Adventure
+2550,Ek Mission Ki Baatein,1968,Horror|Thriller
+2551,Aashiq Rishta Ki Duniya,1939,Drama|Thriller
+2553,Ek Dosti Ki Kahani,1994,Horror|Sci-Fi|Thriller
+2554,Chalte Raat Ka Safar,1995,Horror|Sci-Fi|Thriller
+2565,Baazigar Zindagi Ki Duniya,1988,Musical
+2602,Hamari Raat Ke Rang,1976,Adventure|Sci-Fi
+2613,Hamari Kahani Ka Raaz,2019,Action|Horror|Sci-Fi
+2614,Aashiq Dosti Se Mulakaat,1981,Action|Horror|Sci-Fi
+2615,Tum Zindagi Se Mulakaat,1955,Adventure|Sci-Fi
+2616,Prem Pyaar Ka Safar,1976,Action|Crime
+2633,Tum Dosti Ki Baatein,1960,Horror|Romance
+2640,Aashiq Raat Ki Baatein,2001,Action|Adventure|Sci-Fi
+2641,Chalte Sapna Ka Raaz,1932,Action|Adventure|Sci-Fi
+2642,Baazigar Pyaar Ki Baatein,2011,Action|Adventure|Sci-Fi
+2643,Baazigar Andaz Ka Safar,1991,Action|Adventure|Sci-Fi
+2656,Tum Kahani Hai,1947,Horror|Sci-Fi
+2657,Jab Zindagi Se Mulakaat,2009,Comedy|Horror|Musical|Sci-Fi
+2658,Tera Sapna Ki Baatein,1977,Sci-Fi
+2659,Chalte Pyaar Ka Safar,2016,Comedy|Documentary
+2660,Tera Mission Ka Intezaar,2025,Sci-Fi
+2661,Ek Pyaar Se Mulakaat,2000,Sci-Fi
+2662,Aashiq Rishta Ke Rang,2023,Action|Sci-Fi|War
+2663,Hamari Zindagi Ki Duniya,1980,Sci-Fi
+2664,Hamari Jung Ka Raaz,1949,Horror|Sci-Fi
+2665,Aashiq Manzil Ka Safar,1953,Sci-Fi
+2666,Tum Pyaar Ke Rang,2021,Sci-Fi
+2667,Tera Dosti Ki Duniya,2014,Sci-Fi
+2668,Tum Manzil Ke Rang,2000,Horror|Sci-Fi
+2669,Khiladi Raat Se Mulakaat,1935,War
+2670,Chalte Andaz Ki Baatein,1988,War
+2699,Tum Raat Se Mulakaat,1985,Action|Comedy|Sci-Fi|Thriller
+2704,Raj Dosti Ke Rang,1968,Drama|Romance
+2716,Dil Pyaar Ka Safar,2016,Comedy|Horror
+2717,Jab Pyaar Ka Safar,1960,Comedy|Horror
+2726,Hamari Jung Ka Safar,2020,Crime|Film-Noir
+2727,Ek Zindagi Hai,1998,Film-Noir
+2733,Jab Pyaar Ka Safar,1998,Adventure|Comedy
+2735,Hamari Sapna Ke Rang,1955,Action|Adventure|Comedy
+2737,Jab Zindagi Ka Safar,1960,Action
+2738,Dil Zindagi Ki Baatein,1958,Comedy|Drama
+2741,Aashiq Rishta Ka Safar,2013,Action|Thriller
+2742,Tera Raat Ki Baatein,1967,Comedy|Drama
+2746,Dil Zindagi Se Mulakaat,1993,Comedy|Horror|Musical
+2747,Dil Raat Ki Baatein,1980,Comedy|Horror
+2748,Jab Mission Se Mulakaat,1971,Action|Adventure
+2749,Prem Andaz Ki Duniya,2000,Drama|Mystery
+2750,Prem Andaz Ka Raaz,1943,Comedy|Drama
+2752,Khiladi Mission Ka Safar,1960,Comedy|Mystery
+2753,Khiladi Kahani Ki Kahani,1975,Thriller
+2756,Chalte Jung Ka Raaz,1978,Action
+2764,Prem Manzil Ki Kahani,1950,Crime|Drama|Thriller
+2780,Hamari Manzil Ka Safar,1994,Comedy|Horror
+2797,Chalte Sapna Ka Raaz,1937,Comedy|Fantasy
+2802,Hamari Zindagi Ki Baatein,2000,Action|Romance|Thriller
+2804,Hamari Pyaar Ki Baatein,1965,Comedy|Drama
+2815,Baazigar Mission Ka Intezaar,1988,Action|War
+2816,Raj Sapna Ka Safar,1977,Action|War
+2819,Dil Raat Ki Duniya,1995,Thriller
+2821,Khiladi Pyaar Ke Rang,1996,Adventure|Drama
+2823,Prem Andaz Ka Raaz,1997,Action|Drama
+2846,Jab Raat Ki Baatein,1962,Children's
+2849,Tera Sapna Ka Safar,1999,Comedy|Drama
+2851,Tum Rishta Hai,2002,Adventure|Sci-Fi|Thriller
+2856,Aashiq Jung Ke Rang,1957,Thriller
+2857,Tum Jung Ki Duniya,2009,Animation|Musical
+2859,Jab Andaz Hai,1943,Documentary
+2863,Tera Mission Ki Kahani,1943,Comedy|Musical
+2867,Khiladi Kahani Ke Rang,1970,Comedy|Horror
+2871,Jab Manzil Ka Safar,1996,Adventure|Thriller
+2872,Prem Jung Ke Rang,1969,Action|Drama|Fantasy|Romance
+2877,Tera Pyaar Se Mulakaat,1997,Drama|Musical
+2879,Ek Jung Ke Rang,1982,Action|Adventure|Comedy
+2880,Prem Rishta Hai,1964,Action|Adventure|Comedy
+2895,Dil Manzil Ka Intezaar,2022,Adventure
+2896,Tum Zindagi Ki Kahani,1980,Western
+2897,Ek Jung Ki Duniya,1964,Comedy|War
+2899,Hamari Jung Ke Rang,2019,Adventure|Animation|Children's
+2900,Tera Manzil Ka Safar,1983,Horror|Sci-Fi
+2901,Chalte Zindagi Ka Raaz,1994,Horror|Sci-Fi
+2902,Aashiq Pyaar Ka Intezaar,1971,Horror|Thriller
+2903,Baazigar Kahani Ki Baatein,1941,Horror|Thriller
+2905,Tera Mission Ka Raaz,2021,Action|Adventure
+2916,Ek Rishta Ka Raaz,2004,Action|Adventure|Sci-Fi|Thriller
+2917,Baazigar Manzil Ki Kahani,2011,Crime|Thriller
+2919,Jab Raja Hai,1994,Drama|Romance
+2920,Prem Dosti Ka Intezaar,1998,Drama|Romance
+2921,Jab Sapna Ki Baatein,2011,Western
+2922,Khiladi Raja Se Mulakaat,2024,Western
+2924,Jab Raja Se Mulakaat,2011,Action|Comedy
+2926,Prem Sapna Ka Safar,1969,Comedy|Drama
+2927,Khiladi Sapna Ka Raaz,2011,Drama|Romance
+2934,Jab Zindagi Ki Baatein,1988,Musical
+2935,Jab Raja Ka Safar,1963,Comedy|Romance
+2939,Khiladi Mission Ki Duniya,1991,Drama|Thriller
+2940,Tera Pyaar Hai,2010,Film-Noir
+2941,Aashiq Raat Ka Safar,1999,Musical|Romance|War
+2942,Ek Manzil Se Mulakaat,1956,Drama|Romance
+2944,Shree Rishta Ka Raaz,2003,Action|War
+2945,Tum Kahani Ki Baatein,1998,Mystery
+2946,Tum Andaz Hai,1997,Comedy|Musical
+2947,Chalte Kahani Hai,1987,Action
+2948,Aashiq Kahani Ka Intezaar,2006,Action
+2949,Khiladi Zindagi Ke Rang,2021,Action
+2950,Baazigar Raja Ka Safar,1934,Adventure|Drama|Romance
+2951,Khiladi Rishta Ki Baatein,2018,Action|Western
+2956,Ek Zindagi Ki Kahani,1995,Action|Crime|Thriller
+2967,Tera Raat Ka Intezaar,1960,Drama|Thriller
+2968,Raj Andaz Ki Duniya,1946,Adventure|Fantasy|Sci-Fi
+2969,Jab Manzil Ke Rang,2012,Drama|Romance
+2970,Baazigar Rishta Ki Kahani,2004,Adventure|Drama
+2971,Khiladi Sapna Se Mulakaat,1943,Musical
+2972,Ek Zindagi Ka Raaz,2012,Drama|War
+2981,Dil Raat Hai,2021,Documentary
+2982,Khiladi Rishta Ki Kahani,1935,Horror|Thriller
+2983,Jab Pyaar Ki Kahani,1947,Thriller
+2984,Tum Pyaar Ka Safar,2013,Documentary
+2985,Tum Pyaar Ki Kahani,1986,Action|Crime|Sci-Fi
+2986,Shree Zindagi Ki Duniya,2018,Action|Crime|Sci-Fi
+2987,Tum Kahani Ka Raaz,1952,Adventure|Animation|Film-Noir
+2989,Aashiq Manzil Ki Duniya,1945,Action
+2990,Tum Raat Ki Baatein,2004,Action
+2991,Baazigar Jung Ka Raaz,1995,Action
+2992,Hamari Dosti Ki Kahani,2025,Horror|Thriller
+2993,Aashiq Pyaar Se Mulakaat,2004,Action
+3013,Hamari Manzil Hai,1985,Comedy|Horror
+3015,Raj Sapna Hai,1949,Thriller
+3019,Dil Manzil Ke Rang,1954,Crime|Drama
+3023,Baazigar Manzil Ke Rang,1958,Comedy|Romance
+3024,Chalte Jung Ke Rang,2001,Horror|Sci-Fi
+3025,Chalte Zindagi Ke Rang,1938,Western
+3029,Tum Andaz Ke Rang,1989,Action|Drama
+3030,Shree Dosti Ka Safar,1943,Comedy|Drama|Western
+3032,Aashiq Pyaar Ke Rang,1987,Sci-Fi
+3033,Shree Jung Ki Baatein,2014,Comedy|Sci-Fi
+3034,Raj Andaz Ka Raaz,1957,Animation|Children's
+3035,Shree Andaz Ke Rang,2022,Comedy|Drama|War
+3036,Jab Raja Hai,1935,Adventure
+3037,Baazigar Mission Ki Baatein,1966,Comedy|Drama|Western
+3044,Tera Rishta Ke Rang,1959,Mystery|Romance|Thriller
+3049,Baazigar Kahani Ki Baatein,1982,Comedy|War
+3058,Aashiq Mission Ka Intezaar,2005,Horror|Sci-Fi
+3060,Shree Mission Ki Kahani,1971,Comedy|Drama
+3061,Chalte Sapna Ke Rang,1971,Comedy|Musical
+3062,Raj Kahani Ke Rang,1958,Action|Drama|War
+3066,Shree Rishta Ki Baatein,2006,War
+3067,Tera Raat Ka Raaz,1960,Comedy|Drama
+3070,Prem Mission Hai,1991,Adventure|Comedy|Sci-Fi
+3073,Baazigar Raja Se Mulakaat,2007,Drama|Romance
+3074,Tera Zindagi Ka Safar,1972,Western
+3075,Dil Manzil Ka Intezaar,1954,Thriller
+3091,Tera Zindagi Ka Safar,2021,Drama|War
+3093,Khiladi Andaz Se Mulakaat,1984,Drama|Western
+3094,Tera Pyaar Ke Rang,1931,Drama|Romance
+3097,Prem Manzil Ki Duniya,1977,Comedy|Romance
+3099,Ek Zindagi Ka Intezaar,1936,Comedy|Romance
+3101,Ek Zindagi Ka Intezaar,1986,Thriller
+3102,Khiladi Raja Hai,1962,Thriller
+3103,Hamari Raat Ki Kahani,1961,Drama|Romance
+3104,Chalte Dosti Hai,1934,Action|Adventure|Comedy|Crime
+3106,Khiladi Zindagi Ka Raaz,1980,Drama|Romance
+3107,Chalte Zindagi Ka Raaz,1942,Action|Drama
+3108,Raj Dosti Ka Raaz,1953,Comedy|Drama|Romance
+3121,Tera Sapna Ka Raaz,1934,Film-Noir
+3122,Tera Kahani Ki Duniya,2007,Drama|Romance|Western
+3134,Raj Pyaar Hai,1947,Drama|War
+3136,Prem Rishta Ki Duniya,1937,Documentary
+3137,Tum Andaz Ka Intezaar,2019,Action|War
+3139,Hamari Raat Hai,1930,Action|Adventure
+3142,Raj Raat Ki Baatein,2010,Documentary|Musical
+3143,Raj Sapna Ka Safar,2005,Drama|War
+3144,Tum Andaz Hai,1934,Comedy|Romance
+3151,Shree Dosti Se Mulakaat,1987,Crime|Drama|Mystery
+3153,Shree Sapna Ke Rang,1979,Action|Adventure|Fantasy
+3154,Chalte Dosti Ki Duniya,1934,Drama|War
+3166,Baazigar Manzil Ka Safar,1930,Adventure
+3168,Jab Raja Se Mulakaat,1990,Adventure|Drama
+3170,Tum Raja Ka Raaz,1956,Western
+3172,Tera Raat Se Mulakaat,1948,Adventure
+3196,Hamari Raat Ki Duniya,1960,Drama|War
+3197,Shree Sapna Ke Rang,1990,Action
+3199,Baazigar Manzil Ke Rang,1966,Comedy|Musical|Romance
+3200,Jab Dosti Ka Intezaar,2021,Comedy|Drama
+3203,Khiladi Kahani Ka Raaz,1949,Thriller
+3204,Khiladi Raat Ki Kahani,1996,Thriller
+3206,Dil Sapna Ki Kahani,2005,Romance
+3207,Ek Zindagi Ka Intezaar,1987,Adventure
+3219,Raj Pyaar Se Mulakaat,1995,Thriller
+3229,Tum Sapna Hai,1996,Crime|Drama
+3230,Chalte Rishta Ka Intezaar,1965,Thriller
+3236,Prem Rishta Ka Intezaar,1959,Western
+3244,Raj Zindagi Ki Duniya,2009,Comedy|Romance
+3251,Shree Manzil Ka Intezaar,1981,Drama|Mystery
+3283,Shree Dosti Ka Intezaar,1964,Action
+3284,Khiladi Pyaar Se Mulakaat,1932,Comedy|Romance
+3292,Khiladi Dosti Hai,2010,Film-Noir
+3297,Chalte Mission Ka Raaz,2012,Documentary
+3304,Aashiq Mission Ki Kahani,1996,Crime|Drama
+3305,Khiladi Dosti Ka Intezaar,1959,Film-Noir|Horror
+3307,Jab Zindagi Ke Rang,1943,Comedy|Drama|Romance
+3308,Chalte Jung Ka Intezaar,1990,Comedy|Drama
+3310,Jab Dosti Hai,2019,Action
+3311,Khiladi Pyaar Hai,1974,Western
+3314,Ek Jung Ka Intezaar,2015,Action|Drama
+3315,Prem Raat Ki Baatein,1955,Musical
+3332,Baazigar Jung Ka Raaz,1954,Adventure|Children's
+3334,Aashiq Pyaar Se Mulakaat,1983,Crime|Drama|Film-Noir|Thriller
+3335,Hamari Jung Ka Intezaar,1975,Crime|Drama
+3337,Tum Jung Ka Raaz,1943,Comedy|Drama
+3338,Baazigar Rishta Ki Baatein,2019,Documentary
+3339,Jab Mission Hai,1935,War
+3340,Tum Sapna Ka Intezaar,1989,Horror|Sci-Fi
+3342,Shree Rishta Ki Duniya,1997,Drama|War
+3343,Hamari Raja Ki Kahani,1970,Comedy|Drama|Romance
+3345,Aashiq Pyaar Ka Raaz,1952,Adventure|Children's
+3348,Aashiq Pyaar Ki Baatein,1951,Crime|Thriller
+3358,Baazigar Dosti Ka Safar,2011,Comedy|Romance
+3362,Aashiq Kahani Ka Raaz,1982,Comedy|Crime|Drama
+3363,Ek Jung Ka Intezaar,1940,Comedy|Drama
+3364,Khiladi Andaz Ka Safar,1958,Crime|Film-Noir
+3365,Chalte Jung Hai,1945,Western
+3366,Dil Andaz Ka Raaz,1933,Action|Adventure|War
+3367,Tum Pyaar Ka Intezaar,1943,War
+3368,Raj Manzil Ki Duniya,1976,Romance|Western
+3369,Hamari Raja Ka Raaz,1963,Crime
+3370,Dil Kahani Ki Baatein,1964,Drama|Thriller
+3372,Tera Dosti Ke Rang,1999,Action|War
+3373,Khiladi Zindagi Hai,1965,Western
+3375,Aashiq Raja Ki Kahani,1961,Sci-Fi
+3376,Jab Dosti Ka Raaz,2019,Romance
+3377,Chalte Kahani Ki Kahani,2000,Drama|War
+3380,Hamari Mission Ka Safar,2022,Film-Noir
+3383,Tum Raja Ki Kahani,2006,Drama|Musical
+3384,Ek Jung Hai,1978,Action
+3386,Jab Sapna Hai,1957,Drama|Mystery
+3389,Khiladi Rishta Ki Duniya,1984,Action|Adventure
+3390,Jab Manzil Ka Raaz,1949,Adventure
+3393,Dil Pyaar Ka Safar,2022,Comedy|Fantasy
+3394,Hamari Pyaar Ka Safar,2002,Comedy|Romance
+3396,Tera Dosti Ka Intezaar,2005,Children's|Comedy
+3397,Ek Rishta Ke Rang,2019,Children's|Comedy
+3398,Khiladi Sapna Se Mulakaat,2005,Children's|Comedy
+3399,Jab Pyaar Ki Kahani,2016,Children's|Comedy
+3401,Khiladi Raja Ki Baatein,1934,Adventure|Sci-Fi
+3403,Chalte Rishta Ki Kahani,1986,Drama|Thriller
+3404,Hamari Zindagi Ka Raaz,1970,Action|Drama
+3405,Ek Raja Ki Duniya,1933,Action|Drama
+3406,Hamari Andaz Ka Safar,2020,Action|Adventure|War
+3412,Ek Jung Ki Duniya,1942,Adventure
+3413,Baazigar Sapna Ka Safar,1987,Crime|Drama
+3414,Chalte Pyaar Ki Baatein,1931,Romance
+3417,Shree Zindagi Hai,1973,Adventure|Comedy|Sci-Fi
+3418,Dil Jung Ki Baatein,1944,Action|Drama
+3419,Raj Sapna Ka Safar,1969,Comedy|Crime
+3420,Hamari Zindagi Se Mulakaat,1961,Drama|Thriller
+3422,Chalte Mission Ka Raaz,1939,Comedy|Romance
+3424,Dil Dosti Hai,2002,Comedy|Drama
+3426,Shree Kahani Ki Baatein,1976,Drama|Romance
+3427,Ek Mission Ke Rang,2001,Crime
+3429,Khiladi Sapna Hai,2008,Animation|Comedy
+3430,Tum Pyaar Ka Raaz,1999,Action|Drama
+3431,Shree Dosti Ki Baatein,1944,Action|Drama
+3432,Khiladi Raja Ka Intezaar,1984,Action|Drama
+3433,Shree Kahani Se Mulakaat,1990,Action|Drama
+3435,Prem Mission Ka Safar,1944,Crime|Film-Noir
+3436,Chalte Sapna Ka Raaz,1993,Drama|Romance
+3438,Dil Kahani Ka Safar,1966,Action|Children's|Fantasy
+3439,Tera Jung Ka Intezaar,2014,Action|Children's|Fantasy
+3441,Prem Rishta Ki Baatein,1967,Action|War
+3442,Tum Manzil Se Mulakaat,1957,Action
+3443,Prem Kahani Ki Duniya,1973,Action|Drama|Thriller
+3444,Khiladi Manzil Ka Safar,1985,Action
+3445,Ek Rishta Hai,1946,Mystery|Thriller
+3448,Raj Jung Hai,1977,Comedy|Drama|War
+3451,Ek Dosti Ki Kahani,2008,Comedy|Drama
+3458,Raj Andaz Ka Intezaar,2020,Drama|Romance
+3459,Chalte Jung Ka Safar,2020,Drama|Horror
+3461,Shree Raja Ka Raaz,1979,Adventure|Drama|Thriller
+3467,Raj Mission Hai,2008,Drama|Western
+3470,Hamari Manzil Ka Safar,1954,Adventure|Drama
+3471,Chalte Mission Ki Baatein,1969,Drama|Sci-Fi
+3475,Jab Raat Ka Raaz,1939,Drama|Romance
+3476,Tera Zindagi Ka Intezaar,1984,Horror|Mystery|Thriller
+3479,Tera Raat Ka Raaz,1968,Adventure|Fantasy|Romance
+3486,Raj Raja Se Mulakaat,2011,Sci-Fi
+3487,Shree Dosti Ki Duniya,1966,Western
+3488,Raj Manzil Ki Kahani,1954,Horror|Sci-Fi
+3489,Ek Jung Se Mulakaat,1948,Adventure|Fantasy
+3492,Dil Manzil Ki Kahani,1935,Adventure
+3494,Dil Kahani Ka Raaz,1970,Adventure|Western
+3501,Dil Kahani Ka Safar,2003,Comedy|Romance
+3503,Aashiq Zindagi Ki Duniya,1976,Drama|Sci-Fi
+3504,Shree Jung Se Mulakaat,2024,Comedy|Drama
+3505,Tum Mission Hai,1994,Thriller
+3506,Chalte Pyaar Hai,2016,Comedy|Drama
+3508,Hamari Dosti Ki Baatein,1952,Western
+3516,Tum Jung Ka Intezaar,2001,Comedy|Romance
+3517,Tera Pyaar Ki Baatein,2010,Crime|Drama
+3519,Prem Kahani Ka Safar,1940,Action|War
+3521,Tera Manzil Ka Intezaar,2013,Comedy|Crime|Drama
+3523,Jab Pyaar Se Mulakaat,1942,Action|Thriller
+3524,Ek Manzil Ka Raaz,1933,Comedy|Romance
+3526,Hamari Andaz Ki Kahani,1946,Comedy|Drama
+3527,Khiladi Mission Se Mulakaat,1974,Action|Sci-Fi|Thriller
+3528,Dil Pyaar Ki Baatein,1980,Drama|Romance
+3529,Prem Andaz Ka Safar,1949,Crime|Thriller
+3531,Tera Rishta Ka Intezaar,1991,Comedy|Drama|Romance
+3543,Jab Mission Ka Intezaar,1983,Comedy|Drama
+3545,Tera Pyaar Ka Intezaar,1940,Musical|War
+3546,Raj Jung Ki Baatein,2021,Drama|Thriller
+3548,Hamari Kahani Ki Baatein,1970,Comedy|Drama
+3549,Dil Rishta Ke Rang,1993,Musical
+3551,Raj Mission Ki Kahani,2023,Thriller
+3576,Dil Sapna Ki Kahani,1997,Action|Horror|Sci-Fi
+3584,Tera Jung Hai,2009,Action|Drama|Romance|Thriller
+3585,Aashiq Dosti Ka Intezaar,1964,Adventure|War
+3588,Aashiq Raat Ka Intezaar,2004,Crime|Drama
+3591,Ek Zindagi Ki Kahani,1947,Comedy|Drama
+3592,Hamari Zindagi Hai,2017,Animation|Sci-Fi
+3599,Hamari Andaz Ka Safar,1955,Comedy|Musical
+3600,Prem Dosti Ka Safar,1992,Comedy|Musical
+3601,Prem Dosti Ki Kahani,1974,Comedy|Western
+3602,Dil Jung Ke Rang,1966,Musical
+3604,Ek Raat Ka Safar,1951,Musical
+3605,Ek Jung Ki Baatein,1944,Drama|Musical
+3606,Prem Raat Se Mulakaat,2018,Musical
+3607,Ek Dosti Ki Duniya,2001,Comedy|Drama|Western
+3610,Dil Kahani Ka Intezaar,2013,Musical
+3611,Raj Dosti Se Mulakaat,2007,Animation|Children's|Comedy
+3612,Ek Pyaar Ke Rang,1983,Adventure|Musical|Romance
+3621,Hamari Pyaar Ka Intezaar,1980,Drama|Horror
+3627,Tera Zindagi Ki Duniya,1952,Horror|Thriller
+3628,Ek Andaz Ka Safar,1983,Action|Drama|War
+3633,Tum Pyaar Ki Kahani,1987,Action
+3634,Tum Zindagi Se Mulakaat,1964,Thriller
+3635,Chalte Sapna Ka Raaz,1943,Action
+3638,Prem Raja Ki Duniya,1967,Action|Romance|Sci-Fi
+3639,Baazigar Rishta Ke Rang,1942,Action
+3640,Aashiq Pyaar Ke Rang,1962,Comedy|Drama
+3642,Ek Kahani Ki Baatein,1942,Western
+3643,Jab Manzil Se Mulakaat,1953,Action|Drama|War
+3644,Hamari Raat Se Mulakaat,1965,Western
+3648,Tera Mission Ka Safar,1932,Horror|Sci-Fi
+3653,Ek Jung Hai,2003,Documentary
+3654,Hamari Andaz Ka Safar,2022,Action|Drama|War
+3656,Shree Andaz Ke Rang,1931,Crime
+3658,Aashiq Rishta Se Mulakaat,1984,Sci-Fi
+3659,Ek Kahani Ke Rang,1981,Sci-Fi|Thriller
+3660,Ek Jung Ki Kahani,1974,Horror|Sci-Fi|Thriller
+3661,Tum Zindagi Ki Kahani,1986,Horror|Sci-Fi|Thriller
+3662,Khiladi Pyaar Ka Raaz,1972,Horror|Sci-Fi|Thriller
+3667,Chalte Zindagi Se Mulakaat,1938,Action|Comedy
+3668,Raj Dosti Hai,2010,Drama|Romance
+3670,Jab Pyaar Ka Raaz,1946,War
+3671,Jab Dosti Hai,2012,Comedy|Western
+3672,Prem Raat Ki Baatein,2008,Adventure|Children's
+3673,Baazigar Pyaar Ka Intezaar,2005,Adventure|Children's
+3674,Prem Sapna Se Mulakaat,1934,Adventure|Children's
+3675,Chalte Raat Ka Safar,1964,Musical
+3676,Chalte Raja Ki Kahani,1947,Drama|Horror
+3679,Tera Mission Ke Rang,2025,Documentary
+3680,Ek Manzil Ki Duniya,1949,Documentary
+3681,Tera Pyaar Hai,1980,Western
+3682,Chalte Manzil Hai,2009,Western
+3683,Baazigar Jung Ki Baatein,1986,Drama|Film-Noir
+3684,Tum Jung Ki Duniya,1970,Drama|Romance
+3685,Raj Raat Ka Intezaar,1985,Comedy|Drama|Romance
+3686,Aashiq Mission Ki Baatein,1954,Thriller
+3687,Aashiq Rishta Hai,1982,Sci-Fi
+3692,Chalte Dosti Hai,1956,Comedy|Horror
+3693,Prem Dosti Hai,1940,Comedy|Horror
+3694,Shree Pyaar Se Mulakaat,2009,Comedy|Horror
+3695,Aashiq Raat Se Mulakaat,2004,Comedy|Horror
+3696,Prem Raja Ki Duniya,2013,Comedy|Horror|Sci-Fi
+3697,Aashiq Rishta Ka Safar,1956,Action|Sci-Fi|Thriller
+3698,Hamari Mission Ka Intezaar,1992,Action|Adventure|Sci-Fi
+3699,Shree Zindagi Hai,2016,Adventure|Drama|Romance|Sci-Fi
+3700,Chalte Sapna Ki Kahani,2004,Drama|Sci-Fi
+3701,Khiladi Raat Ka Intezaar,1945,Crime|Drama|Sci-Fi
+3702,Prem Raat Se Mulakaat,1987,Action|Sci-Fi
+3703,Jab Manzil Se Mulakaat,1940,Action|Sci-Fi
+3704,Aashiq Pyaar Se Mulakaat,1942,Action|Sci-Fi
+3705,Tera Sapna Ka Raaz,1986,Action|Adventure|Romance|Thriller
+3706,Shree Rishta Se Mulakaat,1970,Film-Noir|Mystery|Thriller
+3708,Jab Manzil Ka Safar,2011,Horror|Thriller
+3710,Chalte Rishta Ki Duniya,1984,Action|Comedy
+3716,Prem Zindagi Ki Duniya,1942,Action|Crime
+3724,Prem Rishta Ki Baatein,1973,Drama|War
+3725,Ek Andaz Ki Duniya,1947,Animation|Musical
+3726,Aashiq Dosti Hai,1970,Action|Thriller
+3727,Baazigar Manzil Se Mulakaat,1956,Comedy|Horror
+3728,Jab Manzil Ki Baatein,1965,Thriller
+3729,Raj Sapna Ke Rang,1995,Action|Crime
+3730,Jab Jung Se Mulakaat,2011,Drama|Mystery
+3731,Baazigar Sapna Ki Kahani,2023,Drama|Thriller
+3735,Chalte Dosti Ki Baatein,1939,Crime|Drama
+3737,Tera Dosti Ki Kahani,1940,Drama|Western
+3739,Jab Pyaar Ki Duniya,1997,Comedy|Romance
+3740,Shree Manzil Hai,1965,Action|Comedy
+3741,Chalte Andaz Ki Baatein,1940,Crime|Drama
+3742,Ek Raja Ke Rang,1977,Drama|War
+3758,Tera Jung Ke Rang,2010,Drama|Sci-Fi|Thriller
+3759,Tum Sapna Ki Duniya,1935,Animation|Children's|Musical
+3763,Tum Rishta Se Mulakaat,1964,Action|Crime|Thriller
+3765,Prem Andaz Ki Baatein,1952,Drama|Romance
+3766,Dil Pyaar Ka Raaz,1999,Action|War
+3767,Jab Andaz Se Mulakaat,2015,Action|War
+3768,Raj Raat Se Mulakaat,1970,Action|War
+3769,Tera Raja Hai,1978,Action
+3770,Dil Kahani Ka Raaz,1930,Adventure|Crime|Sci-Fi|Thriller
+3771,Baazigar Manzil Ka Intezaar,1970,Action|Adventure
+3775,Jab Raja Ka Safar,1949,Animation|Children's|Musical
+3776,Prem Kahani Ki Kahani,1955,Animation|Children's|Musical
+3777,Chalte Dosti Ki Duniya,1964,Comedy|Horror
+3778,Shree Manzil Ka Raaz,1955,Comedy|Drama
+3779,Aashiq Raat Ki Baatein,1995,Sci-Fi
+3780,Prem Raat Ki Duniya,1974,Sci-Fi
+3781,Dil Raja Se Mulakaat,2013,Action|Crime
+3782,Shree Jung Ki Baatein,1954,Action|Crime
+3788,Chalte Andaz Ki Kahani,1942,Drama|Mystery
+3792,Chalte Sapna Ka Safar,1956,Western
+3801,Raj Manzil Hai,2013,Drama|Mystery
+3805,Raj Jung Ki Duniya,1979,Action|Adventure|Drama
+3806,Aashiq Sapna Ki Duniya,1930,Western
+3807,Jab Manzil Ka Safar,1983,Action|Adventure
+3808,Jab Andaz Ka Safar,1931,Drama|War
+3811,Tum Mission Hai,1971,Drama|War
+3818,Prem Dosti Ki Baatein,1990,Comedy|Musical
+3833,Tum Sapna Ka Safar,1971,Horror|Sci-Fi
+3834,Chalte Andaz Ka Safar,2009,Adventure|Drama|Romance
+3836,Baazigar Andaz Ki Baatein,1935,Action|Comedy|War
+3841,Tera Andaz Ke Rang,2020,Action|Comedy
+3849,Dil Manzil Ki Duniya,1958,Thriller
+3850,Prem Rishta Se Mulakaat,1944,Crime|Thriller
+3871,Khiladi Zindagi Ka Raaz,2005,Drama|Western
+3873,Baazigar Rishta Se Mulakaat,2019,Comedy|Western
+3877,Ek Pyaar Ki Duniya,1988,Action|Adventure|Fantasy
+3878,Chalte Pyaar Ka Safar,1960,Sci-Fi
+3923,Ek Raja Ke Rang,1960,Horror|Sci-Fi
+3926,Baazigar Raja Hai,1947,Adventure|Sci-Fi
+3927,Raj Raat Ki Baatein,2017,Adventure|Sci-Fi
+3928,Hamari Zindagi Ke Rang,2002,Comedy|Horror
+3931,Baazigar Manzil Ka Intezaar,2021,Horror|Sci-Fi
+3932,Raj Pyaar Ke Rang,2002,Horror|Sci-Fi
+3933,Ek Raat Ki Baatein,2003,Horror|Sci-Fi
+3934,Prem Pyaar Ka Safar,1980,Sci-Fi
+3936,Baazigar Jung Ki Baatein,1938,Drama|Thriller
+3937,Jab Manzil Ka Raaz,1964,Sci-Fi|Thriller
+3947,Prem Mission Ka Intezaar,1967,Thriller
+122,Jab Mission Ki Baatein,1954,Comedy|Romance
+265,Ek Mission Hai,1946,Drama|Romance
+373,Tum Mission Ka Safar,1955,Thriller
+522,Tum Kahani Se Mulakaat,1933,Action|Drama
+588,Tera Jung Ka Raaz,2020,Animation|Children's|Comedy|Musical
+752,Jab Kahani Ke Rang,1989,Comedy|Romance
+861,Hamari Raat Ka Safar,2017,Action|Thriller
+1037,Aashiq Andaz Se Mulakaat,1999,Action|Sci-Fi|Thriller
+1089,Aashiq Kahani Ki Baatein,1998,Crime|Thriller
+1092,Baazigar Mission Ki Baatein,1985,Mystery|Thriller
+1094,Aashiq Rishta Ka Intezaar,2003,Drama|Romance|War
+1188,Jab Jung Hai,1973,Comedy|Romance
+1223,Aashiq Zindagi Se Mulakaat,2003,Animation|Comedy
+1241,Chalte Rishta Ki Duniya,1946,Comedy|Horror
+1266,Dil Raja Ka Intezaar,1982,Western
+1320,Khiladi Mission Hai,1947,Action|Horror|Sci-Fi|Thriller
+1339,Tum Sapna Ka Safar,1971,Horror|Romance
+1377,Baazigar Kahani Ki Duniya,1983,Action|Adventure|Comedy|Crime
+1385,Dil Pyaar Ke Rang,1964,Action
+1396,Ek Raja Ke Rang,1944,Crime|Drama|Sci-Fi
+1408,Chalte Andaz Ka Raaz,1944,Action|Romance|War
+1570,Khiladi Rishta Se Mulakaat,2014,Sci-Fi
+2002,Prem Jung Se Mulakaat,2009,Action|Comedy|Crime|Drama
+2053,Shree Jung Hai,2024,Children's|Comedy|Sci-Fi
+2082,Khiladi Rishta Se Mulakaat,1958,Children's|Comedy
+2083,Prem Sapna Ka Raaz,1935,Children's|Musical
+2084,Shree Sapna Ka Raaz,2021,Children's|Musical
+2252,Prem Jung Ka Intezaar,2015,Comedy|Drama
+2253,Shree Dosti Ke Rang,1965,Action|Comedy|Fantasy
+2268,Ek Manzil Ki Kahani,1977,Crime|Drama
+2289,Chalte Zindagi Hai,1944,Comedy|Drama
+2582,Baazigar Raat Ke Rang,1999,Action|Comedy
+2800,Shree Pyaar Ki Kahani,1956,Animation|Children's
+2808,Shree Pyaar Ki Kahani,2010,Action|Sci-Fi
+2817,Ek Dosti Ki Kahani,2019,Action|War
+2822,Tera Raja Hai,1986,Adventure|Romance
+2943,Tum Andaz Ki Kahani,1989,Drama|Romance
+2953,Chalte Andaz Ka Safar,1975,Children's|Comedy
+3045,Tum Raat Ka Safar,1976,Comedy|Drama
+3063,Aashiq Raja Ka Intezaar,1943,Thriller
+3247,Baazigar Raat Ki Duniya,1933,Comedy|Crime
+3249,Hamari Kahani Ka Safar,1947,Thriller
+3255,Khiladi Dosti Ka Safar,1931,Comedy|Drama
+3256,Raj Rishta Ka Raaz,1966,Action|Thriller
+3257,Ek Raja Ka Safar,1953,Action|Drama|Romance|Thriller
+3259,Jab Manzil Ka Safar,1991,Drama|Romance
+3261,Khiladi Sapna Ki Baatein,1946,Comedy|Drama|Romance
+3262,Hamari Manzil Ki Duniya,1976,Drama|Mystery
+3264,Aashiq Zindagi Ka Raaz,1935,Comedy|Horror
+3265,Shree Rishta Ka Raaz,1970,Action|Crime
+3266,Chalte Manzil Se Mulakaat,1931,Action|Comedy|Crime|Drama
+3267,Shree Jung Ka Intezaar,1958,Action|Thriller
+3268,Baazigar Rishta Ka Raaz,1966,Action|Comedy
+3269,Aashiq Pyaar Ki Duniya,2022,Adventure|Romance|Sci-Fi
+3272,Tum Pyaar Ka Intezaar,2009,Crime|Drama
+3274,Jab Rishta Hai,1988,Action
+3495,Chalte Manzil Hai,2003,Comedy|Drama
+3500,Aashiq Kahani Ki Kahani,1964,Comedy|Drama
+3557,Raj Andaz Ki Duniya,1958,Thriller
+3614,Jab Rishta Ka Intezaar,1998,Comedy|Romance
+3677,Tum Sapna Hai,1984,Documentary
+3764,Aashiq Dosti Ki Kahani,1932,Action|Crime|Thriller
+3802,Baazigar Jung Ki Kahani,1938,Action|Sci-Fi
+3810,Aashiq Sapna Ki Duniya,1948,Drama|Thriller
+285,Aashiq Sapna Ka Safar,1930,Drama|Horror
+320,Jab Kahani Ka Intezaar,1952,Film-Noir|Thriller
+346,Chalte Sapna Ke Rang,1943,Drama|Musical
+363,Chalte Pyaar Ki Duniya,1935,Documentary
+392,Ek Andaz Ke Rang,1998,Adventure|Children's
+415,Baazigar Raat Hai,1980,Comedy|Thriller
+426,Chalte Kahani Ki Duniya,1952,Horror|Sci-Fi|Thriller
+427,Raj Zindagi Ka Intezaar,1985,Mystery|Romance|Thriller
+431,Jab Kahani Ki Duniya,1998,Crime|Drama
+434,Shree Sapna Ka Safar,1982,Action|Adventure|Crime
+435,Tera Zindagi Se Mulakaat,1956,Comedy|Sci-Fi
+440,Hamari Manzil Ka Raaz,2002,Comedy|Romance
+442,Raj Raja Se Mulakaat,1972,Action|Sci-Fi
+444,Prem Raja Hai,1958,Comedy|Romance
+446,Shree Zindagi Ka Safar,1955,Drama|Romance
+451,Tum Raja Hai,1954,Drama|Mystery|Romance
+454,Shree Pyaar Ki Duniya,1930,Drama|Thriller
+455,Hamari Raja Ka Intezaar,1977,Adventure|Children's|Drama
+457,Baazigar Sapna Ka Raaz,2023,Action|Thriller
+458,Tum Zindagi Ki Duniya,1958,Drama|Western
+463,Tum Raat Ki Kahani,1971,Crime|Drama|Thriller
+464,Chalte Pyaar Ka Safar,1939,Action|Adventure|Crime|Thriller
+465,Prem Andaz Ki Kahani,1948,Action|Drama|War
+466,Tera Manzil Ka Intezaar,1983,Action|Comedy|War
+469,Raj Zindagi Ki Baatein,1978,Drama|Romance
+474,Tum Raja Se Mulakaat,1946,Action|Thriller
+479,Prem Dosti Ke Rang,1973,Action
+480,Raj Jung Ke Rang,1988,Action|Adventure|Sci-Fi
+481,Khiladi Kahani Ki Kahani,1962,Drama|Thriller
+485,Hamari Jung Hai,2012,Action|Comedy
+490,Baazigar Manzil Se Mulakaat,1974,Thriller
+492,Khiladi Raja Ke Rang,1990,Comedy|Mystery
+493,Shree Raja Se Mulakaat,1952,Action|Crime|Drama
+497,Aashiq Zindagi Hai,1939,Comedy|Romance
+498,Ek Raat Ki Duniya,1938,Drama|Romance
+499,Dil Pyaar Ke Rang,1975,Comedy|Romance
+507,Jab Manzil Se Mulakaat,1995,Action|Drama
+509,Shree Raat Ka Intezaar,2003,Drama|Romance
+511,Jab Sapna Ke Rang,1960,Action|Drama
+517,Dil Pyaar Se Mulakaat,2023,Action|Drama|Mystery
+519,Khiladi Jung Ka Safar,2010,Sci-Fi|Thriller
+521,Tera Pyaar Ki Duniya,2024,Crime|Thriller
+527,Khiladi Dosti Ka Intezaar,2009,Drama|War
+531,Dil Raja Ka Raaz,2003,Children's|Drama
+534,Hamari Pyaar Hai,1972,Drama|Romance
+539,Jab Mission Ka Intezaar,1966,Comedy|Romance
+540,Ek Jung Ki Duniya,1965,Thriller
+543,Raj Dosti Hai,1955,Comedy|Romance|Thriller
+544,Dil Rishta Ki Kahani,1937,Action
+546,Dil Manzil Ki Kahani,1944,Action|Adventure|Children's|Sci-Fi
+549,Tera Andaz Ka Intezaar,2017,Documentary
+551,Hamari Andaz Ka Raaz,2013,Children's|Comedy|Musical
+552,Tum Kahani Ka Intezaar,1978,Action|Adventure|Comedy
+553,Khiladi Andaz Ke Rang,1934,Western
+555,Ek Andaz Ki Baatein,2025,Action|Crime|Romance
+556,Shree Rishta Ki Kahani,1976,Documentary
+568,Baazigar Kahani Ki Kahani,1998,Comedy|Drama
+570,Hamari Dosti Ki Kahani,1990,Comedy|Drama
+578,Jab Raja Ka Raaz,1994,Drama|Mystery
+579,Tum Zindagi Se Mulakaat,1942,Thriller
+678,Ek Manzil Ke Rang,1951,Drama|Thriller
+683,Tera Sapna Hai,1978,Documentary
+718,Aashiq Pyaar Ka Raaz,1952,Comedy|Sci-Fi
+760,Raj Kahani Ka Safar,1967,War
+819,Tera Zindagi Ki Baatein,2001,Comedy|Drama
+876,Aashiq Andaz Ki Duniya,1933,Action
+1015,Hamari Rishta Hai,1944,Adventure|Children's
+1134,Chalte Jung Ka Safar,1984,Action|Drama
+1148,Tum Sapna Ki Kahani,2019,Animation|Comedy
+1215,Baazigar Raat Ke Rang,1946,Action|Adventure|Comedy|Horror|Sci-Fi
+1265,Dil Raat Ka Intezaar,2010,Comedy|Romance
+1319,Khiladi Andaz Ki Duniya,1986,Documentary
+1441,Khiladi Raat Ka Intezaar,1964,Comedy|Romance
+2045,Shree Andaz Ki Baatein,1959,Adventure|Children's|Drama|Romance
+2052,Khiladi Dosti Ki Duniya,1952,Children's|Comedy
+2092,Ek Andaz Ki Duniya,1973,Animation|Children's|Musical
+2106,Dil Sapna Ka Raaz,1991,Drama|War
+2120,Khiladi Raja Se Mulakaat,1978,Drama|Horror
+2803,Raj Andaz Ka Intezaar,1963,Thriller
+2850,Jab Pyaar Ki Baatein,1995,Drama|Thriller
+2875,Shree Andaz Ki Baatein,1971,Drama|Mystery|Romance
+2898,Baazigar Dosti Ka Safar,1946,Horror|Mystery
+3020,Khiladi Raat Ke Rang,2009,Action|Drama
+3165,Aashiq Rishta Se Mulakaat,1940,Action|Drama
+3208,Khiladi Jung Ki Kahani,2016,Action|Comedy
+3213,Khiladi Zindagi Ka Safar,1936,Animation|Children's
+3400,Khiladi Sapna Se Mulakaat,1980,Animation|Children's
+3440,Khiladi Rishta Ki Duniya,1934,Action|Children's|Fantasy
+3464,Prem Sapna Ka Intezaar,1945,Sci-Fi|Thriller
+3466,Aashiq Sapna Ki Baatein,1933,Comedy|Fantasy
+3572,Hamari Dosti Ki Baatein,1956,Horror|Sci-Fi
+3663,Hamari Mission Ki Kahani,1976,Horror|Sci-Fi|Thriller
+3761,Khiladi Manzil Ke Rang,1988,Crime|Drama
+3835,Tera Jung Ka Safar,2019,Thriller
+3920,Hamari Raja Ki Baatein,1969,Drama|Fantasy
+3190,Dil Sapna Ka Safar,2012,Adventure|Sci-Fi
+3225,Baazigar Sapna Se Mulakaat,2022,Comedy|Romance
+3273,Dil Raja Ka Safar,1943,Horror|Mystery|Thriller
+3285,Jab Sapna Ki Baatein,1996,Adventure|Drama
+3287,Shree Jung Ka Safar,1958,Animation|Children's
+3291,Ek Sapna Ki Kahani,1931,Thriller
+3299,Shree Dosti Hai,1999,Comedy|Drama
+3300,Jab Zindagi Ka Safar,2009,Action|Sci-Fi
+3301,Ek Andaz Ka Intezaar,2008,Comedy|Crime
+3316,Raj Jung Ki Duniya,2021,Action|Thriller
+3317,Baazigar Dosti Se Mulakaat,2025,Comedy|Drama
+3323,Khiladi Rishta Ka Intezaar,2000,Comedy|Crime
+3325,Chalte Raja Ka Raaz,1956,Comedy|Drama
+3326,Baazigar Jung Ka Safar,1941,Comedy|Sci-Fi
+3327,Ek Pyaar Ki Kahani,2012,Documentary
+3353,Aashiq Andaz Se Mulakaat,1988,Comedy|Romance
+3354,Shree Rishta Ki Duniya,1946,Sci-Fi
+3355,Hamari Dosti Se Mulakaat,1979,Thriller
+3356,Ek Kahani Ke Rang,1977,Documentary
+3409,Hamari Kahani Ka Intezaar,2013,Drama|Thriller
+3452,Shree Kahani Ki Baatein,1991,Action|Romance
+3453,Dil Manzil Ka Safar,1965,Drama|Romance
+3454,Tum Zindagi Se Mulakaat,1979,Comedy|Romance
+3483,Hamari Rishta Ke Rang,1989,Animation|Children's
+3484,Tum Kahani Ka Intezaar,1975,Thriller
+3510,Prem Mission Ki Baatein,1962,Drama|Thriller
+3512,Baazigar Dosti Ki Kahani,1984,Drama|Romance
+3513,Dil Andaz Ka Raaz,1941,Drama|Thriller
+3535,Tera Manzil Ka Safar,1977,Comedy|Horror|Thriller
+3536,Hamari Andaz Ke Rang,1964,Comedy|Romance
+3537,Khiladi Jung Ki Duniya,1959,Comedy|Drama
+3539,Dil Zindagi Se Mulakaat,1950,Documentary
+3553,Jab Mission Ke Rang,2013,Drama|Thriller
+3554,Ek Mission Ki Kahani,1967,Drama|Romance
+3555,Hamari Jung Se Mulakaat,1995,Action|Thriller
+3562,Jab Mission Ki Baatein,1982,Comedy|Drama
+3563,Prem Dosti Ka Safar,1976,Action|Horror
+3564,Baazigar Mission Ki Baatein,1984,Children's|Comedy
+3565,Raj Rishta Ke Rang,1978,Comedy|Drama
+3566,Raj Dosti Hai,1986,Comedy|Drama
+3578,Baazigar Raja Se Mulakaat,1953,Action|Drama
+3593,Dil Jung Ki Kahani,1969,Action|Sci-Fi
+3615,Baazigar Kahani Ki Kahani,1945,Animation|Children's
+3616,Prem Zindagi Ka Safar,1949,Comedy|Romance
+3623,Raj Mission Se Mulakaat,1935,Action|Thriller
+3624,Hamari Raat Ka Raaz,1971,Action
+3717,Khiladi Kahani Ki Duniya,1997,Action|Crime
+3719,Dil Manzil Ka Raaz,1999,Comedy|Romance
+3743,Baazigar Andaz Ka Safar,1964,Comedy|Romance
+3744,Khiladi Andaz Ka Safar,1979,Action|Crime
+3745,Raj Dosti Se Mulakaat,1975,Adventure|Animation|Sci-Fi
+3746,Prem Kahani Se Mulakaat,1957,Drama|War
+3751,Dil Manzil Ka Intezaar,1988,Animation|Children's|Comedy
+3753,Baazigar Pyaar Ki Kahani,2002,Action|Drama|War
+3754,Dil Pyaar Ki Baatein,1934,Animation|Children's|Comedy
+3755,Tera Raja Ka Raaz,2002,Action|Adventure|Thriller
+3785,Jab Manzil Ki Kahani,2008,Comedy|Horror
+3793,Raj Zindagi Ka Safar,1985,Action|Sci-Fi
+3794,Chalte Zindagi Se Mulakaat,1974,Comedy|Drama
+3796,Tera Raat Hai,1981,Romance|Thriller
+3797,Ek Manzil Ke Rang,2001,Thriller
+3798,Dil Zindagi Ki Baatein,2016,Thriller
+3799,Jab Kahani Ka Safar,2002,Animation|Children's
+3820,Dil Jung Ki Kahani,1989,Children's
+3824,Raj Mission Se Mulakaat,1960,Drama|Romance
+3826,Tum Rishta Ki Baatein,2006,Horror|Sci-Fi|Thriller
+3827,Baazigar Raat Ka Intezaar,1963,Action|Sci-Fi
+3829,Hamari Sapna Ki Duniya,1982,Comedy|Romance
+3830,Jab Rishta Ki Baatein,1931,Comedy|Horror|Thriller
+3857,Prem Mission Ka Safar,2004,Thriller
+3859,Chalte Kahani Ka Raaz,1930,Documentary
+3863,Baazigar Manzil Ki Kahani,2024,Sci-Fi|Thriller
+3865,Khiladi Jung Ka Raaz,2016,Comedy|Documentary
+3879,Prem Manzil Ki Baatein,2009,Action
+3880,Aashiq Kahani Ki Duniya,2009,Documentary
+3881,Shree Jung Ke Rang,2007,Documentary
+3883,Prem Dosti Ke Rang,1935,Comedy|Drama
+3885,Baazigar Andaz Se Mulakaat,1945,Comedy|Romance
+3888,Tum Andaz Ke Rang,1974,Drama|Romance
+3889,Aashiq Kahani Se Mulakaat,1959,Action|Adventure|Fantasy
+3890,Khiladi Raja Se Mulakaat,1934,Documentary
+3891,Tum Sapna Ka Safar,1935,Crime|Drama
+3893,Tum Andaz Ka Raaz,1953,Comedy|Thriller
+3895,Shree Rishta Hai,1949,Crime|Thriller
+3896,Khiladi Kahani Se Mulakaat,1948,Crime|Thriller
+3897,Dil Kahani Ki Duniya,1976,Comedy|Drama
+3898,Khiladi Raja Hai,1945,Action|Comedy
+3900,Hamari Zindagi Ki Duniya,1977,Comedy|Drama
+3901,Ek Dosti Ka Raaz,1985,Comedy|Drama
+3906,Aashiq Pyaar Ka Intezaar,2023,Crime
+3909,Chalte Jung Ki Baatein,1990,Comedy|Romance
+3910,Dil Andaz Ka Raaz,1954,Drama|Musical
+3912,Aashiq Manzil Hai,2005,Comedy|Drama
+3944,Tum Sapna Ka Safar,1999,Comedy|Drama
+3945,Jab Dosti Ki Duniya,2013,Adventure|Animation|Children's
+3946,Tera Sapna Se Mulakaat,1955,Action|Drama|Thriller
+3952,Dil Raat Se Mulakaat,1932,Drama|Thriller
+2235,Ek Pyaar Ki Duniya,1969,Drama|War
+2446,Prem Jung Ki Duniya,1956,Thriller
+2447,Baazigar Mission Ki Duniya,1995,Comedy|Drama
+2448,Raj Zindagi Ka Raaz,1959,Horror|Sci-Fi
+2479,Ek Raat Hai,1933,Drama|Thriller
+2485,Tera Pyaar Ki Kahani,1964,Comedy|Romance
+2490,Prem Raat Ke Rang,2015,Action|Thriller
+2491,Prem Raat Ka Intezaar,2015,Comedy|Romance
+2496,Tera Raat Ka Raaz,1936,Comedy|Romance
+2497,Shree Manzil Ka Intezaar,1962,Romance
+2498,Aashiq Kahani Se Mulakaat,1939,Comedy|Sci-Fi
+2502,Khiladi Dosti Ka Intezaar,1944,Comedy|Romance
+2504,Khiladi Manzil Ka Safar,1945,Comedy|Drama
+2505,Raj Mission Ka Raaz,1931,Thriller
+2506,Khiladi Dosti Hai,1986,Comedy|Drama|Romance
+2510,Chalte Raat Hai,1978,Comedy|Romance
+2540,Hamari Rishta Se Mulakaat,1931,Action|Crime|Drama|Thriller
+2549,Ek Rishta Ki Baatein,2009,Action|Sci-Fi
+2558,Aashiq Sapna Hai,1959,Comedy|Romance
+2559,Aashiq Rishta Ki Baatein,1983,Animation|Children's
+2560,Aashiq Pyaar Ke Rang,1951,Drama|Horror
+2561,Aashiq Manzil Ki Duniya,1966,Crime|Thriller
+2566,Aashiq Andaz Ka Raaz,2014,Animation|Children's
+2568,Tera Jung Ka Intezaar,2016,Action|Crime
+2570,Hamari Raja Ki Baatein,1967,Drama|Romance
+2571,Tum Kahani Hai,1931,Action|Sci-Fi|Thriller
+2572,Baazigar Raja Ka Intezaar,1939,Comedy|Romance
+2580,Khiladi Dosti Ki Kahani,1973,Crime
+2581,Dil Kahani Ki Kahani,1954,Comedy|Romance
+2583,Jab Raja Ki Kahani,1956,Mystery
+2586,Chalte Raja Ka Intezaar,1931,Comedy|Crime|Thriller
+2589,Prem Mission Ka Raaz,1956,Comedy|Drama|Romance
+2597,Baazigar Jung Ka Raaz,1948,Comedy|Romance
+2600,Jab Dosti Ke Rang,1934,Action|Sci-Fi|Thriller
+2605,Tum Dosti Se Mulakaat,2006,Crime|Thriller
+2606,Khiladi Manzil Ka Raaz,1972,Comedy|Horror
+2617,Tum Pyaar Ke Rang,1959,Action|Adventure|Horror|Thriller
+2622,Prem Pyaar Hai,2006,Comedy|Fantasy
+2628,Prem Andaz Hai,2010,Action|Adventure|Fantasy|Sci-Fi
+2629,Prem Sapna Hai,1998,Comedy|Romance
+2671,Shree Zindagi Hai,1938,Comedy|Romance
+2672,Tum Dosti Ke Rang,1941,Drama|Sci-Fi|Thriller
+2676,Tum Raat Ki Duniya,1997,Drama|Thriller
+2677,Ek Zindagi Ki Duniya,1991,Documentary
+2679,Tum Raat Ki Baatein,1936,Drama|Romance
+2684,Ek Zindagi Ki Baatein,1994,Comedy|Drama
+2687,Hamari Manzil Ki Kahani,1935,Animation|Children's
+2688,Dil Rishta Ka Intezaar,1981,Drama|Thriller
+2689,Khiladi Pyaar Se Mulakaat,1933,Documentary
+2700,Prem Zindagi Ki Baatein,1948,Animation|Comedy
+2701,Shree Raat Se Mulakaat,1989,Action|Sci-Fi|Western
+2707,Jab Manzil Ki Kahani,2001,Thriller
+2709,Dil Andaz Ka Raaz,1982,Children's|Comedy
+2713,Chalte Jung Ki Duniya,1989,Horror|Thriller
+2719,Prem Dosti Ki Kahani,1956,Horror|Thriller
+2720,Raj Manzil Ki Baatein,2000,Action|Adventure|Children's|Comedy
+2721,Baazigar Zindagi Hai,1980,Romance
+2722,Prem Mission Ka Safar,1932,Action|Sci-Fi|Thriller
+2723,Baazigar Manzil Ka Intezaar,1939,Action|Adventure|Comedy
+2724,Jab Raat Se Mulakaat,2019,Comedy|Romance
+2761,Ek Zindagi Ka Safar,2014,Animation|Children's
+2762,Aashiq Raja Se Mulakaat,1982,Thriller
+2763,Shree Dosti Ka Safar,1982,Action|Thriller
+2769,Ek Sapna Ka Intezaar,1941,Crime|Mystery
+2774,Tera Raja Ka Raaz,1996,Comedy|Romance
+2805,Aashiq Sapna Ke Rang,1971,Comedy|Romance
+2806,Aashiq Manzil Se Mulakaat,2012,Comedy|Thriller
+2807,Prem Mission Ki Duniya,1978,Action|Sci-Fi
+2812,Ek Rishta Ki Kahani,1957,Action|Thriller
+2813,Prem Dosti Ka Raaz,2011,Documentary
+2824,Tum Jung Ka Raaz,2012,Documentary
+2826,Chalte Raja Ki Baatein,2007,Action|Horror|Thriller
+2827,Khiladi Rishta Ka Raaz,1945,Sci-Fi|Thriller
+2828,Aashiq Manzil Ka Raaz,2012,Children's|Comedy
+2829,Tera Raat Se Mulakaat,1992,Comedy|Drama
+2835,Ek Pyaar Se Mulakaat,1969,Action|Thriller
+2840,Shree Jung Ki Kahani,1960,Thriller
+2841,Hamari Jung Ka Safar,1954,Thriller
+2842,Prem Kahani Ke Rang,2014,Crime|Drama
+2844,Khiladi Rishta Se Mulakaat,1940,Drama|Mystery
+2858,Dil Rishta Ki Duniya,1945,Comedy|Drama
+2861,Baazigar Pyaar Ka Intezaar,1971,Comedy|Drama
+2881,Hamari Dosti Ka Safar,1990,Action|Thriller
+2885,Aashiq Kahani Ki Duniya,1977,Drama|Romance
+2886,Shree Sapna Ki Kahani,2016,Children's|Comedy
+2888,Hamari Raat Se Mulakaat,1971,Comedy|Romance
+2890,Aashiq Mission Ki Baatein,2018,Drama|War
+2893,Aashiq Kahani Ka Safar,2023,Action|Drama
+2894,Ek Zindagi Hai,1940,Drama|Romance
+2906,Jab Pyaar Ki Kahani,1982,Drama|Romance
+2912,Baazigar Dosti Ki Baatein,1936,Action|Crime|Drama
+2914,Hamari Pyaar Hai,2023,Comedy|Drama
+2961,Jab Andaz Se Mulakaat,1974,Comedy|Drama
+2963,Jab Mission Ka Safar,2000,Crime|Drama
+2965,Ek Rishta Ki Duniya,1942,Action
+2974,Aashiq Kahani Ki Baatein,2022,Horror|Thriller
+2976,Khiladi Andaz Ki Kahani,2004,Drama|Horror
+2977,Baazigar Dosti Ka Safar,1992,Comedy|Drama
+2978,Hamari Manzil Ke Rang,1962,Comedy|Romance
+3002,Ek Sapna Ki Baatein,2017,Documentary
+3004,Chalte Andaz Ki Duniya,1954,Comedy|Romance
+3005,Ek Zindagi Ki Duniya,1975,Thriller
+3007,Shree Rishta Ki Baatein,1997,Documentary
+3053,Prem Mission Se Mulakaat,1980,Drama|War
+3055,Tum Raat Ki Baatein,2012,Thriller
+3056,Tera Dosti Hai,1932,Thriller
+3081,Ek Raat Ki Duniya,1991,Horror|Romance
+3082,Tum Zindagi Ki Kahani,1962,Action|Thriller
+3083,Shree Mission Ka Raaz,2021,Comedy|Drama
+3084,Chalte Raja Ki Kahani,1930,Documentary
+3113,Prem Pyaar Ka Safar,2001,Action|Thriller
+3114,Prem Mission Ka Raaz,1930,Animation|Children's|Comedy
+3117,Dil Pyaar Ki Baatein,1985,Drama|Romance|War
+3124,Hamari Andaz Ka Safar,1992,Comedy|Drama
+3129,Prem Dosti Ke Rang,1988,Comedy|Drama
+3147,Ek Raja Ka Raaz,1944,Drama|Thriller
+3149,Ek Sapna Se Mulakaat,1974,Mystery
+3155,Ek Zindagi Ki Baatein,1956,Drama|Romance
+3156,Tum Jung Ki Kahani,2022,Comedy|Drama|Sci-Fi
+3157,Aashiq Pyaar Ke Rang,1980,Children's|Comedy
+3159,Ek Kahani Ki Baatein,1934,Animation|Children's|Musical
+3162,Tum Sapna Ka Raaz,1985,Comedy|Drama
+3174,Aashiq Mission Ka Raaz,1974,Comedy|Drama
+3175,Shree Rishta Ke Rang,1958,Adventure|Comedy|Sci-Fi
+3176,Khiladi Jung Ka Safar,2000,Drama|Mystery|Thriller
+3180,Dil Jung Ka Intezaar,1932,Comedy|Drama
+3182,Prem Manzil Ke Rang,2007,Documentary
+3193,Ek Raja Ka Intezaar,1961,Documentary
+3226,Tum Sapna Ki Kahani,1984,Documentary
+3238,Raj Andaz Ka Safar,1963,Thriller
+3275,Khiladi Zindagi Ke Rang,1996,Action|Comedy
+3278,Ek Andaz Hai,1943,Documentary
+3279,Khiladi Pyaar Ki Duniya,2016,Action|Adventure
+3303,Ek Andaz Ki Kahani,1937,Documentary
+3320,Prem Kahani Ki Duniya,2001,Comedy|Romance
+3328,Jab Mission Ki Duniya,2008,Crime|Drama
+3357,Chalte Kahani Ki Duniya,1980,Drama|Romance
+3407,Hamari Manzil Ki Baatein,1968,Comedy|Drama
+3410,Tera Manzil Ka Safar,1956,Comedy|Drama
+3455,Raj Raat Ki Baatein,1951,Drama|Thriller
+3540,Chalte Dosti Ke Rang,2000,Romance|Thriller
+3541,Prem Zindagi Hai,2005,Action
+3556,Tera Raja Ke Rang,1957,Comedy|Drama
+3625,Ek Sapna Ki Duniya,1957,Documentary
+3666,Jab Andaz Ka Raaz,1955,Horror|Sci-Fi|Thriller
+3718,Aashiq Kahani Ka Safar,1934,Documentary
+3748,Shree Mission Hai,2018,Comedy|Romance
+3800,Ek Rishta Ke Rang,1968,Drama|Romance
+3822,Khiladi Raat Ka Raaz,1944,Drama|Romance
+3854,Prem Andaz Ki Duniya,1943,Drama|Romance
+3855,Shree Raat Hai,1946,Drama|Romance
+3860,Jab Rishta Ki Kahani,1988,Crime
+3864,Ek Andaz Ka Intezaar,1937,Action|Adventure|Sci-Fi
+3913,Tum Andaz Ka Safar,1980,Documentary
+51,Prem Mission Ke Rang,1945,Action|Drama|Thriller
+58,Jab Raja Ke Rang,1975,Drama|Romance
+98,Prem Sapna Ka Raaz,1975,Action|Thriller
+106,Chalte Pyaar Ki Baatein,1980,Comedy|Drama
+123,Tum Zindagi Ka Intezaar,1960,Drama|Mystery|Romance
+126,Baazigar Jung Ki Baatein,1942,Adventure|Children's|Fantasy
+128,Khiladi Jung Ki Kahani,1985,Documentary
+149,Tum Sapna Ki Baatein,1949,Crime|Drama|Thriller
+157,Tera Zindagi Hai,1955,Comedy|War
+162,Chalte Manzil Ka Raaz,2021,Documentary
+183,Raj Raat Ki Duniya,1945,Thriller
+225,Hamari Andaz Hai,1993,Drama|Thriller
+227,Raj Sapna Ke Rang,1986,Action
+229,Tera Dosti Ki Kahani,2014,Drama|Thriller
+230,Shree Dosti Ka Raaz,2013,Drama|Thriller
+232,Chalte Dosti Ka Raaz,1945,Comedy|Drama
+235,Prem Mission Ka Intezaar,1942,Comedy|Drama
+242,Prem Manzil Ki Duniya,2004,Drama|Musical
+245,Khiladi Jung Ka Raaz,1982,Crime|Drama
+246,Ek Pyaar Ki Duniya,2005,Documentary
+247,Tera Raat Ki Kahani,2016,Drama|Fantasy|Romance|Thriller
+249,Hamari Zindagi Ki Duniya,1964,Drama|Romance
+250,Khiladi Mission Ki Kahani,1994,Children's|Comedy
+252,Aashiq Mission Ki Kahani,1940,Comedy|Romance
+253,Aashiq Raat Ki Duniya,2023,Drama|Horror
+256,Hamari Raat Hai,1985,Comedy|Sci-Fi
+266,Khiladi Zindagi Hai,1996,Drama|Romance|War|Western
+270,Shree Mission Ka Safar,1977,Drama|Romance
+273,Tum Raat Ki Baatein,1986,Drama|Horror
+276,Aashiq Rishta Ke Rang,1948,Comedy|Romance
+287,Ek Sapna Ka Safar,1981,Comedy|Romance
+288,Tera Mission Ki Duniya,1993,Action|Thriller
+289,Jab Andaz Ka Intezaar,1980,Comedy|Romance
+290,Hamari Pyaar Ka Safar,1966,Crime|Drama
+293,Baazigar Mission Ka Safar,1980,Crime|Drama|Romance|Thriller
+296,Tum Dosti Ka Safar,1964,Crime|Drama
+302,Raj Sapna Ki Duniya,1993,Drama|Romance
+311,Khiladi Mission Ka Safar,1938,Horror|Thriller
+313,Tera Sapna Ki Baatein,1984,Animation|Children's
+315,Aashiq Kahani Ki Duniya,1966,Action
+316,Aashiq Dosti Ka Safar,2000,Action|Adventure|Sci-Fi
+317,Khiladi Rishta Ke Rang,1946,Children's|Comedy|Fantasy
+319,Shree Dosti Ke Rang,1992,Thriller
+329,Dil Manzil Se Mulakaat,2022,Action|Adventure|Sci-Fi
+340,Aashiq Mission Ka Safar,2019,Adventure|Drama
+342,Ek Andaz Ki Baatein,2023,Comedy|Romance
+345,Raj Pyaar Ki Baatein,1951,Comedy|Drama
+349,Shree Pyaar Ka Raaz,2021,Action|Adventure|Thriller
+350,Prem Dosti Ki Kahani,1977,Drama|Mystery|Thriller
+351,Tera Raja Se Mulakaat,1939,Comedy|Drama|Romance
+353,Chalte Zindagi Ki Kahani,1973,Action|Romance|Thriller
+355,Raj Rishta Ki Baatein,1968,Children's|Comedy
+356,Tum Manzil Ka Safar,1984,Comedy|Romance|War
+357,Raj Rishta Ka Safar,2004,Comedy|Romance
+359,Tum Sapna Se Mulakaat,1985,Comedy|Drama|Romance
+360,Jab Rishta Ka Intezaar,2023,Action|Comedy
+361,Ek Raat Ka Safar,1944,Drama|Romance
+362,Raj Rishta Ki Kahani,1970,Adventure|Children's|Romance
+364,Shree Manzil Ki Baatein,1939,Animation|Children's|Musical
+367,Dil Andaz Ki Kahani,1940,Comedy|Crime|Fantasy
+368,Dil Mission Se Mulakaat,1951,Action|Comedy|Western
+371,Raj Andaz Ke Rang,1954,Comedy|Drama
+372,Khiladi Raat Hai,1941,Comedy|Drama
+374,Hamari Zindagi Hai,1956,Children's|Comedy
+376,Baazigar Rishta Ke Rang,2006,Action|Thriller
+377,Baazigar Rishta Hai,1984,Action|Romance|Thriller
+378,Tum Andaz Ki Baatein,1946,Comedy|Romance
+379,Dil Manzil Ke Rang,2009,Action|Sci-Fi
+380,Aashiq Raja Ke Rang,1956,Action|Adventure|Comedy|Romance
+382,Dil Rishta Ke Rang,2020,Drama|Horror
+383,Tera Dosti Ka Raaz,1979,Western
+387,Hamari Manzil Ki Kahani,1980,Action|Comedy
+389,Dil Andaz Ka Raaz,1973,Drama|Romance|War
+391,Ek Manzil Ka Intezaar,1990,Crime|Drama
+393,Ek Pyaar Ki Baatein,1953,Action
+404,Shree Andaz Ki Duniya,1972,Documentary
+405,Jab Pyaar Ki Baatein,1942,Action|Sci-Fi
+416,Shree Rishta Ka Safar,2024,Western
+417,Baazigar Dosti Ki Kahani,2021,Comedy|Romance
+420,Tera Zindagi Ki Kahani,1965,Action|Comedy
+421,Tera Rishta Ka Safar,1932,Adventure|Children's
+422,Ek Kahani Hai,1973,Thriller
+423,Khiladi Jung Hai,1952,Action|Thriller
+425,Prem Zindagi Ki Baatein,2014,Drama|Romance
+432,Aashiq Sapna Se Mulakaat,2006,Comedy|Western
+436,Hamari Raja Hai,2009,Drama|Thriller
+438,Shree Kahani Ka Safar,1939,Action|Comedy
+443,Aashiq Dosti Ka Raaz,1988,Documentary
+447,Chalte Andaz Se Mulakaat,1958,Comedy|Romance
+450,Baazigar Kahani Ka Intezaar,1964,Comedy|Drama
+459,Khiladi Jung Ka Intezaar,1976,Action
+461,Dil Raja Se Mulakaat,1973,Drama|Romance
+462,Jab Jung Se Mulakaat,1955,Action|Adventure
+471,Raj Zindagi Ke Rang,1930,Comedy|Romance
+472,Dil Kahani Ki Duniya,1955,Comedy|Drama
+473,Aashiq Andaz Ka Raaz,2019,Comedy|War
+476,Baazigar Andaz Ke Rang,1979,Comedy|Drama
+482,Baazigar Manzil Ka Intezaar,1980,Thriller
+484,Chalte Dosti Ki Kahani,1995,Adventure|Children's
+487,Aashiq Sapna Ki Duniya,1994,Comedy|Western
+496,Dil Rishta Ka Raaz,1936,Comedy|Drama|Romance
+502,Raj Sapna Ka Intezaar,1973,Action|Children's
+504,Jab Raja Se Mulakaat,1990,Action|Sci-Fi
+512,Chalte Raat Ka Safar,1995,Horror|Sci-Fi
+513,Aashiq Rishta Ki Duniya,1990,Comedy|Mystery|Romance
+516,Jab Rishta Ka Safar,2004,Comedy|Drama|War
+532,Prem Zindagi Ki Kahani,1952,Comedy|Crime|Horror
+533,Prem Pyaar Ka Safar,1961,Action
+537,Chalte Sapna Ki Baatein,1983,Comedy|Drama
+547,Chalte Rishta Ke Rang,1976,Action|Adventure|Thriller
+548,Khiladi Jung Ki Duniya,2011,Action
+550,Tera Zindagi Ka Raaz,2009,Comedy|Romance
+554,Khiladi Sapna Ka Intezaar,1988,Thriller
+558,Jab Dosti Ki Baatein,1934,Action|Adventure|Animation|Children's|Fantasy
+561,Shree Pyaar Ki Kahani,1976,Thriller
+566,Khiladi Rishta Ka Safar,1940,Comedy|Romance
+569,Tum Mission Ka Safar,1979,Children's|Comedy
+574,Ek Sapna Ka Raaz,2001,Comedy|Drama
+575,Chalte Zindagi Ke Rang,1976,Children's|Comedy
+577,Raj Raat Ke Rang,1932,Adventure|Children's
+583,Baazigar Jung Ki Kahani,1947,Comedy|Drama
+600,Shree Zindagi Ki Baatein,2013,Thriller
+602,Shree Pyaar Ki Kahani,1968,Documentary
+614,Ek Sapna Se Mulakaat,1976,Drama|Thriller
+649,Tum Zindagi Hai,2011,Comedy|Drama
+657,Dil Andaz Ka Safar,1932,Comedy|Drama
+675,Ek Sapna Ka Intezaar,2017,Action|Drama|Thriller
+682,Prem Jung Ka Intezaar,1979,Documentary|Drama
+687,Aashiq Kahani Ki Duniya,1940,Drama|Romance
+690,Shree Jung Ka Raaz,1934,Romance
+735,Tera Pyaar Hai,1961,Comedy|Horror
+756,Tum Sapna Ka Safar,1996,Documentary
+759,Tera Sapna Hai,1981,Documentary
+776,Tum Andaz Ke Rang,1951,Comedy|Drama
+794,Raj Raat Ke Rang,1951,Comedy|Drama
+889,Tera Raat Ki Baatein,1966,Romance
+1021,Hamari Manzil Ki Baatein,2013,Children's|Comedy
+1071,Tera Sapna Ki Baatein,2000,Romance|War
+1133,Chalte Mission Ke Rang,1957,Comedy|Drama
+1149,Khiladi Mission Ke Rang,1996,Documentary|Drama
+1151,Aashiq Sapna Ka Intezaar,1945,Animation|Comedy|Thriller
+1369,Dil Jung Se Mulakaat,2000,Drama|Thriller
+1433,Ek Rishta Hai,1952,Comedy|Horror
+1434,Tum Kahani Ka Intezaar,2007,Action
+1697,Baazigar Kahani Ki Kahani,1956,Crime
+2036,Tera Manzil Ki Kahani,1990,Children's|Comedy
+2042,Dil Dosti Ki Baatein,2007,Children's|Comedy
+2101,Prem Mission Ki Baatein,2017,Adventure|Drama
+2103,Prem Pyaar Ka Intezaar,1973,Adventure|Children's
+2270,Aashiq Rishta Ki Duniya,2016,Documentary
+2876,Tera Mission Ka Intezaar,1932,Animation|Children's
+3434,Tum Sapna Ke Rang,2002,Action|Drama
+3664,Raj Andaz Ki Duniya,1935,Horror|Sci-Fi|Thriller
+3848,Chalte Rishta Ki Kahani,1958,Drama|Thriller
+61,Hamari Jung Ki Baatein,1967,Drama|Thriller
+64,Khiladi Mission Se Mulakaat,1980,Comedy|Romance
+66,Chalte Andaz Ka Raaz,1976,Sci-Fi|Thriller
+70,Tera Raat Ki Baatein,2015,Action|Comedy|Crime|Horror|Thriller
+74,Dil Sapna Hai,1935,Drama|Romance
+75,Chalte Raat Ke Rang,1982,Comedy|Drama
+79,Tera Sapna Ki Kahani,1939,Drama|Thriller
+86,Jab Raja Ka Intezaar,1979,Adventure|Drama
+87,Hamari Rishta Ke Rang,2015,Children's|Comedy
+92,Chalte Sapna Ki Duniya,1953,Drama|Thriller
+95,Hamari Pyaar Ki Duniya,1938,Action|Thriller
+100,Hamari Raat Ka Intezaar,1991,Drama|Thriller
+103,Baazigar Zindagi Ki Duniya,1988,Thriller
+107,Prem Mission Ki Kahani,1956,Adventure|Children's|Comedy|Musical
+113,Raj Manzil Ki Baatein,1968,Drama|Mystery
+118,Prem Mission Ka Safar,1988,Comedy|Romance
+140,Ek Kahani Se Mulakaat,1975,Drama|Romance
+284,Hamari Pyaar Se Mulakaat,1988,Action|Crime
+494,Dil Sapna Ki Baatein,1997,Action|Thriller
+604,Aashiq Jung Ka Raaz,1983,Documentary
+605,Prem Mission Ki Baatein,1971,Drama|Romance
+608,Aashiq Rishta Se Mulakaat,2010,Crime|Drama|Thriller
+609,Ek Sapna Ke Rang,1973,Adventure|Children's
+611,Dil Dosti Ke Rang,2007,Action|Horror|Sci-Fi
+613,Ek Jung Ka Safar,2018,Drama|Romance
+618,Baazigar Sapna Ka Safar,1995,Comedy|Romance
+628,Shree Sapna Ki Duniya,1930,Drama|Thriller
+630,Tum Sapna Ki Duniya,1932,Drama|Romance
+631,Dil Dosti Se Mulakaat,1947,Animation|Children's|Musical
+635,Raj Dosti Hai,2012,Comedy|Drama
+640,Dil Dosti Ki Duniya,1934,Drama|Thriller
+647,Dil Kahani Ka Intezaar,1938,Drama|War
+648,Dil Zindagi Ki Duniya,1955,Action|Adventure|Mystery
+653,Dil Manzil Ki Kahani,1936,Action|Adventure|Fantasy
+654,Shree Zindagi Se Mulakaat,1991,Drama|Romance
+661,Raj Raja Ki Kahani,2013,Animation|Children's|Musical
+662,Prem Dosti Ka Intezaar,1975,Thriller
+671,Prem Raja Ke Rang,1952,Comedy|Sci-Fi
+673,Raj Kahani Ka Intezaar,1998,Adventure|Animation|Children's|Comedy|Fantasy
+691,Tera Sapna Hai,1935,Comedy|Romance
+692,Khiladi Jung Ki Kahani,1992,Action|Sci-Fi|Thriller
+694,Tera Kahani Ka Intezaar,1934,Action
+697,Prem Pyaar Hai,1959,Drama|Romance
+704,Dil Zindagi Se Mulakaat,1949,Action|Adventure
+707,Aashiq Andaz Ka Intezaar,2009,Crime|Film-Noir|Thriller
+708,Shree Raja Ki Kahani,2006,Comedy|Romance
+711,Prem Pyaar Ki Kahani,1988,Adventure|Children's
+720,Prem Raja Ke Rang,1945,Animation
+724,Chalte Pyaar Ki Duniya,1967,Drama|Horror
+731,Khiladi Pyaar Ki Kahani,1990,Mystery|Thriller
+732,Prem Dosti Ke Rang,1972,Crime
+733,Prem Sapna Ki Duniya,1994,Action|Adventure|Thriller
+736,Ek Manzil Se Mulakaat,1963,Action|Adventure|Romance|Thriller
+737,Chalte Raat Ki Baatein,2006,Action|Sci-Fi
+742,Baazigar Jung Ka Raaz,2003,Horror|Thriller
+748,Khiladi Mission Ka Raaz,1976,Action|Sci-Fi|Thriller
+761,Raj Manzil Hai,1943,Adventure
+762,Tera Raat Ke Rang,1981,Comedy|Crime
+765,Shree Dosti Ka Raaz,1967,Comedy|Drama
+769,Khiladi Zindagi Se Mulakaat,1948,Documentary
+780,Aashiq Andaz Se Mulakaat,1945,Action|Sci-Fi|War
+782,Prem Sapna Ka Raaz,2009,Thriller
+783,Baazigar Pyaar Se Mulakaat,2001,Animation|Children's|Musical
+786,Hamari Rishta Ka Intezaar,2000,Action|Thriller
+788,Raj Jung Ki Duniya,1974,Comedy|Fantasy|Romance|Sci-Fi
+798,Raj Raat Ka Intezaar,1976,Action|Adventure|Thriller
+799,Shree Zindagi Ka Intezaar,1978,Comedy|Horror
+800,Raj Mission Ka Intezaar,2018,Drama|Mystery
+801,Prem Raat Ka Safar,2007,Children's|Comedy
+802,Khiladi Sapna Hai,2005,Drama|Romance
+803,Tera Mission Se Mulakaat,1956,Romance
+804,Aashiq Zindagi Ke Rang,1935,Comedy|Romance
+808,Ek Andaz Ka Safar,1940,Adventure|Children's
+809,Dil Mission Ki Baatein,1939,Action|Adventure
+810,Tum Raat Ka Safar,1973,Children's|Comedy|Fantasy
+825,Ek Dosti Ki Baatein,1935,Comedy|Romance
+828,Hamari Pyaar Ka Raaz,1976,Adventure|Children's
+829,Baazigar Mission Ki Kahani,1976,Comedy|Musical
+832,Shree Kahani Ki Baatein,1993,Drama|Thriller
+836,Baazigar Dosti Ka Raaz,2016,Action|Adventure|Thriller
+837,Jab Raja Ka Intezaar,2004,Children's|Comedy
+838,Dil Kahani Hai,1993,Comedy|Drama|Romance
+839,Raj Kahani Ki Baatein,1981,Action|Thriller
+847,Tera Dosti Ki Baatein,1947,Comedy|Drama
+849,Dil Jung Hai,2007,Action|Adventure|Sci-Fi|Thriller
+852,Jab Sapna Ke Rang,2005,Comedy|Romance
+859,Dil Raja Ke Rang,1997,Documentary
+866,Dil Rishta Ka Safar,2011,Crime|Drama|Romance|Thriller
+867,Ek Jung Ka Intezaar,2013,Comedy|Crime
+869,Khiladi Andaz Se Mulakaat,2003,Crime
+880,Aashiq Raat Hai,1931,Sci-Fi|Thriller
+881,Ek Raja Ka Intezaar,2023,Children's|Comedy
+882,Chalte Jung Hai,1984,Drama|Thriller
+885,Prem Jung Ki Kahani,1934,Children's|Drama|Fantasy
+886,Dil Raja Ke Rang,2008,Action
+892,Khiladi Rishta Ka Safar,1972,Comedy|Drama|Romance
+984,Dil Dosti Ki Kahani,2003,Comedy|Drama
+985,Dil Rishta Ke Rang,1990,Documentary
+986,Aashiq Zindagi Hai,1933,Adventure|Children's
+988,Aashiq Dosti Hai,1986,Comedy|Drama
+990,Tum Zindagi Ka Intezaar,2006,Action|Adventure|Thriller
+991,Baazigar Rishta Hai,1941,Drama|War
+992,Baazigar Raja Se Mulakaat,1968,Thriller
+996,Hamari Raja Ka Raaz,1997,Action|Drama|Western
+997,Shree Dosti Ki Duniya,1942,Drama|Thriller
+998,Dil Raat Se Mulakaat,1941,Action|Crime
+999,Shree Raja Ka Intezaar,2015,Crime
+1000,Hamari Rishta Ka Intezaar,1949,Crime
+1003,Aashiq Zindagi Ka Raaz,1997,Drama|Thriller
+1004,Tum Raat Ki Baatein,1933,Action|Thriller
+1005,Chalte Kahani Se Mulakaat,1978,Children's|Comedy
+1034,Hamari Pyaar Hai,2000,Crime
+1043,Prem Rishta Ke Rang,1951,Drama|Romance
+1045,Jab Zindagi Se Mulakaat,1937,Comedy|Drama
+1046,Tum Raja Ka Safar,1976,Drama|Romance
+1047,Aashiq Dosti Se Mulakaat,1980,Action|Thriller
+1049,Aashiq Pyaar Ki Kahani,1951,Action|Adventure
+1050,Ek Dosti Ka Raaz,1985,Documentary|Drama
+1053,Jab Kahani Se Mulakaat,2005,Crime|Drama
+1057,Dil Andaz Ka Raaz,2024,Comedy|Musical|Romance
+1059,Raj Rishta Ka Raaz,1947,Drama|Romance
+1060,Prem Sapna Hai,1964,Comedy|Drama
+1061,Ek Raat Ke Rang,2003,Crime|Drama
+1064,Prem Jung Ka Safar,1979,Animation|Children's|Comedy
+1102,Raj Raja Ke Rang,1962,Action
+1106,Khiladi Dosti Ka Safar,1990,Documentary
+1110,Ek Raja Hai,2019,Action
+1111,Tum Manzil Se Mulakaat,1952,Documentary
+1112,Khiladi Pyaar Ki Kahani,1973,Action|Drama
+1123,Chalte Dosti Ka Raaz,2009,Documentary
+1137,Raj Zindagi Ka Safar,1982,Romance
+1144,Prem Jung Ki Kahani,2021,Documentary
+1145,Tera Zindagi Ka Intezaar,2021,Documentary
+1147,Prem Jung Ka Raaz,1997,Documentary
+1165,Hamari Rishta Ki Kahani,1984,Drama|Thriller
+1183,Baazigar Raat Ka Safar,1943,Drama|Romance|War
+1310,Dil Kahani Ka Safar,2023,Documentary
+1313,Baazigar Rishta Ka Safar,1989,Crime
+1314,Chalte Jung Ke Rang,1945,Romance
+1352,Dil Kahani Ki Baatein,2005,Crime|Thriller
+1353,Khiladi Zindagi Ka Raaz,1999,Comedy|Romance
+1356,Khiladi Mission Se Mulakaat,1941,Action|Adventure|Sci-Fi
+1357,Raj Manzil Hai,1993,Drama|Romance
+1358,Prem Sapna Hai,2009,Drama|Thriller
+1359,Chalte Pyaar Ka Raaz,2002,Adventure|Children's|Comedy
+1361,Jab Manzil Ki Kahani,1997,Documentary
+1367,Dil Manzil Hai,1982,Children's|Comedy
+1383,Jab Sapna Ka Intezaar,1982,Action|Sci-Fi
+1391,Ek Raat Ka Safar,1984,Action|Comedy|Sci-Fi|War
+1392,Tera Pyaar Ki Duniya,1983,Comedy|Drama
+1393,Raj Mission Ke Rang,2019,Drama|Romance
+1398,Prem Dosti Ka Raaz,2010,Romance|War
+1405,Aashiq Kahani Se Mulakaat,1996,Animation|Comedy
+1407,Baazigar Raja Se Mulakaat,2010,Horror|Thriller
+1409,Ek Raat Hai,1982,Comedy|Romance
+1410,Ek Zindagi Ki Kahani,1969,Comedy|Drama
+1415,Ek Pyaar Se Mulakaat,1938,Crime|Drama|Romance
+1416,Tum Rishta Ka Intezaar,1998,Drama|Musical
+1420,Jab Mission Ke Rang,1960,Documentary
+1424,Raj Pyaar Hai,1954,Action
+1429,Khiladi Pyaar Se Mulakaat,2000,Action
+1443,Khiladi Rishta Ki Kahani,1950,Documentary
+1448,Khiladi Rishta Ka Raaz,1944,Documentary
+1450,Raj Jung Se Mulakaat,1997,War
+1455,Tum Raat Ki Baatein,1934,Comedy|Romance
+1462,Hamari Raat Ka Safar,1951,Documentary
+1467,Chalte Manzil Ki Duniya,1976,Comedy|Drama
+1475,Dil Mission Ke Rang,1963,Romance
+1482,Hamari Zindagi Ke Rang,2024,Comedy|Drama
+1483,Aashiq Mission Ka Intezaar,1981,Drama|Thriller
+1484,Baazigar Sapna Se Mulakaat,1991,Mystery
+1493,Khiladi Kahani Ka Safar,1966,Romance
+1502,Tum Pyaar Ki Kahani,1970,Romance
+1514,Jab Raat Ki Kahani,1969,Romance
+1542,Ek Sapna Hai,1958,Comedy|Drama|Romance
+1565,Shree Zindagi Ke Rang,1952,Comedy|Thriller
+1568,Shree Zindagi Ki Duniya,1994,Crime|Drama|Mystery
+1571,Dil Raja Ka Safar,1976,Comedy|Romance
+1642,Jab Zindagi Ka Intezaar,1971,Comedy|Drama
+1685,Dil Dosti Ke Rang,2015,Romance
+1714,Hamari Kahani Ka Safar,1986,Romance
+1723,Dil Manzil Hai,1965,Comedy|Drama
+1743,Khiladi Kahani Ka Intezaar,2021,Documentary
+1749,Shree Kahani Ka Intezaar,2017,Romance
+1842,Khiladi Mission Ka Raaz,1969,Crime|Drama
+1847,Baazigar Jung Ka Safar,2002,Drama|Thriller
+1868,Tum Raat Ka Raaz,1931,Drama|War
+1902,Raj Mission Se Mulakaat,1933,Drama|Romance
+2008,Hamari Pyaar Ka Raaz,1937,Crime|Drama|Film-Noir
+2158,Ek Jung Ke Rang,1984,Crime|Horror
+2292,Chalte Mission Se Mulakaat,1963,Romance
+2330,Tera Zindagi Ki Baatein,1971,Documentary
+2625,Prem Raja Se Mulakaat,1968,Action
+2952,Ek Rishta Ka Raaz,1931,Crime|Thriller
+3227,Tum Manzil Se Mulakaat,1938,Comedy|Drama|Thriller
+3574,Raj Zindagi Ka Intezaar,1974,Horror|Sci-Fi
+3817,Aashiq Jung Ki Duniya,1970,Comedy|Drama
+3874,Baazigar Raat Se Mulakaat,1978,Comedy|Romance
+1598,Jab Sapna Ki Duniya,1980,Crime|Drama|Thriller
+1680,Khiladi Raat Ka Safar,2023,Drama|Romance
+1732,Aashiq Kahani Ki Kahani,1973,Comedy|Crime|Mystery|Thriller
+1735,Raj Manzil Ka Safar,1998,Drama|Romance
+1739,Prem Raat Ke Rang,1932,Action|Children's
+1740,Khiladi Raat Ka Safar,1935,Action|Drama
+1742,Khiladi Raja Ke Rang,2025,Crime
+1744,Baazigar Andaz Ka Intezaar,2013,Action|Adventure|Thriller
+1748,Baazigar Zindagi Se Mulakaat,1944,Film-Noir|Sci-Fi|Thriller
+1752,Shree Raat Ka Raaz,1972,Action|Thriller
+1754,Baazigar Mission Ka Intezaar,1966,Action|Mystery|Thriller
+1762,Tera Jung Se Mulakaat,1958,Action|Horror|Sci-Fi
+1764,Raj Andaz Ki Kahani,1986,Comedy|Thriller
+1765,Tum Raat Hai,1944,Crime|Drama
+1767,Ek Jung Ka Raaz,1987,Drama|Romance
+1769,Shree Sapna Hai,1965,Action|Thriller
+1770,Dil Andaz Se Mulakaat,1983,Romance|Thriller
+1772,Prem Manzil Ka Raaz,1950,Action|Comedy|Musical
+1774,Chalte Zindagi Ki Baatein,1978,Comedy|Drama
+1777,Aashiq Raja Se Mulakaat,1946,Comedy|Romance
+1779,Prem Pyaar Ki Kahani,1939,Adventure|Sci-Fi|Thriller
+1782,Tera Andaz Ke Rang,1969,Comedy|Romance
+1783,Ek Dosti Hai,1998,Film-Noir|Mystery|Thriller
+1787,Shree Rishta Ka Raaz,2002,Documentary
+1791,Tera Rishta Ki Kahani,1961,Crime|Drama
+1792,Aashiq Kahani Ka Raaz,2014,Action|Thriller
+1796,Hamari Andaz Ka Safar,2003,Action|Drama
+1797,Chalte Rishta Hai,2017,Documentary
+1798,Baazigar Raja Ke Rang,1984,Thriller
+1801,Shree Sapna Ka Raaz,2000,Action|Drama|Romance
+1804,Tera Raja Se Mulakaat,1970,Crime|Drama
+1805,Raj Pyaar Ke Rang,2003,Crime|Drama|Mystery|Thriller
+1806,Jab Dosti Ka Safar,1995,Adventure|Children's|Comedy
+1812,Khiladi Sapna Ki Baatein,1975,Children's|Comedy|Drama
+1817,Hamari Mission Ki Baatein,1994,Comedy|Drama|Romance
+1821,Chalte Manzil Se Mulakaat,1961,Comedy|Romance
+1822,Aashiq Sapna Hai,2023,Children's|Comedy
+1824,Prem Dosti Se Mulakaat,2000,Comedy|Thriller
+1825,Prem Rishta Ki Duniya,1972,Action|Drama
+1826,Aashiq Andaz Ke Rang,1973,Adventure|Children's
+1831,Khiladi Kahani Ke Rang,1966,Action|Sci-Fi|Thriller
+1833,Khiladi Mission Se Mulakaat,1994,Action|Drama|Thriller
+1835,Tera Rishta Ke Rang,2009,Romance
+1841,Jab Raat Hai,2006,Drama|Thriller
+1843,Dil Mission Ki Baatein,2011,Children's|Comedy
+1845,Prem Raja Ki Duniya,1957,Comedy|Thriller
+1850,Chalte Zindagi Ke Rang,1990,Drama|Romance
+1852,Prem Raat Ka Raaz,1991,Drama|Thriller
+1854,Ek Rishta Ki Duniya,1970,Comedy|Romance
+1856,Tum Rishta Ki Baatein,1995,Documentary|Musical
+1862,Shree Mission Ki Kahani,1990,Horror|Sci-Fi
+1865,Hamari Sapna Ka Intezaar,1990,Documentary
+1866,Aashiq Rishta Ka Safar,1945,Action|Comedy
+1867,Baazigar Jung Ki Duniya,1937,Action|Adventure
+1869,Shree Mission Ka Intezaar,1975,Action|Thriller
+1870,Tera Jung Ka Raaz,2020,Comedy|Drama
+1876,Jab Raja Ki Baatein,1937,Action|Drama|Sci-Fi|Thriller
+1878,Dil Rishta Ka Intezaar,2004,Comedy|Romance
+1881,Jab Andaz Hai,2008,Adventure|Animation|Children's|Fantasy
+1882,Dil Manzil Ki Baatein,1947,Action|Sci-Fi
+1884,Tera Zindagi Ka Raaz,2013,Comedy|Drama
+1885,Khiladi Zindagi Ka Intezaar,2012,Comedy|Drama
+1887,Khiladi Dosti Ka Raaz,1949,Adventure|Comedy
+1888,Dil Kahani Ki Kahani,1981,Comedy|Drama|Romance
+1892,Khiladi Jung Ka Intezaar,1945,Mystery|Thriller
+1894,Baazigar Rishta Ki Kahani,1937,Adventure|Comedy|Romance
+1895,Raj Zindagi Ka Intezaar,1964,Comedy|Drama|Romance
+1897,Jab Jung Ka Intezaar,1958,Drama|Romance
+1898,Khiladi Zindagi Ka Safar,1988,Drama|War
+1899,Jab Raat Ke Rang,1980,Adventure|Drama
+1907,Raj Sapna Se Mulakaat,2015,Animation|Children's
+1908,Aashiq Manzil Ka Safar,2004,Drama|Thriller
+1909,Chalte Zindagi Ki Kahani,1970,Mystery|Sci-Fi|Thriller
+1912,Dil Andaz Se Mulakaat,2016,Action|Crime|Romance
+1914,Shree Raja Ke Rang,1993,Comedy|Drama
+1916,Jab Zindagi Ki Baatein,2018,Action|Comedy|Drama
+1917,Tera Sapna Se Mulakaat,1930,Action|Adventure|Sci-Fi|Thriller
+1918,Khiladi Pyaar Hai,2009,Action|Comedy|Crime|Drama
+1919,Baazigar Jung Ki Duniya,2007,Children's|Comedy
+1920,Tera Raat Ki Duniya,1936,Animation|Children's|Fantasy|War
+1921,Hamari Raja Ka Raaz,1970,Sci-Fi|Thriller
+2006,Raj Jung Hai,2016,Action|Adventure|Romance
+2026,Chalte Raat Ki Kahani,1943,Horror|Thriller
+2027,Dil Rishta Ki Baatein,1948,Comedy|Crime
+2028,Prem Kahani Hai,1958,Action|Drama|War
+2058,Baazigar Kahani Ke Rang,1979,Action|Thriller
+2059,Khiladi Andaz Ki Kahani,1934,Children's|Drama
+2062,Shree Andaz Ki Baatein,1974,Drama|Romance
+2107,Aashiq Andaz Ka Intezaar,1965,Horror|Thriller
+2125,Jab Raat Ki Baatein,1942,Drama|Romance
+2126,Raj Dosti Se Mulakaat,2020,Action|Crime|Mystery|Thriller
+2152,Khiladi Pyaar Ka Safar,2018,Children's|Comedy
+2153,Raj Sapna Ka Raaz,1971,Action|Adventure
+2154,Tera Dosti Ki Baatein,2009,Drama|Romance
+2157,Aashiq Kahani Se Mulakaat,1970,Romance
+2166,Khiladi Raat Ki Baatein,1995,Drama|Romance
+2167,Khiladi Manzil Hai,1966,Action|Adventure|Horror
+2168,Baazigar Jung Se Mulakaat,2002,Drama|Romance
+2170,Dil Raat Se Mulakaat,1953,Action|Comedy
+2171,Khiladi Dosti Hai,1938,Comedy|Drama|Romance
+2196,Khiladi Rishta Ka Safar,1996,Action
+2198,Baazigar Raja Hai,1983,Documentary
+2199,Baazigar Jung Se Mulakaat,1977,Crime|Drama
+2231,Chalte Andaz Ka Safar,2002,Crime|Drama
+2273,Hamari Pyaar Ki Baatein,2023,Action|Thriller
+2275,Khiladi Manzil Hai,1968,Action|Adventure|Sci-Fi
+2278,Aashiq Rishta Ki Kahani,1953,Action|Crime|Thriller
+2279,Prem Andaz Ke Rang,1935,Horror|Thriller
+2280,Dil Mission Hai,1989,Crime
+2281,Jab Zindagi Ka Raaz,1956,Crime
+2282,Aashiq Rishta Hai,1958,Comedy|Drama
+2294,Jab Zindagi Hai,1971,Animation|Children's
+2297,Shree Jung Ka Safar,1986,Drama|Romance
+2298,Raj Sapna Hai,1989,Thriller
+2307,Dil Zindagi Ki Duniya,2009,Action|Drama
+2315,Jab Zindagi Ki Kahani,1966,Horror|Thriller
+2316,Baazigar Dosti Ka Intezaar,2001,Drama|Romance
+2320,Dil Andaz Ka Raaz,1996,Drama|Thriller
+2322,Raj Raja Ke Rang,2019,Action|Adventure|Sci-Fi|Thriller|War
+2323,Aashiq Kahani Ka Raaz,1957,Documentary
+2326,Chalte Andaz Hai,1994,Drama|Thriller
+2331,Baazigar Rishta Se Mulakaat,1933,Comedy|Romance
+2332,Chalte Mission Ke Rang,1953,Crime|Drama
+2334,Baazigar Sapna Ki Baatein,1950,Action|Thriller
+2338,Raj Rishta Ki Kahani,1954,Horror|Mystery|Thriller
+2339,Baazigar Andaz Ki Baatein,2010,Comedy|Romance
+2340,Jab Jung Ki Baatein,1975,Romance
+2353,Dil Zindagi Hai,1984,Action|Thriller
+2354,Tum Dosti Ki Kahani,1935,Animation|Children's|Comedy
+2355,Baazigar Dosti Ka Intezaar,1961,Animation|Children's|Comedy
+2384,Shree Pyaar Ka Raaz,2016,Children's|Comedy
+2385,Dil Sapna Ka Raaz,1933,Comedy|Romance
+2387,Tera Sapna Ki Duniya,1955,Comedy|Crime
+2389,Aashiq Andaz Ki Duniya,2016,Crime|Horror|Thriller
+2391,Tera Pyaar Ka Intezaar,1930,Crime|Thriller
+2392,Jab Rishta Ki Kahani,2011,Comedy|Drama
+2393,Prem Rishta Ke Rang,1956,Action|Sci-Fi
+2394,Aashiq Rishta Ke Rang,1987,Animation|Musical
+2396,Raj Sapna Ka Safar,1937,Comedy|Romance
+2424,Shree Andaz Ka Raaz,1995,Comedy|Romance
+2425,Khiladi Pyaar Hai,1941,Crime
+2426,Jab Kahani Ki Duniya,2021,Comedy|Drama|Romance
+2427,Chalte Sapna Ka Raaz,1975,Action|Drama|War
+2428,Tera Pyaar Ka Intezaar,1947,Horror|Sci-Fi
+2429,Khiladi Andaz Ke Rang,2008,Adventure|Children's|Drama
+2431,Jab Jung Ka Intezaar,2007,Comedy|Drama
+2438,Hamari Mission Ki Baatein,1934,Drama|Thriller
+2441,Khiladi Jung Hai,1975,Drama|Western
+2443,Tum Kahani Ka Raaz,1979,Drama|Romance
+2481,Shree Manzil Hai,1979,Drama|Romance
+2482,Aashiq Manzil Ki Baatein,1953,Comedy|Romance
+2487,Jab Andaz Hai,1956,Action|Comedy
+2494,Shree Mission Ki Baatein,1992,Documentary
+2538,Hamari Rishta Se Mulakaat,1954,Documentary
+2542,Tum Jung Ki Kahani,1977,Comedy|Crime|Thriller
+2556,Baazigar Kahani Ke Rang,1994,Comedy|Drama|Romance
+2569,Jab Jung Hai,2002,Drama|Romance
+2585,Aashiq Zindagi Ka Raaz,1930,Drama|Romance
+2591,Tum Andaz Ki Kahani,1969,Comedy|Romance
+2595,Chalte Andaz Ki Baatein,1958,Documentary
+2596,Tera Raat Ke Rang,1944,Comedy|Drama
+2604,Raj Mission Ka Intezaar,2013,Documentary
+2608,Prem Raat Ke Rang,1972,Thriller
+2620,Hamari Mission Se Mulakaat,1984,Drama|Romance
+2621,Chalte Dosti Ka Safar,1958,Drama|Romance
+2626,Aashiq Kahani Ki Kahani,1952,Comedy|Drama|Romance
+2627,Shree Manzil Ki Duniya,2016,Documentary|Drama
+2631,Khiladi Jung Ki Kahani,1942,Comedy|Film-Noir|Thriller
+2675,Dil Raat Ki Duniya,1977,Comedy|Drama|Romance
+2681,Ek Mission Ka Intezaar,1971,Comedy|Romance|Sci-Fi
+2685,Aashiq Rishta Ka Safar,1971,Comedy|Drama
+2686,Tera Manzil Ki Duniya,1971,Drama|Mystery
+2692,Dil Jung Ki Kahani,2012,Action|Crime|Romance
+2697,Khiladi Dosti Se Mulakaat,1973,Comedy|Drama|Romance
+2708,Khiladi Andaz Ki Baatein,1935,Romance
+2715,Aashiq Raja Ka Safar,1936,Comedy|Romance
+2765,Ek Kahani Hai,2020,Comedy|Drama
+2766,Aashiq Zindagi Hai,1987,Comedy|Drama
+2834,Baazigar Andaz Ki Kahani,1978,Comedy|Romance
+2837,Hamari Dosti Se Mulakaat,1988,Comedy|Romance
+2843,Jab Sapna Ke Rang,1986,Comedy|Romance
+2873,Jab Raat Ki Baatein,2004,Drama|Mystery|Romance
+2884,Dil Pyaar Ki Baatein,1953,Comedy|Romance
+2892,Jab Raat Se Mulakaat,2008,Action|Drama
+2909,Khiladi Dosti Hai,1990,Documentary
+2910,Aashiq Kahani Se Mulakaat,1931,Drama|Romance
+2930,Khiladi Kahani Ki Duniya,1967,Documentary
+2998,Jab Raja Ka Intezaar,1999,Romance
+3003,Aashiq Raja Ka Safar,2015,Comedy|Drama
+3008,Shree Sapna Ka Safar,1990,Thriller
+3054,Shree Jung Ka Safar,1992,Animation|Children's
+3077,Prem Manzil Ka Raaz,2014,Documentary
+3080,Jab Sapna Ka Intezaar,1994,Drama|Sci-Fi
+3184,Aashiq Pyaar Ka Intezaar,1986,Action|Comedy|Crime|Drama
+3188,Tera Kahani Ki Kahani,2019,Documentary
+3237,Hamari Dosti Ki Duniya,1990,Documentary
+3281,Khiladi Manzil Se Mulakaat,1986,Documentary
+3318,Khiladi Kahani Ki Baatein,1953,Thriller
+3569,Prem Jung Hai,1999,Comedy|Drama
+3609,Chalte Raat Ki Duniya,1978,Documentary
+3665,Dil Jung Ka Intezaar,1934,Horror|Sci-Fi|Thriller
+3783,Shree Zindagi Ki Baatein,1936,Crime|Drama
+779,Tum Dosti Ki Baatein,1933,Drama|Romance
+987,Shree Sapna Ki Baatein,2024,Drama|Romance
+1055,Jab Sapna Ka Raaz,1959,Thriller
+1355,Jab Rishta Ka Intezaar,1956,Horror|Thriller
+1404,Shree Manzil Hai,1999,Crime|Drama
+1422,Prem Andaz Ki Baatein,1930,Mystery|Thriller
+1426,Tera Jung Ka Intezaar,1950,Children's
+1427,Khiladi Pyaar Ke Rang,2000,Thriller
+1430,Baazigar Raja Se Mulakaat,1990,Thriller
+1431,Baazigar Raat Ki Kahani,1974,Action|Comedy
+1432,Ek Raja Ke Rang,1995,Action
+1438,Jab Raja Ke Rang,1966,Action|Thriller
+1445,Raj Jung Hai,1973,Comedy|War
+1447,Baazigar Zindagi Ka Safar,2012,Crime
+1453,Hamari Andaz Hai,2021,Comedy|Romance
+1457,Tera Dosti Ke Rang,1947,Comedy|Romance
+1458,Raj Manzil Ka Intezaar,1998,Romance
+1459,Shree Rishta Hai,1993,Mystery|Thriller
+1460,Dil Sapna Se Mulakaat,1965,Children's|Comedy|Mystery
+1463,Aashiq Kahani Ki Duniya,1980,Comedy|Romance
+1464,Raj Kahani Ki Kahani,2002,Mystery
+1466,Raj Andaz Ka Safar,1958,Crime|Drama
+1468,Aashiq Mission Ki Duniya,1983,Comedy|Romance
+1470,Tum Mission Hai,1975,Documentary
+1472,Jab Andaz Ka Intezaar,2003,Crime|Thriller
+1473,Raj Andaz Ki Duniya,1942,Action|Comedy|Crime|Drama
+1474,Raj Sapna Ka Intezaar,1976,Children's|Comedy
+1476,Chalte Kahani Ka Raaz,1943,Comedy|Drama
+1477,Hamari Zindagi Ke Rang,2007,Romance
+1479,Shree Manzil Ke Rang,1981,Action|Romance|Thriller
+1480,Chalte Dosti Ki Kahani,1946,Action|Drama|Thriller
+1487,Tum Sapna Ki Duniya,1961,Drama|Musical
+1488,Shree Manzil Se Mulakaat,1943,Action|Drama|Thriller|War
+1489,Baazigar Raja Ka Raaz,1971,Animation|Children's|Musical
+1495,Ek Pyaar Ki Duniya,1949,Action|Adventure|Children's
+1496,Khiladi Andaz Se Mulakaat,1964,Drama|Romance
+1497,Aashiq Manzil Se Mulakaat,2004,Action
+1498,Dil Raat Ki Kahani,2014,Drama|Romance
+1499,Chalte Zindagi Ke Rang,1984,Action|Adventure|Thriller
+1500,Jab Sapna Ki Kahani,1985,Comedy|Crime
+1501,Tum Manzil Ka Safar,1982,Crime
+1507,Prem Raat Ka Intezaar,1994,Drama|War
+1515,Khiladi Dosti Ka Safar,1959,Drama|Thriller
+1518,Baazigar Rishta Hai,1968,Action|Thriller
+1520,Ek Raja Hai,1939,Romance
+1523,Chalte Andaz Ki Baatein,1949,Action|Crime|Romance
+1525,Shree Raja Se Mulakaat,1997,Action|Adventure|Children's|Fantasy
+1527,Dil Jung Hai,1970,Action|Sci-Fi
+1535,Khiladi Pyaar Ke Rang,2014,Drama|Romance
+1538,Aashiq Raja Ke Rang,1961,Adventure|Children's
+1539,Khiladi Rishta Ki Duniya,2013,Comedy|Crime
+1541,Baazigar Andaz Se Mulakaat,1988,Comedy|Romance
+1544,Baazigar Raja Ka Raaz,1960,Action|Adventure|Sci-Fi|Thriller
+1547,Ek Kahani Ka Raaz,1967,Children's|Drama
+1550,Jab Dosti Hai,2014,Comedy|Romance
+1551,Dil Sapna Hai,1983,Adventure|Children's|Drama
+1552,Shree Raat Ki Duniya,1960,Action|Adventure|Thriller
+1556,Khiladi Raja Ke Rang,1996,Action|Romance|Thriller
+1562,Khiladi Zindagi Ki Duniya,1957,Action|Adventure|Crime
+1564,Shree Zindagi Ki Kahani,1954,Comedy|Romance
+1566,Chalte Sapna Ki Baatein,1958,Adventure|Animation|Children's|Comedy|Musical
+1569,Tum Pyaar Ka Raaz,2025,Comedy|Romance
+1573,Dil Zindagi Ka Intezaar,1966,Action|Sci-Fi|Thriller
+1574,Ek Dosti Ki Duniya,1951,Romance
+1580,Khiladi Zindagi Se Mulakaat,2021,Action|Adventure|Comedy|Sci-Fi
+1582,Hamari Rishta Ka Safar,2012,Adventure|Children's
+1583,Tum Raja Ka Intezaar,1995,Children's|Fantasy
+1584,Dil Rishta Ki Baatein,1983,Drama|Sci-Fi
+1586,Tum Pyaar Ki Duniya,2000,Action|Drama|War
+1588,Tera Dosti Ki Kahani,2021,Children's|Comedy
+1589,Tum Rishta Ki Kahani,2014,Crime|Drama|Mystery
+1590,Jab Dosti Ke Rang,1988,Action|Mystery|Sci-Fi|Thriller
+1591,Jab Kahani Ka Intezaar,1981,Action|Adventure|Sci-Fi|Thriller
+1592,Chalte Manzil Ka Safar,1940,Children's|Comedy
+1593,Khiladi Jung Ke Rang,1998,Comedy|Romance
+1595,Tera Pyaar Ka Safar,1981,Adventure|Children's|Drama
+1597,Aashiq Kahani Se Mulakaat,1984,Action|Mystery|Romance|Thriller
+1599,Baazigar Kahani Ki Duniya,2014,Action
+1600,Tum Rishta Ke Rang,1958,Drama|Romance
+1601,Prem Raat Ka Safar,1934,Crime|Drama|Film-Noir
+1603,Khiladi Pyaar Se Mulakaat,1997,Sci-Fi|Thriller
+1604,Tera Manzil Ka Intezaar,1991,Action|Comedy
+1605,Ek Rishta Hai,1950,Adventure|Romance
+1606,Dil Sapna Ki Duniya,2000,Action|Adventure
+1608,Dil Pyaar Ka Intezaar,1951,Action|Thriller
+1615,Aashiq Raja Ki Kahani,2023,Adventure|Thriller
+1616,Baazigar Rishta Ki Duniya,1930,Action|Thriller|War
+1617,Raj Sapna Ka Safar,1930,Crime|Film-Noir|Mystery|Thriller
+1619,Tum Manzil Ka Raaz,1989,Drama|War
+1620,Tera Zindagi Ka Safar,1995,Crime|Drama|Thriller
+1622,Jab Manzil Ki Baatein,1953,Comedy|Drama
+1625,Hamari Mission Ka Raaz,1953,Mystery|Thriller
+1626,Aashiq Mission Ki Duniya,1977,Action|Drama|Thriller
+1627,Raj Raat Ki Duniya,1986,Action|Crime|Mystery
+1629,Chalte Manzil Hai,1945,Comedy|Romance
+1630,Tera Kahani Ka Raaz,1979,Comedy|Drama
+1631,Khiladi Raat Ki Baatein,1974,Thriller
+1632,Tum Rishta Se Mulakaat,1983,Comedy|Romance
+1636,Shree Raja Ka Intezaar,1954,Action|Thriller
+1639,Ek Raja Hai,1941,Drama|Romance
+1643,Baazigar Pyaar Ka Safar,2007,Drama|Romance
+1644,Khiladi Zindagi Ki Kahani,2004,Horror|Mystery|Thriller
+1645,Dil Zindagi Ka Raaz,1931,Crime|Horror|Mystery|Thriller
+1647,Chalte Zindagi Ki Baatein,1973,Crime|Thriller
+1648,Tera Dosti Ke Rang,1966,Comedy|Drama|Thriller
+1649,Tera Jung Ka Raaz,1952,Documentary
+1652,Jab Pyaar Ki Duniya,2024,Documentary
+1653,Tera Andaz Ki Duniya,2025,Drama|Sci-Fi|Thriller
+1654,Prem Manzil Ka Intezaar,1986,Children's|Drama|Fantasy
+1656,Raj Rishta Ka Raaz,1936,Romance
+1657,Jab Sapna Ke Rang,1942,Documentary
+1658,Dil Pyaar Ki Kahani,1933,Romance|Thriller
+1661,Ek Dosti Se Mulakaat,1965,Thriller
+1662,Khiladi Mission Ka Safar,1937,Crime
+1666,Prem Sapna Ki Duniya,1935,Romance
+1667,Ek Manzil Ke Rang,2004,Action|Drama
+1669,Hamari Raat Ka Raaz,1959,Romance
+1670,Aashiq Raja Ka Safar,2020,Drama|War
+1671,Shree Jung Ki Baatein,2015,Crime
+1675,Tera Pyaar Ka Safar,1993,Crime|Thriller
+1676,Prem Kahani Ka Intezaar,1980,Action|Adventure|Sci-Fi|War
+1681,Hamari Pyaar Ki Kahani,1955,Action|Adventure
+1683,Aashiq Dosti Se Mulakaat,2011,Drama|Romance|Thriller
+1684,Aashiq Raat Ki Duniya,2023,Romance
+1686,Dil Raat Ki Kahani,1964,Crime|Thriller
+1687,Dil Raja Ki Baatein,1961,Action|Thriller
+1688,Hamari Mission Ka Safar,1988,Animation|Children's|Musical
+1689,Raj Andaz Ki Duniya,1937,Comedy|Mystery
+1690,Chalte Sapna Ke Rang,2004,Action|Horror|Sci-Fi
+1696,Prem Andaz Se Mulakaat,1940,Drama|War
+1701,Jab Pyaar Ki Duniya,1996,Comedy|Drama
+1702,Khiladi Zindagi Hai,2016,Children's|Comedy|Fantasy
+1707,Prem Andaz Se Mulakaat,1978,Children's|Comedy
+1709,Dil Manzil Hai,1984,Thriller
+1711,Raj Sapna Ki Kahani,1992,Comedy|Crime|Drama|Mystery
+1713,Aashiq Jung Ka Raaz,1937,Children's|Comedy
+1715,Raj Manzil Se Mulakaat,1977,Thriller
+1717,Prem Sapna Ka Raaz,2013,Horror|Thriller
+1718,Raj Raja Hai,1950,Thriller
+1721,Ek Dosti Hai,1974,Drama|Romance
+1722,Khiladi Zindagi Se Mulakaat,1931,Action|Romance|Thriller
+1729,Chalte Zindagi Ke Rang,1970,Crime|Drama
+1733,Chalte Andaz Se Mulakaat,1990,Drama|Romance
+1734,Tum Rishta Ka Raaz,2011,Comedy|Drama
+1747,Khiladi Sapna Ka Safar,2012,Comedy|Drama
+1750,Hamari Sapna Ki Baatein,2024,Adventure|Children's|Fantasy|Sci-Fi
+1755,Tum Jung Se Mulakaat,1993,Romance
+1760,Aashiq Mission Ki Baatein,1934,Comedy|Musical
+1780,Jab Mission Ka Safar,1951,Documentary
+1784,Khiladi Jung Ka Safar,2002,Comedy|Drama
+1788,Jab Andaz Ki Kahani,1990,Action|Drama
+1794,Tera Manzil Ka Safar,1964,Comedy|Drama
+1799,Shree Jung Ki Kahani,1932,Crime|Drama
+1809,Chalte Pyaar Ka Raaz,1954,Comedy|Crime|Drama
+1816,Jab Zindagi Ki Baatein,1999,Comedy|Drama
+1827,Hamari Kahani Ka Raaz,1968,Comedy|Documentary
+1829,Shree Rishta Ke Rang,1982,Drama|Romance
+1832,Baazigar Mission Ki Baatein,1998,Action|Drama
+1834,Prem Andaz Ka Safar,1931,Drama|Thriller
+1848,Hamari Mission Se Mulakaat,1982,Adventure|Children's|Comedy|Fantasy
+1849,Jab Manzil Ki Baatein,1946,Adventure
+1851,Shree Sapna Ke Rang,2017,Drama|Romance
+1858,Tum Raja Ka Raaz,1932,Action|Comedy
+1861,Hamari Zindagi Ki Duniya,1943,Comedy|Thriller
+1871,Dil Rishta Ke Rang,1959,Comedy|Drama
+1874,Ek Zindagi Ki Baatein,1948,Comedy|Romance
+1889,Aashiq Rishta Ke Rang,1930,Thriller
+1891,Dil Dosti Ka Raaz,1933,Horror|Thriller
+1901,Ek Dosti Ki Duniya,2003,Documentary
+1904,Shree Jung Ki Duniya,1993,Comedy|Drama
+1906,Aashiq Sapna Ka Raaz,1952,Comedy|Romance
+1910,Aashiq Sapna Ka Intezaar,1962,Action|Comedy|Crime
+2025,Chalte Mission Ka Raaz,2004,Drama|Romance
+2029,Aashiq Rishta Ki Baatein,1942,Comedy|Romance
+2061,Baazigar Pyaar Ka Safar,1998,Documentary
+2063,Dil Mission Hai,2017,Drama|Romance
+2127,Dil Zindagi Ka Raaz,2010,Drama|Romance
+2129,Dil Dosti Se Mulakaat,2022,Documentary
+2156,Tera Kahani Ka Raaz,1987,Comedy|Drama
+2175,Prem Rishta Se Mulakaat,1968,Drama|Romance
+2189,Dil Kahani Hai,1947,Animation
+2232,Tum Kahani Ki Kahani,1939,Sci-Fi|Thriller
+2324,Shree Sapna Hai,1981,Comedy|Drama
+2388,Hamari Manzil Ki Duniya,1953,Drama|Romance
+2444,Jab Zindagi Ki Kahani,1981,Comedy|Drama
+2577,Chalte Raja Ki Baatein,1954,Comedy|Drama
+2578,Tum Andaz Ke Rang,1952,Sci-Fi
+2594,Dil Manzil Se Mulakaat,1977,Drama|Romance|Sci-Fi
+2693,Baazigar Raja Hai,1952,Documentary
+2698,Chalte Raat Ki Baatein,2013,Sci-Fi
+2776,Khiladi Manzil Ka Raaz,1968,Documentary
+2793,Baazigar Jung Ke Rang,2002,Comedy|Horror
+2801,Tum Raat Ki Baatein,2014,Drama|Romance
+2810,Shree Raja Ki Duniya,1931,Animation|Mystery
+2833,Tera Zindagi Ki Kahani,1959,Romance|War
+2962,Tera Sapna Ki Baatein,1975,Comedy|Romance
+3000,Aashiq Raat Ke Rang,2024,Action|Adventure|Animation
+3064,Tum Rishta Ki Duniya,1956,Thriller
+3293,Baazigar Sapna Ka Raaz,2008,Drama|Sci-Fi
+3381,Aashiq Jung Ke Rang,2000,Comedy|Drama
+3474,Prem Rishta Ka Raaz,1990,Sci-Fi|Thriller
+3518,Prem Andaz Ka Intezaar,1998,Drama|Thriller
+3620,Chalte Rishta Ka Raaz,1990,Comedy|Drama
+1,Dil Pyaar Ka Safar,1968,Animation|Children's|Comedy
+2,Shree Zindagi Ki Duniya,1950,Adventure|Children's|Fantasy
+3,Prem Rishta Se Mulakaat,1931,Comedy|Romance
+4,Aashiq Raat Ka Raaz,1999,Comedy|Drama
+6,Tera Manzil Ka Intezaar,1958,Action|Crime|Thriller
+7,Khiladi Kahani Hai,1947,Comedy|Romance
+8,Hamari Andaz Ka Raaz,1942,Adventure|Children's
+9,Ek Jung Ki Duniya,1995,Action
+10,Jab Andaz Ki Baatein,1951,Action|Adventure|Thriller
+11,Dil Dosti Ka Intezaar,1968,Comedy|Drama|Romance
+12,Tum Kahani Ka Intezaar,2024,Comedy|Horror
+13,Chalte Kahani Ki Baatein,1993,Animation|Children's
+15,Shree Sapna Hai,1933,Action|Adventure|Romance
+16,Shree Rishta Ka Raaz,1991,Drama|Thriller
+17,Dil Manzil Ka Safar,1986,Drama|Romance
+18,Ek Sapna Ka Intezaar,2023,Thriller
+20,Ek Kahani Ka Safar,1961,Action
+21,Hamari Andaz Ka Intezaar,1962,Action|Comedy|Drama
+22,Tera Raja Se Mulakaat,1970,Crime|Drama|Thriller
+23,Shree Sapna Ki Kahani,1937,Thriller
+24,Chalte Mission Se Mulakaat,1969,Drama|Sci-Fi
+25,Chalte Jung Ka Safar,1982,Drama|Romance
+28,Prem Rishta Hai,2023,Romance
+29,Chalte Raat Ka Intezaar,2006,Adventure|Sci-Fi
+32,Ek Mission Ka Safar,1969,Drama|Sci-Fi
+33,Raj Sapna Ki Kahani,1949,Adventure|Romance
+34,Ek Jung Ki Kahani,1933,Children's|Comedy|Drama
+35,Raj Pyaar Ki Kahani,1939,Drama|Romance
+37,Khiladi Rishta Ka Safar,1955,Documentary
+39,Tum Jung Se Mulakaat,1959,Comedy|Romance
+41,Ek Jung Ka Safar,2005,Drama|War
+42,Ek Raja Ka Safar,2004,Action|Crime|Drama
+44,Aashiq Jung Ke Rang,1944,Action|Adventure
+45,Hamari Mission Ki Baatein,2002,Comedy|Drama
+46,Tera Raja Ki Duniya,1973,Drama|Romance
+47,Aashiq Sapna Ke Rang,1946,Crime|Thriller
+48,Baazigar Raja Ka Safar,1946,Animation|Children's|Musical|Romance
+49,Dil Zindagi Ka Safar,1987,Drama|Romance
+50,Shree Jung Hai,1986,Crime|Thriller
+54,Khiladi Jung Ki Baatein,1949,Children's|Comedy
+56,Baazigar Manzil Ka Intezaar,2013,Adventure|Children's|Fantasy
+59,Chalte Pyaar Ka Raaz,2014,Drama|Mystery
+60,Khiladi Zindagi Ke Rang,1953,Adventure|Children's|Fantasy
+68,Dil Raat Ki Kahani,1971,Comedy|Romance
+71,Chalte Andaz Ke Rang,1962,Action
+72,Tum Andaz Ki Baatein,1937,Comedy|Drama
+73,Khiladi Pyaar Hai,1977,Drama|Musical
+76,Tera Rishta Ki Kahani,1964,Sci-Fi|Thriller
+77,Ek Pyaar Ke Rang,2005,Documentary
+81,Jab Kahani Ki Duniya,2014,Crime|Drama|Romance
+84,Hamari Andaz Ke Rang,2005,Comedy|Drama
+85,Tera Jung Ki Duniya,1964,Drama|Romance
+89,Khiladi Jung Ki Duniya,2000,Action|Thriller
+93,Prem Sapna Ki Duniya,1946,Comedy|Romance
+99,Prem Mission Ke Rang,2023,Documentary
+105,Chalte Rishta Ke Rang,1986,Drama|Romance
+108,Tum Sapna Hai,1997,Documentary
+110,Hamari Dosti Ki Kahani,1977,Action|Drama|War
+112,Prem Andaz Ka Raaz,1965,Action|Adventure|Crime
+116,Tera Jung Ka Safar,1993,Documentary
+117,Jab Andaz Ki Kahani,1943,Crime
+129,Baazigar Pyaar Ki Kahani,1939,Comedy|Romance
+131,Raj Jung Se Mulakaat,1966,Drama|Romance
+132,Prem Rishta Ki Duniya,1964,Thriller
+133,Khiladi Pyaar Ki Kahani,1933,Comedy|Drama
+134,Hamari Mission Ka Safar,1969,Documentary
+136,Baazigar Zindagi Ka Safar,2001,Documentary
+137,Shree Pyaar Ke Rang,1934,Documentary
+139,Aashiq Jung Se Mulakaat,2018,Action|Drama
+145,Prem Jung Hai,1937,Action
+146,Aashiq Jung Ki Duniya,2002,Adventure|Children's
+151,Raj Jung Se Mulakaat,1983,Drama|Romance|War
+153,Tum Rishta Ki Duniya,1988,Action|Adventure|Comedy|Crime
+155,Jab Andaz Ki Baatein,1943,Drama|War
+158,Aashiq Andaz Ke Rang,1951,Adventure|Children's
+160,Tera Mission Ki Kahani,1941,Action|Adventure|Mystery|Sci-Fi
+161,Baazigar Kahani Ki Baatein,1975,Drama|Thriller|War
+163,Tera Andaz Ki Kahani,1972,Action|Romance|Thriller
+164,Hamari Zindagi Ki Kahani,1995,Crime|Film-Noir|Mystery|Thriller
+165,Dil Raat Ka Intezaar,1948,Action|Thriller
+166,Ek Pyaar Ka Raaz,1941,Comedy|Drama
+168,Chalte Dosti Ka Safar,1995,Action|Adventure|Drama|Romance
+169,Baazigar Sapna Hai,1978,Adventure|Children's|Drama
+170,Tum Raat Ki Kahani,1939,Action|Crime|Thriller
+172,Chalte Jung Hai,1949,Action|Sci-Fi|Thriller
+173,Raj Rishta Ka Safar,1938,Action|Adventure|Sci-Fi
+179,Ek Dosti Hai,1992,Drama|Romance
+181,Raj Rishta Ke Rang,1998,Action|Children's
+182,Prem Raat Ka Raaz,1989,Drama|Romance
+185,Raj Pyaar Ka Safar,2019,Sci-Fi|Thriller
+190,Khiladi Kahani Ka Raaz,2021,Thriller
+192,Jab Raja Ka Safar,1990,Documentary
+195,Dil Kahani Ki Baatein,2001,Comedy|Drama|Romance
+196,Raj Jung Ka Raaz,1994,Horror|Sci-Fi
+198,Tera Kahani Ka Raaz,1937,Action|Crime|Sci-Fi
+200,Hamari Manzil Se Mulakaat,2017,Thriller
+202,Chalte Andaz Ki Duniya,1979,Drama|Romance
+204,Hamari Kahani Ke Rang,2023,Action
+205,Prem Mission Ke Rang,2007,Comedy|Drama
+206,Ek Kahani Ki Kahani,1933,Documentary
+207,Hamari Pyaar Ka Safar,1966,Drama|Romance
+208,Shree Rishta Se Mulakaat,1962,Action|Adventure
+210,Jab Mission Hai,1942,Western
+215,Jab Zindagi Ki Duniya,1984,Drama|Romance
+217,Prem Manzil Ki Kahani,1942,Drama|Thriller
+218,Chalte Rishta Ki Baatein,1933,Comedy|Drama
+222,Dil Jung Ka Safar,1958,Drama|Romance
+224,Dil Mission Ki Baatein,1998,Comedy|Drama|Romance
+226,Aashiq Manzil Hai,1990,Thriller
+236,Tera Rishta Ki Baatein,1994,Comedy|Romance
+237,Dil Andaz Se Mulakaat,1938,Comedy|Romance
+238,Prem Kahani Ki Duniya,1939,Adventure|Children's
+239,Shree Raat Ki Baatein,1934,Animation|Children's|Comedy|Romance
+240,Khiladi Mission Ki Baatein,2003,Thriller
+241,Baazigar Zindagi Ke Rang,1937,Children's|Drama
+244,Ek Pyaar Hai,1957,Animation|Children's
+251,Jab Zindagi Ki Baatein,2004,Action
+257,Chalte Mission Ki Duniya,1984,Mystery|Thriller
+258,Aashiq Dosti Ki Baatein,2022,Adventure|Children's|Comedy|Fantasy|Romance
+259,Baazigar Jung Ki Baatein,1973,Crime|Drama|Thriller
+262,Raj Kahani Ka Safar,1939,Children's|Drama
+280,Raj Andaz Ka Safar,2005,Drama|Thriller
+283,Baazigar Jung Ke Rang,2017,Crime|Drama
+286,Prem Andaz Ka Raaz,2010,Action|Sci-Fi|Thriller
+291,Aashiq Jung Ka Raaz,1994,Thriller
+292,Prem Rishta Ka Raaz,1954,Action|Drama|Thriller
+294,Jab Raja Ki Baatein,2011,Comedy|Romance
+295,Aashiq Mission Ka Safar,1960,Comedy|Romance
+301,Aashiq Jung Ki Duniya,1957,Drama|Romance
+303,Tum Sapna Se Mulakaat,1991,Action|Adventure|Western
+304,Baazigar Dosti Ki Duniya,1943,Comedy|Drama
+322,Hamari Raja Ki Baatein,1973,Comedy|Drama
+327,Raj Jung Ka Intezaar,1979,Action|Comedy|Musical|Sci-Fi
+330,Khiladi Jung Ki Baatein,1998,Comedy|Horror
+332,Raj Jung Ki Duniya,1957,Horror|Sci-Fi
+335,Jab Andaz Ka Raaz,1943,Mystery|Thriller
+336,Jab Zindagi Ka Safar,1989,Drama|War
+338,Khiladi Andaz Se Mulakaat,2022,Sci-Fi|Thriller
+339,Hamari Sapna Ki Kahani,1996,Comedy|Romance
+343,Hamari Dosti Ki Baatein,1976,Children's
+384,Tum Kahani Ke Rang,1977,Action
+394,Jab Pyaar Ka Intezaar,1930,Action
+398,Aashiq Dosti Ki Baatein,2024,Documentary
+401,Dil Rishta Ka Intezaar,1948,Action|Thriller
+403,Tum Andaz Ki Baatein,1999,Comedy|Crime|Drama
+407,Tera Zindagi Hai,1960,Horror|Thriller
+468,Dil Sapna Ka Safar,1949,Comedy|Romance
+562,Baazigar Manzil Ki Kahani,1958,Comedy|Drama
+581,Raj Raja Ki Baatein,2008,Documentary
+591,Aashiq Jung Ki Baatein,1982,Action|Drama|Thriller
+623,Tum Kahani Ka Raaz,2014,Romance
+624,Prem Pyaar Ki Baatein,1977,Action|Drama|Thriller
+627,Aashiq Manzil Ki Duniya,2013,Drama|Thriller
+632,Shree Pyaar Ki Duniya,1972,War
+638,Hamari Manzil Ki Kahani,1984,Romance
+652,Ek Kahani Ka Raaz,1989,Mystery
+665,Chalte Kahani Ki Duniya,1976,War
+667,Jab Rishta Ka Intezaar,1936,Action
+688,Chalte Rishta Ke Rang,1958,Action|Adventure|Comedy|War
+695,Jab Zindagi Ka Raaz,1989,Mystery|Thriller
+696,Dil Rishta Ka Safar,2006,Thriller
+714,Tum Sapna Ka Intezaar,1963,Western
+722,Chalte Andaz Ki Baatein,1986,Documentary
+727,Chalte Rishta Se Mulakaat,1967,Documentary
+741,Tera Pyaar Ki Baatein,1953,Animation|Sci-Fi
+745,Baazigar Jung Ke Rang,1986,Animation|Comedy|Thriller
+753,Khiladi Zindagi Ki Duniya,1932,Comedy|Drama
+754,Dil Rishta Ka Safar,2014,Adventure|Children's
+764,Raj Dosti Ki Duniya,2013,Drama|Romance
+777,Shree Pyaar Ki Duniya,1976,War
+787,Shree Dosti Ka Raaz,1991,Documentary
+791,Shree Kahani Se Mulakaat,1968,Documentary
+807,Shree Mission Hai,1953,Comedy|Romance
+815,Jab Raat Se Mulakaat,1975,Action|Mystery|Thriller
+821,Hamari Manzil Ka Safar,1962,Romance
+850,Dil Rishta Ka Raaz,1997,Crime|Drama
+864,Jab Manzil Ka Safar,1990,Comedy|Drama
+874,Prem Rishta Ki Kahani,1972,Crime|Drama
+888,Tum Dosti Se Mulakaat,1932,Animation|Children's
+891,Tera Rishta Ka Intezaar,1965,Horror|Thriller
+979,Raj Mission Ki Baatein,1964,Drama|War
+983,Khiladi Mission Ka Safar,1977,Romance
+1039,Chalte Andaz Hai,1972,Documentary
+1087,Aashiq Raat Ki Duniya,1942,Musical
+1108,Jab Dosti Ke Rang,1951,Documentary
+1115,Tum Jung Ka Safar,2012,Comedy|Drama
+1118,Hamari Andaz Ki Baatein,1992,Adventure|Western
+1122,Raj Pyaar Ki Duniya,1983,Documentary
+1138,Ek Kahani Ka Intezaar,1985,Documentary
+1146,Ek Dosti Ka Intezaar,1930,Comedy|Drama
+1170,Chalte Dosti Ki Duniya,1968,Action
+1181,Baazigar Dosti Ki Duniya,1979,Action
+1309,Aashiq Dosti Ki Kahani,1957,Drama|Romance
+1315,Hamari Mission Hai,1944,Documentary
+1318,Chalte Raat Ka Intezaar,1988,Comedy|Drama
+1364,Raj Manzil Ki Duniya,1930,Action
+1421,Prem Dosti Ka Raaz,2014,Documentary
+1549,Tera Kahani Hai,1969,Drama|Romance
+1554,Tera Kahani Ki Baatein,1997,Drama|Romance
+1578,Dil Jung Ki Baatein,1938,Crime
+1692,Hamari Manzil Ka Intezaar,1976,Horror|Sci-Fi
+1720,Tum Rishta Ka Safar,2021,Action|Adventure|Sci-Fi
+1773,Jab Andaz Ka Intezaar,1931,Action|Drama
+2483,Dil Sapna Ki Baatein,1996,Comedy|Horror|Thriller
+2778,Jab Manzil Ki Kahani,1981,Thriller
+2818,Khiladi Pyaar Ka Raaz,2016,Action|War
+3046,Prem Zindagi Ka Raaz,2022,Comedy|Romance
+3477,Baazigar Pyaar Ke Rang,2021,Comedy|Drama
+3573,Chalte Sapna Se Mulakaat,1939,Horror|Sci-Fi
+4884,Tera Sapna Ka Safar,2002,Musical
+4885,Shree Pyaar Hai,1933,Musical
+4886,Prem Jung Hai,1970,Mystery
+4887,Chalte Jung Ki Baatein,1993,Action
+4888,Tera Sapna Ki Baatein,2011,Sci-Fi
+4889,Khiladi Manzil Ka Safar,2003,Drama
+4890,Tum Dosti Ka Intezaar,2009,Action
+4891,Raj Raja Ka Safar,1936,Action
+4892,Baazigar Raat Ki Baatein,1995,Mystery
+4893,Dil Pyaar Hai,2015,Horror
+4894,Prem Zindagi Se Mulakaat,1965,Action
+4895,Hamari Mission Ka Raaz,1935,Adventure
+4896,Shree Sapna Se Mulakaat,1991,Crime
+4897,Jab Raja Ki Duniya,1936,Historical
+4898,Tera Raat Se Mulakaat,1970,Drama
+4899,Ek Jung Ki Baatein,1956,Sci-Fi
+4900,Dil Mission Se Mulakaat,1946,Fantasy
+4901,Jab Dosti Ki Baatein,1995,Sci-Fi
+4902,Baazigar Mission Ki Kahani,1982,Sci-Fi
+4903,Baazigar Pyaar Ke Rang,1948,Musical
+4904,Aashiq Pyaar Ki Duniya,1980,Adventure
+4905,Hamari Zindagi Ke Rang,1942,Crime
+4906,Tera Kahani Se Mulakaat,2020,Musical
+4907,Jab Kahani Se Mulakaat,1956,Mystery
+4908,Shree Zindagi Ka Intezaar,1986,Action
+4909,Aashiq Mission Ka Intezaar,2020,Drama
+4910,Tum Raat Ka Safar,1989,Mystery
+4911,Prem Pyaar Ki Kahani,2021,Horror
+4912,Prem Dosti Ka Safar,1980,Biography
+4913,Prem Kahani Ka Raaz,2000,Thriller
+4914,Chalte Raat Ka Intezaar,1965,Horror
+4915,Tum Manzil Ke Rang,1956,Horror
+4916,Shree Dosti Se Mulakaat,1974,Adventure
+4917,Tera Jung Ka Raaz,1942,Adventure
+4918,Jab Pyaar Ki Baatein,1983,Biography
+4919,Khiladi Jung Se Mulakaat,1943,Drama
+4920,Ek Zindagi Ki Kahani,1949,Fantasy
+4921,Tera Manzil Ka Safar,1977,Crime
+4922,Khiladi Rishta Ki Kahani,2022,Crime
+4923,Chalte Raja Ki Duniya,2010,Horror
+4924,Shree Dosti Ka Safar,1996,Musical
+4925,Aashiq Pyaar Ka Safar,1996,Action
+4926,Hamari Mission Se Mulakaat,1979,Drama
+4927,Baazigar Manzil Ka Safar,2009,Historical
+4928,Hamari Raat Ka Safar,1994,Thriller
+4929,Shree Raja Hai,2001,Horror
+4930,Prem Raat Se Mulakaat,1969,Comedy
+4931,Jab Sapna Ki Kahani,1998,Comedy
+4932,Khiladi Andaz Ki Duniya,1949,Drama
+4933,Dil Rishta Ka Intezaar,1964,Crime
+4934,Baazigar Raat Ki Kahani,1957,Comedy
+4935,Aashiq Zindagi Ka Intezaar,1972,Historical
+4936,Prem Rishta Ki Kahani,1934,Adventure
+4937,Hamari Raja Hai,1968,Crime
+4938,Shree Andaz Ka Safar,2003,Fantasy
+4939,Chalte Mission Ka Safar,1940,Thriller
+4940,Shree Dosti Ka Safar,2021,Romance
+4941,Prem Manzil Ki Duniya,1937,Sci-Fi
+4942,Dil Dosti Ki Duniya,1983,Historical
+4943,Ek Mission Ka Safar,1940,Sci-Fi
+4944,Shree Kahani Ke Rang,1962,Romance
+4945,Baazigar Andaz Se Mulakaat,1953,Mystery
+4946,Tera Pyaar Ki Baatein,1945,Thriller
+4947,Khiladi Mission Ka Intezaar,2014,Romance
+4948,Tum Pyaar Ki Baatein,1973,Romance
+4949,Aashiq Pyaar Ke Rang,1999,Romance
+4950,Dil Dosti Ki Kahani,1930,Horror
+4951,Baazigar Raja Ka Intezaar,1956,Action
+4952,Prem Rishta Hai,1941,Mystery
+4953,Prem Rishta Ki Kahani,2001,Crime
+4954,Raj Pyaar Se Mulakaat,1984,Mystery
+4955,Ek Kahani Se Mulakaat,1943,Crime
+4956,Chalte Kahani Ka Safar,1989,Thriller
+4957,Chalte Mission Ka Safar,1970,Biography
+4958,Aashiq Sapna Ki Kahani,1990,Action
+4959,Jab Sapna Ka Intezaar,2000,Romance
+4960,Tum Raat Ka Safar,1987,Drama
+4961,Ek Pyaar Ka Raaz,1932,Horror
+4962,Chalte Kahani Ki Baatein,1962,Mystery
+4963,Tum Dosti Ki Baatein,2017,Biography
+4964,Khiladi Kahani Ke Rang,1979,Fantasy
+4965,Hamari Dosti Ka Safar,1944,Horror
+4966,Tum Manzil Ka Safar,1934,Musical
+4967,Ek Sapna Ki Baatein,2007,Biography
+4968,Shree Rishta Se Mulakaat,1971,Romance
+4969,Tera Raja Ki Baatein,1939,Mystery
+4970,Aashiq Dosti Ki Baatein,1938,Comedy
+4971,Prem Manzil Ka Intezaar,2017,Adventure
+4972,Hamari Andaz Hai,2020,Thriller
+4973,Raj Sapna Ka Safar,1971,Horror
+4974,Chalte Manzil Ki Duniya,1972,Sci-Fi
+4975,Prem Kahani Ka Raaz,2000,Fantasy
+4976,Tum Manzil Ki Baatein,1957,Horror
+4977,Shree Pyaar Ki Baatein,1938,Horror
+4978,Hamari Rishta Ke Rang,2020,Sci-Fi
+4979,Hamari Mission Ki Baatein,1972,Thriller
+4980,Chalte Kahani Ka Raaz,1982,Crime
+4981,Tera Kahani Ka Safar,1969,Historical
+4982,Baazigar Rishta Ki Duniya,2009,Drama
+4983,Aashiq Rishta Ka Safar,1951,Adventure
+4984,Jab Rishta Ki Baatein,1933,Fantasy
+4985,Prem Dosti Se Mulakaat,1940,Crime
+4986,Dil Manzil Ka Intezaar,1998,Mystery
+4987,Aashiq Zindagi Ka Intezaar,2024,Musical
+4988,Dil Rishta Ki Kahani,2013,Fantasy
+4989,Khiladi Rishta Ka Safar,2016,Adventure
+4990,Dil Rishta Ka Raaz,2024,Comedy
+4991,Shree Dosti Hai,1942,Drama
+4992,Khiladi Dosti Se Mulakaat,1991,Historical
+4993,Shree Jung Ki Baatein,1991,Musical
+4994,Ek Andaz Ki Kahani,1943,Crime
+4995,Aashiq Rishta Ke Rang,1987,Drama
+4996,Jab Pyaar Ka Intezaar,1954,Crime
+4997,Khiladi Zindagi Ke Rang,1958,Fantasy
+4998,Hamari Manzil Hai,1979,Adventure
+4999,Tera Rishta Ka Safar,1952,Adventure
+5000,Baazigar Zindagi Hai,2014,Romance
